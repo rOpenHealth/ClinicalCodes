@@ -1,5 +1,5 @@
-ClinicalCodes
-=============
+ClinicalCodes.org
+=================
 
 An [online clinical codes repository](http://www.clinicalcodes.org) to improve validity and reproducability of medical database research
 
