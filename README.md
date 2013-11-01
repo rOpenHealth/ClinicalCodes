@@ -1,7 +1,7 @@
 ClinicalCodes
 =============
 
-An [online clinical codes repository](www.clinicalcodes.org) to improve validity and reproducability of medical database research
+An [online clinical codes repository](http://www.clinicalcodes.org) to improve validity and reproducability of medical database research
 
 The ClinicalCodes repository aims to hold code lists for all published electronic medical record studies, 
 irrespective of code type (e.g. Read, ICD9-10, SNOMED) and database (CPRD, QReserarch, THIN etc.). 
