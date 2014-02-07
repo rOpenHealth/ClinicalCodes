@@ -5,3 +5,5 @@
 *~
 *.blg
 *.log
+word_drafts
+word_drafts/*
