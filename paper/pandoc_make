@@ -1,0 +1,6 @@
+## Makefile for pandoc conversion
+
+# Pandoc to word for dinosaurs
+pandoc -s -S clinicalcodes.tex -o clinicalcodes.docx --bibliography=clinicalcodes.bib --csl=plos.csl.txt
+
+

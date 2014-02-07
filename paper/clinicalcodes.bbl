@@ -1,0 +1,174 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Purves1996}
+Purves IN (1996) The paperless general practice.
+\newblock BMJ 312: 1112-1113.
+\bibAnnoteFile{Purves1996}
+
+\bibitem{Ashish2009}
+Jha AK, DesRoches CM, Campbell EG, Donelan K, Rao SR, et~al. (2009) Use of
+  electronic health records in u.s. hospitals.
+\newblock New England Journal of Medicine 360: 1628-1638.
+\bibAnnoteFile{Ashish2009}
+
+\bibitem{Herrett2010}
+Herrett E, Thomas SL, Schoonen WM, Smeeth L, Hall AJ (2010) Validation and
+  validity of diagnoses in the general practice research database: a systematic
+  review.
+\newblock British Journal of Clinical Pharmacology 69: 4--14.
+\bibAnnoteFile{Herrett2010}
+
+\bibitem{Nicholson2013}
+Nicholson A, Ford E, Davies KA, Smith HE, Rait G, et~al. (2013) Optimising use
+  of electronic health records to describe the presentation of rheumatoid
+  arthritis in primary care: A strategy for developing code lists.
+\newblock PLoS ONE 8: e54878.
+\bibAnnoteFile{Nicholson2013}
+
+\bibitem{Nicholson2011}
+Nicholson A, Tate AR, Koeling R, Cassell JA (2011) What does validation of
+  cases in electronic record databases mean? the potential contribution of free
+  text.
+\newblock Pharmacoepidemiology and Drug Safety 20: 321--324.
+\bibAnnoteFile{Nicholson2011}
+
+\bibitem{Garcia2009}
+García~Rodríguez LA, Tolosa LB, Ruigómez A, Johansson S, Wallander M (2009)
+  Rheumatoid arthritis in uk primary care: incidence and prior morbidity.
+\newblock Scandinavian Journal of Rheumatology 38: 173-177.
+\bibAnnoteFile{Garcia2009}
+
+\bibitem{Watson2003}
+Watson DJ, Rhodes T, Guess HA (2003) All-cause mortality and vascular events
+  among patients with rheumatoid arthritis, osteoarthritis, or no arthritis in
+  the uk general practice research database.
+\newblock The Journal of Rheumatology 30: 1196-1202.
+\bibAnnoteFile{Watson2003}
+
+\bibitem{Doran2011}
+Doran T, Kontopantelis E, Valderas JM, Campbell S, Roland M, et~al. (2011)
+  Effect of financial incentives on incentivised and non-incentivised clinical
+  activities: longitudinal analysis of data from the uk quality and outcomes
+  framework.
+\newblock BMJ 342.
+\bibAnnoteFile{Doran2011}
+
+\bibitem{Manuel2010}
+Manuel DG, Rosella LC, Stukel TA (2010) Importance of accurately identifying
+  disease in studies using electronic health records.
+\newblock BMJ 341.
+\bibAnnoteFile{Manuel2010}
+
+\bibitem{Gulliford2009}
+Gulliford MC, Charlton J, Ashworth M, Rudd AG, Toschke AM, et~al. (2009)
+  Selection of medical diagnostic codes for analysis of electronic patient
+  records. application to stroke in a primary care database.
+\newblock PLoS ONE 4: e7168.
+\bibAnnoteFile{Gulliford2009}
+
+\bibitem{Bhattarai2012}
+Bhattarai N, Charlton J, Rudisill C, Gulliford MC (2012) Coding, recording and
+  incidence of different forms of coronary heart disease in primary care.
+\newblock PLoS ONE 7: e29776.
+\bibAnnoteFile{Bhattarai2012}
+
+\bibitem{Kontopantelis2014}
+Kontopantelis E, Springate D, Reeves D, Ashcroft DM, Valderas JM, et~al. (2014)
+  Withdrawing performance indicators: retrospective analysis of general
+  practice performance under uk quality and outcomes framework.
+\newblock BMJ 348.
+\bibAnnoteFile{Kontopantelis2014}
+
+\bibitem{Bechhofer2010}
+Bechhofer S, De~Roure D, Gamble M, Goble C, Buchan I (2010) Research objects:
+  Towards exchange and reuse of digital knowledge.
+\newblock Nature Preceedings .
+\bibAnnoteFile{Bechhofer2010}
+
+\bibitem{Wang2013}
+Wang SD (2013) Opportunities and challenges of clinical research in the
+  big-data era: from rct to bct.
+\newblock Journal of Thoracic Disease 5.
+\bibAnnoteFile{Wang2013}
+
+\bibitem{Murdoch2013}
+Murdoch T, Detsky A (2013) The inevitable application of big data to health
+  care.
+\newblock JAMA 309: 1351-1352.
+\bibAnnoteFile{Murdoch2013}
+
+\bibitem{Reeves2014}
+Reeves D, Springate D, Ashcroft D, Ryan R, Doran T, et~al. (2014) Can analyses
+  of electronic patient records be independently and externally validated? the
+  effect of statins on the mortality of patients with ischaemic heart disease:
+  a cohort study with nested case-control analysis.
+\newblock BMJ open - submitted .
+\bibAnnoteFile{Reeves2014}
+
+\bibitem{Bechhofer2013}
+Bechhofer S, Buchan I, De~Roure D, Missier P, Ainsworth J, et~al. (2013) Why
+  linked data is not enough for scientists.
+\newblock Future Generation Computer Systems 29: 599-611.
+\bibAnnoteFile{Bechhofer2013}
+
+\bibitem{Stodden2013}
+Stodden V, Guo P, Ma Z (2013) Toward reproducible computational research: An
+  empirical analysis of data and code policy adoption by journals.
+\newblock PLoS ONE 8: e67111.
+\bibAnnoteFile{Stodden2013}
+
+\bibitem{Pampel2013}
+Pampel H, Vierkant P, Scholze F, Bertelmann R, Kindling M, et~al. (2013) Making
+  research data repositories visible: The re3data.org registry.
+\newblock PLoS ONE 8: e78080.
+\bibAnnoteFile{Pampel2013}
+
+\bibitem{RoyalSoc2012}
+{The Royal Society} (2012).
+\newblock Science as an open enterprise: The royal society science policy
+  centre report 20/12.
+\newblock [Accessed 25 Nov. 2013].
+\bibAnnoteFile{RoyalSoc2012}
+
+\bibitem{EuropeanCommission2012}
+{The European Commission} (2012).
+\newblock Commission recommendation on access to and preservation of scientific
+  information.
+\newblock
+  \urlprefix\url{http://ec.europa.eu/research/science-society/document\_librar%
+y/pdf\_06/recommendation-access-and-preservation-scientific-information\_en.pd%
+f}.
+\newblock [Accessed 25 Nov. 2013].
+\bibAnnoteFile{EuropeanCommission2012}
+
+\bibitem{OfficeSciTech2013}
+{Office of Science and Technology Policy} (2013).
+\newblock Increasing access to the results of federally funded scientific
+  research.
+\newblock
+  \urlprefix\url{http://www.whitehouse.gov/sites/default/files/microsites/ostp%
+/ostp\_public\_access\_memo\_2013.pdf}.
+\newblock [Accessed 25 Nov. 2013].
+\bibAnnoteFile{OfficeSciTech2013}
+
+\bibitem{R2012}
+{R Core Team} (2012) R: A Language and Environment for Statistical Computing.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+\newblock \urlprefix\url{http://www.R-project.org/}.
+\newblock {ISBN} 3-900051-07-0.
+\bibAnnoteFile{R2012}
+
+\end{thebibliography}
