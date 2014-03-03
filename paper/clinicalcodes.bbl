@@ -60,7 +60,7 @@ Reeves D, Springate D, Ashcroft D, Ryan R, Doran T, et~al. (2014) Can analyses
 \bibAnnoteFile{Reeves2014}
 
 \bibitem{Dave2009}
-Dav{\'e} S, Petersen I (2009) Creating medical and drug code lists to identify
+Dav\'{e} S, Petersen I (2009) Creating medical and drug code lists to identify
   cases in primary care databases.
 \newblock Pharmacoepidemiology and Drug Safety 18: 704-707.
 \bibAnnoteFile{Dave2009}
@@ -145,8 +145,9 @@ Nicholson A, Tate AR, Koeling R, Cassell JA (2011) What does validation of
 \bibAnnoteFile{Nicholson2011}
 
 \bibitem{Garcia2009}
-García~Rodríguez LA, Tolosa LB, Ruigómez A, Johansson S, Wallander M (2009)
-  Rheumatoid arthritis in uk primary care: incidence and prior morbidity.
+Garc\'{i}a~Rodr\'{i}guez LA, Tolosa LB, Ruigómez A, Johansson S, Wallander M
+  (2009) Rheumatoid arthritis in uk primary care: incidence and prior
+  morbidity.
 \newblock Scandinavian Journal of Rheumatology 38: 173-177.
 \bibAnnoteFile{Garcia2009}
 
@@ -179,6 +180,14 @@ Hippisley-Cox J, O'Hanlon S (2006).
 \newblock Response to: Tanne J. Diabetes, not obesity, increases risk of death
   in middle age. BMJ 2006; 333: 672.
 \bibAnnoteFile{Hippisley-Cox2006}
+
+\bibitem{Kontopantelis2012}
+Kontopantelis E, Reeves D, Valderas JM, Campbell S, Doran T (2012) Recorded
+  quality of primary care for patients with diabetes in england before and
+  after the introduction of a financial incentive scheme: a longitudinal
+  observational study.
+\newblock BMJ Quality \& Safety .
+\bibAnnoteFile{Kontopantelis2012}
 
 \bibitem{Mulnier2006}
 Mulnier HE, Seaman HE, Raleigh VS, Soedamah-Muthu SS, Colhoun HM, et~al. (2006)
