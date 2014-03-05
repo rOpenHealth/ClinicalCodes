@@ -142,11 +142,10 @@ We have also developed an open-source R package \cite{Springate2014} to automate
 
 %%%  RECYCLING CODELISTS FEATURE IS STILL TO BE IMPLEMENTED!   %%%    
 
-\subsection*{Clinical Codes as research objects}
+\subsection*{Clinical code lists as research objects}
 
-%%%% ro stuff not yet implemented in ClinicalCodes.. %%%%
 
-Research objects are annotated aggregations of data often associated with a scientific publication that facilitate reuse and reproducibility of scientific research \cite{Bechhofer2010}. Following this model, metadata and links to code lists for articles are available as research objects that can be shared across platforms in machine readable form.  In practice, this means that a JSON manifest file is available for each article containing: Article metadata (title, author, abstract, reference, link, doi), article level comments, code list level comments and links to the individual code list files. These research object files are available directly by adding a `/ro' to the URI for an article (e.g. www.clinicalcodes.org/medcodes/article/5/ro).  The research object format is designed to be available without getting in the way of the main method of download that will be required by most users.  The rClinicalCodes R package \cite{Springate2014} enables the automated download of code lists and metadata via the research object file. An example JSON manifest file is shown in the online appendix.
+Research objects are annotated aggregations of data often associated with a scientific publication that facilitate reuse and reproducibility of scientific research \cite{Bechhofer2010}. Following this model, metadata and links to code lists for articles are available as research objects that can be shared across platforms in machine readable form.  In practice, this means that a JSON manifest file is available for each article containing: Article metadata (title, author, abstract, reference, link, doi), article level comments, code list level comments and links to the individual code list files. These research object files are available directly by adding a `/ro' to the URI for an article (e.g. www.clinicalcodes.org/medcodes/article/5/ro).  The research object format is designed to be available without getting in the way of the main method of download that will be required by most users.  The rClinicalCodes R package \cite{Springate2014} enables the automated download of code lists and metadata via the research object file. As an example, the JSON manifest file (research object) for one of the papers in the repository \cite{Kontopantelis2014} is provided in the supporting information.
 
 \section*{Conclusions}
 
@@ -263,6 +262,9 @@ Conceived, designed and built the website and software: DAS. Data collection: DA
 \label{figure3_screenshot}
 \end{figure}
 
+\section*{Supporting Information}
+
+An example research object file. These files can be used to share information from ClinicalCodes to other systems.
 
 \end{document}
 

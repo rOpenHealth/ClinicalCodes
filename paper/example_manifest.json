@@ -1,179 +1,505 @@
 {
-    "timestamp" : "2014-02-04 10:11",
-    "article_URI" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/",
-    "article_ID" : 5,
-    "article_title" : "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework",
-    "article_author" : "Kontopantelis, Evangelos; Springate, David; Reeves, David; Ashcroft, Darren; Valderas, Jose M; Doran, Tim",
-    "article_year" : 2014,
-    "article_type" : "Research article",
-    "article_journal" : "British Medical Journal",
-    "article_doi" : "http://dx.doi.org/10.1136/bmj.g330",
-    "article_link" : "http://www.bmj.com/content/348/bmj.g330?ijkey=AwxEb4LKHleAKNk&keytype=ref",
-    "article_abstract" : "Objectives: To investigate the effect of withdrawing incentives on recorded quality of care, in the context of the UK Quality and Outcomes Framework pay-for-performance scheme. Design: Retrospective longitudinal study. Setting: Data for 644 general practices, from 2004/5 to 2011/12, extracted from the Clinical Practice Research Datalink. Participants: All patients registered with any of the practices over the study period, 13,772,992 in total. Intervention: The removal of financial incentives for aspects of care for patients with asthma, coronary heart disease, diabetes, stroke and psychosis. Main outcome measures: Performance on eight clinical quality indicators withdrawn from a national incentive scheme: influenza immunisation (asthma) and lithium therapy monitoring (psychosis), removed in April 2006; blood pressure monitoring (coronary heart disease, diabetes, stroke), cholesterol level monitoring (coronary heart disease, diabetes) and blood glucose monitoring (diabetes), removed in April 2011. Multilevel mixed effects multiple linear regression models were used to quantify the effect of incentive withdrawal. Results: Mean levels of performance were generally stable after the removal of the incentives, both short- and long-term. For the two indicators removed in April 2006/7, levels in 2011/12 were very close to 2005/6 levels, although a small but statistically significant drop was estimated for influenza immunisation. For five of the six indicators withdrawn in from April 2011/12, there was no significant impact on performance in that year following removal and differences between predicted and observed scores were small. Performance on related outcome indicators retained in the scheme (e.g. blood pressure control) was generally unaffected. Conclusions: Following the removal of incentives, levels of performance across a range of clinical activities generally remained stable. This indicates that health benefits from incentive schemes can potentially be increased by periodically replacing existing indicators with new indicators relating to alternative aspects of care. However, most of the aspects of care we investigated remained indirectly incentivised and further work is required to assess the generalisability of the findings when incentives are fully withdrawn.",
-    "article_fulltext" : true,
-    "article_correspondence_author" : "Evangelos Kontopantelis",
-    "article_correspondence_email" : "e.kontopantelis@manchester.ac.uk",
-    "article_comments" : {
-		"comment" : {
-		    "number" : 1,
-		    "comment_time" : "2014-01-31 13.00",
-		    "comment_author" : "David Springate",
-		    "content" : "From Supplementary material (http://www.bmj.com/content/suppl/2011/06/28/bmj.d3590.DC1/dort834846.w1_default.pdf): Identification of patients for quality indicators For indicator denominators, patients with the relevant conditions were identified using diagnostic Read codes. The Quality and Outcomes Framework reporting rules for practices list acceptable codes for identifying patients with relevant conditions,1 but we included additional codes to avoid underestimating prevalence and to control for changes in coding behaviour following the introduction of the scheme.2 As practices might not have attached diagnostic codes to all relevant patients, we conducted sensitivity analyses by identifying additional patients using relevant management, referral, admission and prescription codes and terms. For example, for the main analysis patients with diabetes were identified using codes beginning C10 (diabetes mellitus), excluding non-diabetic specific codes (e.g. C10F811 – metabolic syndrome). Additional patients for sensitivity analyses were identified using codes relating to diabetic management (e.g. 66A – diabetic monitoring), referral (e.g. 8H4F.00 – referral to diabetologist), complications (e.g. 2BBF – retinal abnormality, diabetes related) or treatment (e.g. repeat prescriptions for insulin). The numbers of additional patients identified were generally small, and the results of the sensitivity analyses did not differ substantially from those of the main analysis. Patients for whom targets were met were identified using relevant Read codes and free-text terms."
-		},
-		"comment" : {
-		    "number" : 2,
-		    "comment_time" : "2014-01-31 13.10",
-		    "comment_author" : "David Springate",
-		    "content" : "If codes are included in the QOF business rules (2009), this is indicated in the 'QOF' column"
-		}
-    },
-    "article_codelists" : {
-	"codelist" : {
-	    "ID" : 67,
-	    "codelist_URI" : "codelist/lithium_therapy/",
-	    "codelist_name" : "lithium_therapy",
-	    "codelist_date" : "2013-01-31",
-	    "codelist_articles" : {
-		"5" : {
-		    "title" : "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework",
-		    "doi" : "http://dx.doi.org/10.1136/bmj.g330",
-		    "year" : 2014
-		}
-	    },
-	    "codelist_comments" : {
-		"comment_1" : {
-		    "comment_time" : "2014-01-31 13.55",
-		    "comment_author" : "David Springate",
-		    "content" : "Codes used to identify patients on lithium therapy"
-		},
-		"comment_2" : {
-		    "comment_time" : "2014-01-31 13.59",
-		    "comment_author" : "David Springate",
-		    "content" : "Also to identify patients meeting QOF indicators MH3 and MH5"
-		}
-
-	    },
-	    "user_fields" : {
-		"user_1" : "resolve_code",
-		"user_2" : "type",
-		"user_3" : null
-	    },
-	    "clinical_codes" : {
-		"code" : {
-		    "name" : "44vE.00",
-		    "coding_system" : "Read",
-		    "description" : "Lithium level therapeutic",
-		    "entity_type" : "diagnostic",
-		    "user_1" : 0,
-		    "user_2" : "MH_3/MH_4"
-		},
-		"code" : {
-		    "name" : "44W8.00",
-		    "coding_system" : "Read",
-		    "description" : "Serum lithium level",
-		    "entity_type" : "diagnostic",
-		    "user_1" : 0,
-		    "user_2" : "MH_3"
-		},
-		"code" : {
-		    "name" : "6657.11",
-		    "coding_system" : "Read",
-		    "description" : "On lithium",
-		    "entity_type" : "diagnostic",
-		    "user_1" : 0,
-		    "user_2" : "On_lithium"
-		},
-		"code" : {
-		    "name" : "665B.00",
-		    "coding_system" : "Read",
-		    "description" : "Lithium stopped",
-		    "entity_type" : "diagnostic",
-		    "user_1" : 1,
-		    "user_2" : "On_lithium"
-		},
-		"code" : {
-		    "name" : "L 130LD",
-		    "coding_system" : "OXMIS",
-		    "description" : "LITHIUM LEVEL HIGH",
-		    "entity_type" : "diagnostic",
-		    "user_1" : 0,
-		    "user_2" : "MH_3"
-		}
-	    }
-	},
-	"codelist" : {
-	    "ID" : 38,
-	    "codelist_URI" : "codelist/asthma_drugs/",
-	    "codelist_name" : "asthma_drugs",
-	    "codelist_date" : "2013-01-31",
-	    "codelist_articles" : {
-		"5" : {
-		    "title" : "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework",
-		    "doi" : "http://dx.doi.org/10.1136/bmj.g330",
-		    "year" : 2014,
-		    "URI" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/"
-		},
-		"6" : {
-		    "title" : "Effect of financial incentives on incentivised and non-incentivised clinical activities: longitudinal analysis of data from the UK Quality and Outcomes Framework",
-		    "doi" : "10.1136/bmj.d3590",
-		    "year" : 2011,
-		    "URI" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/6/"
-		}
-	    },
-	    "codelist_comments" : null,
-	    "user_fields" : {
-		"user_1" : "BNF_code",
-		"user_2" : "BNF_header",
-		"user_3" : "drug_substance_name"
-	    },
-	    "clinical_codes" : {
-		"code" : {
-		    "name" : "10090",
-		    "coding_system" : "CPRD_product_code",
-		    "description" : "BECLOMETASONE EXTRAFINE PARTICLE cfc free inh 50micrograms/actuation",
-		    "entity_type" : "drug",
-		    "user_1" : "3020000",
-		    "user_2" : "Corticosteroids (inhaled for respiratory conditions)",
-		    "user_3" : "BECLOMETASONE DIPROPIONATE"
-		},
-		"code" : {
-		    "name" : "10102",
-		    "coding_system" : "CPRD_product_code",
-		    "description" : "CICLESONIDE cfc free inh 160micrograms/actuation",
-		    "entity_type" : "drug",
-		    "user_1" : "3020000",
-		    "user_2" : "Corticosteroids (inhaled for respiratory conditions)",
-		    "user_3" : "CICLESONIDE"
-		},
-		"code" : {
-		    "name" : "10331",
-		    "coding_system" : "CPRD_product_code",
-		    "description" : "NUELIN liq 60mg/5ml",
-		    "entity_type" : "drug",
-		    "user_1" : "3010300",
-		    "user_2" : "Theophylline",
-		    "user_3" : "THEOPHYLLINE SODIUM GLYCINATE"
-		},
-		"code" : {
-		    "name" : "1087",
-		    "coding_system" : "CPRD_product_code",
-		    "description" : "ASMASAL CLICKHALER dry pdr inh 95micrograms",
-		    "entity_type" : "drug",
-		    "user_1" : "3010101",
-		    "user_2" : "Selective beta-2-agonists",
-		    "user_3" : "SALBUTAMOL SULPHATE"
-		},
-		"code" : {
-		    "name" : "11779",
-		    "coding_system" : "CPRD_product_code",
-		    "description" : "IPRATROPIUM BROMIDE caps + inh 40mcg",
-		    "entity_type" : "drug",
-		    "user_1" : "3010200",
-		    "user_2" : "Antimuscarinic bronchodilators",
-		    "user_3" : "IPRATROPIUM BROMIDE"
-		}
-	    }
-	}
-    }
-    
+    "URI": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5", 
+    "abstract": "Objectives:\r\nTo investigate the effect of withdrawing incentives on recorded quality of care, in the context of the UK Quality and Outcomes Framework pay-for-performance scheme.\r\n\r\nDesign:\r\nRetrospective longitudinal study.\r\n\r\nSetting:\r\nData for 644 general practices, from 2004/5 to 2011/12, extracted from the Clinical Practice Research Datalink.\r\n\r\nParticipants:\r\nAll patients registered with any of the practices over the study period, 13,772,992 in total.\r\n\r\nIntervention:\r\nThe removal of financial incentives for aspects of care for patients with asthma, coronary heart disease, diabetes, stroke and psychosis.\r\n\r\nMain outcome measures:\r\nPerformance on eight clinical quality indicators withdrawn from a national incentive scheme: influenza immunisation (asthma) and lithium therapy monitoring (psychosis), removed in April 2006; blood pressure monitoring (coronary heart disease, diabetes, stroke), cholesterol level monitoring (coronary heart disease, diabetes) and blood glucose monitoring (diabetes), removed in April 2011. Multilevel mixed effects multiple linear regression models were used to quantify the effect of incentive withdrawal.\r\n\r\nResults:\r\nMean levels of performance were generally stable after the removal of the incentives, both short- and long-term. For the two indicators removed in April 2006/7, levels in 2011/12 were very close to 2005/6 levels, although a small but statistically significant drop was estimated for influenza  immunisation. For five of the six indicators withdrawn in from April 2011/12, there was no significant impact on performance in that year following removal and differences between predicted and observed scores were small. Performance on related outcome indicators retained in the scheme (e.g. blood pressure control) was generally unaffected.\r\n\r\nConclusions:\r\nFollowing the removal of incentives, levels of performance across a range of clinical activities generally remained stable. This indicates that health\r\nbenefits from incentive schemes can potentially be increased by periodically replacing existing indicators with new indicators relating to alternative aspects of care. However, most of the aspects of care we investigated remained indirectly incentivised and further work is required to assess the generalisability of the findings when incentives are fully withdrawn.\r\n", 
+    "article_ID": 5, 
+    "article_title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+    "article_type": "Research article", 
+    "authors": "Kontopantelis, Evangelos; Springate, David; Reeves, David; Ashcroft, Darren;  Valderas, Jose M; Doran, Tim", 
+    "codelists": {
+        "angina": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "angina", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/angina/download/", 
+            "comments": {
+                "comment_10": {
+                    "comment": "Codes used to identify patients meeting QOF indicator CHD 2", 
+                    "submit_date": "2014-01-27 11:49:17", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 33, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "asthma_clinicals": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "asthma_clinicals", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/asthma_clinicals/download/", 
+            "comments": {
+                "comment_6": {
+                    "comment": "Asthma diagnosis is defined as a patient having at least one code from [asthma_clinicals] up to the end of the QOF year in question plus at least one code from [asthma_drugs] in the preceding year.  Patients whose most recent clinical code in a year is a resolve code in a given year are not included in the definition.", 
+                    "submit_date": "2014-01-27 10:42:27", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 66, 
+            "user_field_1": "resolve_code", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "asthma_drugs": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "asthma_drugs", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/asthma_drugs/download/", 
+            "comments": {}, 
+            "num_codes": 575, 
+            "user_field_1": "BNF_code", 
+            "user_field_2": "BNF_header", 
+            "user_field_3": "drug_substance_name"
+        }, 
+        "blood_pressure": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "blood_pressure", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/blood_pressure/download/", 
+            "comments": {
+                "comment_13": {
+                    "comment": "Codes for blood pressure measurements.  Used to identify patients meeting criteria for QOF indicators CHD 5, CHD 6, DM 11, DM 12, STROKE 5, STROKE 6", 
+                    "submit_date": "2014-01-27 12:06:58", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 49, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "body_mass_index": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Body_mass_index", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/body_mass_index/download/", 
+            "comments": {
+                "comment_15": {
+                    "comment": "Codes to identify patients meeting QOF indicator DM 2", 
+                    "submit_date": "2014-01-27 12:18:29", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 65, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "chronic_obstructive_pulmonary_disease": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Chronic_obstructive_pulmonary_disease", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/chronic_obstructive_pulmonary_disease/download/", 
+            "comments": {
+                "comment_14": {
+                    "comment": "Codes used to identify patients with COPD. COPD treated as a chronic condition. Patients with any codes from this list prior to the end of a given QOF year are included for that year.", 
+                    "submit_date": "2014-01-27 12:11:50", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 48, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "coronary_heart_disease": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Coronary_Heart_Disease", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/coronary_heart_disease/download/", 
+            "comments": {
+                "comment_12": {
+                    "comment": "Codes used to identify patients with CHD.  CHD treated as a chronic condition.  Patients with any codes from this list prior to the end of a given QOF year are included for that year.", 
+                    "submit_date": "2014-01-27 12:01:47", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 79, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "diabetes": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Diabetes", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/diabetes/download/", 
+            "comments": {
+                "comment_22": {
+                    "comment": "Codes used to identify patients with diabetes. Diabetes is treated as a chronic condition. Patients with any codes from this list prior to the end of a given QOF year are included for that year.", 
+                    "submit_date": "2014-01-27 13:24:31", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 256, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "epilepsy_clinicals": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Epilepsy_clinicals", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/epilepsy_clinicals/download/", 
+            "comments": {
+                "comment_24": {
+                    "comment": "Patients are classed as being diagnosed with epilepsy if they have at least one code from [epilepsy_clinicals] up to the end of the QOF year in question plus at least one code from [epilepsy_drugs] in the preceding year. Patients whose most recent clinical code in a given year is a resolve code are not included in the definition.\r\n", 
+                    "submit_date": "2014-01-27 13:57:53", 
+                    "user_name": "David Springate"
+                }, 
+                "comment_25": {
+                    "comment": "'type' coding:\r\n\r\n'diagnostic' - Used to diagnose condition. \r\n'EPILEPSY_2' - QOF indicator EPILEPSY 2. \r\n'EPILEPSY_3' - QOF indicator EPILEPSY 3. \r\n'EPILEPSY_4' - QOF indicator EPILEPSY 4. ", 
+                    "submit_date": "2014-01-27 13:59:50", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 119, 
+            "user_field_1": "resolve_code", 
+            "user_field_2": "type", 
+            "user_field_3": ""
+        }, 
+        "epilepsy_drugs": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "epilepsy_drugs", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/epilepsy_drugs/download/", 
+            "comments": {}, 
+            "num_codes": 353, 
+            "user_field_1": "BNF_header", 
+            "user_field_2": "BNF_code", 
+            "user_field_3": "drug_substance_name"
+        }, 
+        "exercise_testing": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "exercise_testing", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/exercise_testing/download/", 
+            "comments": {
+                "comment_11": {
+                    "comment": "Codes used to identify patients meeting QOF indicator CHD 2", 
+                    "submit_date": "2014-01-27 11:54:12", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 18, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "hba1c_testing": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "HbA1C_testing", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/hba1c_testing/download/", 
+            "comments": {
+                "comment_21": {
+                    "comment": "QOF indicators DM 5, Dm 6, DM 7", 
+                    "submit_date": "2014-01-27 13:10:10", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 23, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "influenza_immunisation": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "influenza_immunisation", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/influenza_immunisation/download/", 
+            "comments": {
+                "comment_8": {
+                    "comment": "Codes used to identify patients matching QOF indicators ASTHMA 7, CHD 12, COPD 8, DM 18, STROKE 10", 
+                    "submit_date": "2014-01-27 11:04:30", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 5, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "lithium_drugcodes": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Lithium_drugcodes", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/lithium_drugcodes/download/", 
+            "comments": {}, 
+            "num_codes": 23, 
+            "user_field_1": "BNF_header", 
+            "user_field_2": "BNF_code", 
+            "user_field_3": "drug_substance_name"
+        }, 
+        "lithium_therapy": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "lithium_therapy", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/lithium_therapy/download/", 
+            "comments": {}, 
+            "num_codes": 18, 
+            "user_field_1": "resolve_code", 
+            "user_field_2": "type", 
+            "user_field_3": ""
+        }, 
+        "micro-albuminuria_testing": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Micro-albuminuria_testing", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/micro-albuminuria_testing/download/", 
+            "comments": {
+                "comment_16": {
+                    "comment": "QOF indicator DM 13", 
+                    "submit_date": "2014-01-27 12:35:09", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 15, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "neuropathy": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Neuropathy", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/neuropathy/download/", 
+            "comments": {
+                "comment_20": {
+                    "comment": "QOf indicator DM 10", 
+                    "submit_date": "2014-01-27 12:38:53", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 29, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "proteinuria": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Proteinuria", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/proteinuria/download/", 
+            "comments": {
+                "comment_17": {
+                    "comment": "QOF indicator DM 13 exceptions. ", 
+                    "submit_date": "2014-01-27 12:36:27", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 11, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "retinal_screening": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Retinal_screening", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/retinal_screening/download/", 
+            "comments": {
+                "comment_19": {
+                    "comment": "QOF indicator DM 8", 
+                    "submit_date": "2014-01-27 12:37:35", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 67, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "serum_creatine_testing": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "serum_Creatine_testing", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/serum_creatine_testing/download/", 
+            "comments": {
+                "comment_18": {
+                    "comment": "QOF indicator DM 14", 
+                    "submit_date": "2014-01-27 12:37:11", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 12, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "smoking_status": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "smoking_status", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/smoking_status/download/", 
+            "comments": {
+                "comment_9": {
+                    "comment": "Codes used to identify patients meeting QOF indicators ASTHMA 4, ASTHMA 5, CHD 3, CHD 4, COPD 4, COPD 5, DM 3, DM 4, STROKE 3, STROKE 4.\r\n\r\nSmoking_status codes: \r\n0 : Non smoker\r\n1 : Ex smoker\r\n2 : Current smoker", 
+                    "submit_date": "2014-01-27 11:36:16", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 151, 
+            "user_field_1": "smoking_status", 
+            "user_field_2": "cessation_advice", 
+            "user_field_3": ""
+        }, 
+        "spirometry": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "spirometry", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/spirometry/download/", 
+            "comments": {
+                "comment_7": {
+                    "comment": "Codes used to identify patients achieving QOF indicators ASTHMA 2, COPD 2", 
+                    "submit_date": "2014-01-27 10:56:13", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 14, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "stroke": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Stroke", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/stroke/download/", 
+            "comments": {
+                "comment_27": {
+                    "comment": "Codes used to identify Stroke patients. Stroke treated as a chronic condition. Patients with any codes from this list prior to the end of a given QOF year are included for that year.", 
+                    "submit_date": "2014-01-27 14:47:40", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 84, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }, 
+        "thyroid_function": {
+            "associated_articles": {
+                "5": {
+                    "title": "Withdrawing Performance Indicators: Retrospective Analysis of General Practice Performance Under the UKs Quality and Outcomes Framework", 
+                    "year": 2014
+                }
+            }, 
+            "codelist_name": "Thyroid_function", 
+            "codelist_url": "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/thyroid_function/download/", 
+            "comments": {
+                "comment_26": {
+                    "comment": "To be used with codelist [serum_creatine_testing] to define QOF indicator MH 4 (severe mental health)", 
+                    "submit_date": "2014-01-27 14:16:22", 
+                    "user_name": "David Springate"
+                }
+            }, 
+            "num_codes": 82, 
+            "user_field_1": "", 
+            "user_field_2": "", 
+            "user_field_3": ""
+        }
+    }, 
+    "comments": {}, 
+    "correspondence_author": "Evangelos Kontopantelis", 
+    "correspondence_email": "e.kontopantelis@manchester.ac.uk", 
+    "date_accessed": "2014-03-05 09:05:17 GMT", 
+    "doi": "http://dx.doi.org/10.1136/bmj.g330", 
+    "fulltext": true, 
+    "journal": "British Medical Journal", 
+    "link": "http://www.bmj.com/content/348/bmj.g330?ijkey=AwxEb4LKHleAKNk&keytype=ref", 
+    "publication_year": 2014, 
+    "uploading_user": "David Springate"
 }
