@@ -56,8 +56,15 @@ Reeves D, Springate D, Ashcroft D, Ryan R, Doran T, et~al. (2014) Can analyses
   of electronic patient records be independently and externally validated? the
   effect of statins on the mortality of patients with ischaemic heart disease:
   a cohort study with nested case-control analysis.
-\newblock BMJ open - In press .
+\newblock BMJ Open 4: e004952.
 \bibAnnoteFile{Reeves2014}
+
+\bibitem{Langan2013}
+Langan SM, Benchimol EI, Guttmann A, Moher D, Petersen I, et~al. (2013) Setting
+  the record straight: developing a guideline for the reporting of studies
+  conducted using observational routinely collected data.
+\newblock Clinical Epidemiology 5: 29-31.
+\bibAnnoteFile{Langan2013}
 
 \bibitem{Dave2009}
 Dav\'{e} S, Petersen I (2009) Creating medical and drug code lists to identify
@@ -100,7 +107,9 @@ Pampel H, Vierkant P, Scholze F, Bertelmann R, Kindling M, et~al. (2013) Making
 {The Royal Society} (2012).
 \newblock Science as an open enterprise: The royal society science policy
   centre report 20/12.
-\newblock [Accessed 25 Nov. 2013].
+\newblock
+  \urlprefix\url{https://royalsociety.org/policy/projects/science-public-enter%
+prise/report/}.
 \bibAnnoteFile{RoyalSoc2012}
 
 \bibitem{EuropeanCommission2012}
@@ -122,6 +131,13 @@ y/pdf\_06/
   files/microsites/ostp/ostp\_public\_access\_memo\_2013.pdf}.
 \newblock [Accessed 25 Nov. 2013].
 \bibAnnoteFile{OfficeSciTech2013}
+
+\bibitem{vonElm2007}
+von Elm E, Altman DG, Egger M, Pocock SJ, G{\o}tzsche PC, et~al. (2007) The
+  strengthening the reporting of observational studies in epidemiology (strobe)
+  statement: Guidelines for reporting observational studies.
+\newblock Preventive Medicine 45: 247-251.
+\bibAnnoteFile{vonElm2007}
 
 \bibitem{Nicholson2013}
 Nicholson A, Ford E, Davies KA, Smith HE, Rait G, et~al. (2013) Optimising use
@@ -203,10 +219,12 @@ Kontopantelis E, Springate D, Reeves D, Ashcroft DM, Valderas JM, et~al. (2014)
 \bibAnnoteFile{Kontopantelis2014}
 
 \bibitem{Springate2014}
-Springate DA (2014) rClinicalCodes: R tools for integrating with the
-  www.clinicalcodes.org repository.
+Springate DA (2014) rClinicalCodes: R interface the www.clinicalcodes.org
+  repository.
 \newblock Institute for Population Health, University of Manchester.
-\newblock \urlprefix\url{https://github.com/rOpenHealth/rClinicalCodes}.
+\newblock
+  \urlprefix\url{http://cran.r-project.org/web/packages/rClinicalCodes/index.h%
+tml}.
 \bibAnnoteFile{Springate2014}
 
 \bibitem{Bechhofer2010}
@@ -226,6 +244,12 @@ Murdoch T, Detsky A (2013) The inevitable application of big data to health
   care.
 \newblock JAMA 309: 1351-1352.
 \bibAnnoteFile{Murdoch2013}
+
+\bibitem{Morin2012}
+Morin A, Urban J, Adams PD, Foster I, Sali A, et~al. (2012) Shining light into
+  black boxes.
+\newblock Science 336: 159-160.
+\bibAnnoteFile{Morin2012}
 
 \bibitem{R2012}
 {R Core Team} (2012) R: A Language and Environment for Statistical Computing.
