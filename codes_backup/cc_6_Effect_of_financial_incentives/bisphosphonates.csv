@@ -1,0 +1,508 @@
+"","code","coding_system","description","entity","list_name","upload_date","BNF_header","BNF_code","drug_substance_name"
+"1",135001,"GPRD_product_code","CALCITARE inj 160 iu/vial","drug","104 - Bisphosphonates","2014-01-30",NA,9050102,NA
+"2",137001,"GPRD_product_code","CALSYNAR inj 100 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"3",137002,"GPRD_product_code","CALSYNAR inj 200 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"4",236001,"GPRD_product_code","ESTRADIOL + LEVONORGESTREL - TWICE WEEKLY patch 50micrograms + 20micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"5",327001,"GPRD_product_code","ESTRADURIN inj 40mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"6",327002,"GPRD_product_code","ESTRADURIN inj 80mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"7",397009,"GPRD_product_code","ETHINYLESTRADIOL tabs 10micrograms [UCB]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"8",397010,"GPRD_product_code","ETHINYLESTRADIOL tabs 50micrograms [UCB]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"9",397011,"GPRD_product_code","ETHINYLESTRADIOL tabs 1mg [UCB]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"10",428001,"GPRD_product_code","HARMOGEN tabs 1.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"11",441001,"GPRD_product_code","HONVAN tabs 100mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"12",441002,"GPRD_product_code","HONVAN inj 276mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"13",441003,"GPRD_product_code","HONVAN inj 300mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"14",634009,"GPRD_product_code","TAMOXIFEN tabs 10mg [CP PHARM]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"15",634010,"GPRD_product_code","TAMOXIFEN tabs 20mg [CP PHARM]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"16",634011,"GPRD_product_code","TAMOXIFEN tabs 40mg [CP PHARM]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"17",635009,"GPRD_product_code","TAMOXIFEN tabs 20mg [CELLTECH]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"18",635010,"GPRD_product_code","TAMOXIFEN tabs 40mg [CELLTECH]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"19",635011,"GPRD_product_code","TAMOXIFEN tabs 10mg [CELLTECH]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"20",636009,"GPRD_product_code","TAMOXIFEN tabs 10mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"21",636010,"GPRD_product_code","TAMOXIFEN tabs 20mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"22",636011,"GPRD_product_code","TAMOXIFEN tabs 40mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"23",654001,"GPRD_product_code","NOLVADEX tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"24",704001,"GPRD_product_code","OVESTIN tabs 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"25",704002,"GPRD_product_code","OVESTIN tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"26",779001,"GPRD_product_code","PREMARIN tabs 625micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"27",779002,"GPRD_product_code","PREMARIN tabs 1.25mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"28",779003,"GPRD_product_code","PREMARIN tabs 2.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"29",780001,"GPRD_product_code","PREMPAK 0.625 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"30",793009,"GPRD_product_code","ETHINYLESTRADIOL tabs 20micrograms [CP PHARM]","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"31",952001,"GPRD_product_code","NORGESTIMATE + ETHINYLESTRADIOL tabs 250micrograms + 35micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"32",952002,"GPRD_product_code","NORGESTIMATE + ETHINYLESTRADIOL tabs 2mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"33",963001,"GPRD_product_code","CILEST tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"34",977001,"GPRD_product_code","ZOMETA inf 4mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"35",1088001,"GPRD_product_code","ESTRADIOL implant 25mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"36",1088002,"GPRD_product_code","ESTRADIOL implant 50mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"37",1088003,"GPRD_product_code","ESTRADIOL implant 100mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"38",1102001,"GPRD_product_code","MENOPHASE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"39",1107001,"GPRD_product_code","PREMPAK -C 0.625 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"40",1147001,"GPRD_product_code","DROSPIRENONE + ETHINYLESTRADIOL tabs 3mg + 30micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"41",1159001,"GPRD_product_code","PREMPAK 1.25 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"42",1160001,"GPRD_product_code","PREMPAK -C 1.25 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"43",1271001,"GPRD_product_code","MIXOGEN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"44",1300001,"GPRD_product_code","NOLVADEX -D tabs 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"45",1301001,"GPRD_product_code","NOLVADEX -FORTE tabs 40mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"46",1328001,"GPRD_product_code","BENZTRONE inj 1mg/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"47",1328002,"GPRD_product_code","BENZTRONE inj 5mg/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"48",1353009,"GPRD_product_code","TAMOXIFEN tabs 40mg [APS]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"49",1353010,"GPRD_product_code","TAMOXIFEN tabs 10mg [APS]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"50",1353011,"GPRD_product_code","TAMOXIFEN tabs 20mg [APS]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"51",1354009,"GPRD_product_code","TAMOXIFEN tabs 40mg [IVAX]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"52",1354010,"GPRD_product_code","TAMOXIFEN tabs 10mg [IVAX]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"53",1354011,"GPRD_product_code","TAMOXIFEN tabs 20mg [IVAX]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"54",1472001,"GPRD_product_code","BONEFOS caps 400mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"55",1472002,"GPRD_product_code","BONEFOS conc soln inf 300mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"56",1472003,"GPRD_product_code","BONEFOS tabs 800mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"57",1531009,"GPRD_product_code","ESTRADIOL implant 25mg [ORGANON]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"58",1531010,"GPRD_product_code","ESTRADIOL implant 50mg [ORGANON]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"59",1531011,"GPRD_product_code","ESTRADIOL implant 100mg [ORGANON]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"60",1636009,"GPRD_product_code","DIETHYLSTILBESTROL tabs 1mg [TEVA]","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"61",1636010,"GPRD_product_code","DIETHYLSTILBESTROL tabs 5mg [TEVA]","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"62",1790001,"GPRD_product_code","LOESTRIN 20 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"63",1792001,"GPRD_product_code","LOESTRIN 30 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"64",1794001,"GPRD_product_code","LOGYNON tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"65",1796001,"GPRD_product_code","OVRAN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"66",1798001,"GPRD_product_code","OVRAN 30 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"67",1800001,"GPRD_product_code","OVRANETTE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"68",1802001,"GPRD_product_code","TRINORDIOL tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"69",1804001,"GPRD_product_code","NORIMIN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"70",1806001,"GPRD_product_code","BREVINOR tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"71",1810001,"GPRD_product_code","BINOVUM tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"72",1812001,"GPRD_product_code","NEOCON 1/35 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"73",1816001,"GPRD_product_code","OVYSMEN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"74",1818001,"GPRD_product_code","TRINOVUM tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"75",1818002,"GPRD_product_code","TRINOVUM ED tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"76",1821001,"GPRD_product_code","MARVELON tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"77",1823001,"GPRD_product_code","MINILYN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"78",1914001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 35mcg + 500mcg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"79",1914002,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 35mcg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"80",1976009,"GPRD_product_code","TAMOXIFEN tabs 10mg [IVAX]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"81",2006001,"GPRD_product_code","ETHINYLESTRADIOL tabs 10micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"82",2006002,"GPRD_product_code","ETHINYLESTRADIOL tabs 20micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"83",2006003,"GPRD_product_code","ETHINYLESTRADIOL tabs 50micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"84",2052007,"GPRD_product_code","PREMARIN 0.625MG/NORGESTREL 0.15MG MG TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"85",2134001,"GPRD_product_code","ZOLEDRONIC ACID inf 4mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"86",2176007,"GPRD_product_code","OESTROGENS CONJUGATED 25 MG INJ","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"87",2234001,"GPRD_product_code","CLIMAGEST tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"88",2234002,"GPRD_product_code","CLIMAGEST tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"89",2237001,"GPRD_product_code","ZUMENON tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"90",2237002,"GPRD_product_code","ZUMENON tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"91",2240001,"GPRD_product_code","ESTRADIOL + (ESTRADIOL + NORETHISTERONE ACETATE) - TWICE WEEKLY patch 50mcg/24 hr + (50mcg+250mcg/24","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"92",2240002,"GPRD_product_code","ESTRADIOL + (ESTRADIOL + NORETHISTERONE ACETATE) - TWICE WEEKLY treatment pack","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"93",2240003,"GPRD_product_code","ESTRADIOL + (ESTRADIOL + NORETHISTERONE ACETATE) - TWICE WEEKLY patch 50mcg/24 hr + (50mcg+170mcg/24","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"94",2267001,"GPRD_product_code","ESTRACOMBI TTS patch","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"95",2281009,"GPRD_product_code","TAMOXIFEN tabs 10mg [ALPHAR/COX]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"96",2281010,"GPRD_product_code","TAMOXIFEN tabs 20mg [ALPHAR/COX]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"97",2281011,"GPRD_product_code","TAMOXIFEN tabs 40mg [ALPHAR/COX]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"98",2297001,"GPRD_product_code","TRI-MINULET tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"99",2329001,"GPRD_product_code","TRIADENE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"100",2374001,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + NORETHISTERONE) tabs 1mg + (1mg + 1mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"101",2374002,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + NORETHISTERONE) tabs 2mg + (2mg + 1 mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"102",2374003,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + NORETHISTERONE) tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"103",2415001,"GPRD_product_code","DIETHYLSTILBESTROL sugar-coated tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"104",2436001,"GPRD_product_code","SYNPHASE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"105",2479001,"GPRD_product_code","DIANETTE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"106",2517001,"GPRD_product_code","TRISEQUENS tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"107",2517002,"GPRD_product_code","TRISEQUENS forte tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"108",2523001,"GPRD_product_code","GYNOVLAR 21 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"109",2525001,"GPRD_product_code","CONTROVLAR tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"110",2527001,"GPRD_product_code","MINOVLAR 21 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"111",2529001,"GPRD_product_code","MINOVLAR ED tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"112",2533001,"GPRD_product_code","EUGYNON 30 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"113",2535001,"GPRD_product_code","MICROGYNON 30 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"114",2537001,"GPRD_product_code","LOGYNON ED tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"115",2541001,"GPRD_product_code","CYCLO-PROGYNOVA tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"116",2541002,"GPRD_product_code","CYCLO-PROGYNOVA tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"117",2542001,"GPRD_product_code","PROGYNOVA tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"118",2542002,"GPRD_product_code","PROGYNOVA tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"119",2543001,"GPRD_product_code","SCHERING PC4 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"120",2601007,"GPRD_product_code","DISODIUM ETIDRONATE 200 MG TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"121",2627001,"GPRD_product_code","TAMOFEN -10 tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"122",2628001,"GPRD_product_code","TAMOFEN -20 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"123",2629001,"GPRD_product_code","TAMOFEN -40 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"124",2799009,"GPRD_product_code","ETHINYLESTRADIOL tabs 10micrograms [CELLTECH]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"125",2879001,"GPRD_product_code","DIETHYLSTILBESTROL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"126",2879002,"GPRD_product_code","DIETHYLSTILBESTROL tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"127",2879003,"GPRD_product_code","DIETHYLSTILBESTROL sugar-coated tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"128",2906009,"GPRD_product_code","TAMOXIFEN tabs 10mg [SANDOZ]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"129",2906010,"GPRD_product_code","TAMOXIFEN tabs 20mg [SANDOZ]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"130",2906011,"GPRD_product_code","TAMOXIFEN tabs 40mg [SANDOZ]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"131",3077001,"GPRD_product_code","FEMODENE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"132",3095001,"GPRD_product_code","CALCITONIN inj 160 iu/vial","drug","104 - Bisphosphonates","2014-01-30",NA,9050102,NA
+"133",3166009,"GPRD_product_code","TAMOXIFEN tabs 10mg [GEN (UK)]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"134",3166010,"GPRD_product_code","TAMOXIFEN tabs 20mg [GEN (UK)]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"135",3166011,"GPRD_product_code","TAMOXIFEN tabs 40mg [GEN (UK)]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"136",3251001,"GPRD_product_code","ESTRADIOL inj 1mg/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"137",3251002,"GPRD_product_code","ESTRADIOL inj 5mg/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"138",3252001,"GPRD_product_code","ESTRADIOL tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"139",3252002,"GPRD_product_code","ESTRADIOL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"140",3252003,"GPRD_product_code","ESTRADIOL patch 40micrograms/24 hours (1.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"141",3253001,"GPRD_product_code","ESTRADIOL + ESTRONE & ESTRIOL tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"142",3253007,"GPRD_product_code","PREMARIN 1.25MG/NORGESTREL 0.15MG MG TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"143",3254001,"GPRD_product_code","HORMONIN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"144",3255001,"GPRD_product_code","ESTRIOL tabs 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"145",3255002,"GPRD_product_code","ESTRIOL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"146",3390001,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE tabs 625micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"147",3390002,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE tabs 1.25mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"148",3390003,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE tabs 2.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"149",3422001,"GPRD_product_code","CYPROTERONE ACETATE + ETHINYLESTRADIOL tabs 2mg + 35micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,13060202,NA
+"150",3560001,"GPRD_product_code","DESOGESTREL + ETHINYLESTRADIOL tabs 150micrograms + 20micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"151",3560002,"GPRD_product_code","DESOGESTREL + ETHINYLESTRADIOL tabs 150micrograms + 30micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"152",3607001,"GPRD_product_code","DIENESTROL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"153",3607002,"GPRD_product_code","DIENESTROL tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"154",3642009,"GPRD_product_code","TAMOXIFEN tabs 10mg [CO-PHARMA]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"155",3642010,"GPRD_product_code","TAMOXIFEN tabs 20mg [CO-PHARMA]","drug","104 - Bisphosphonates","2014-01-30",NA,8030401,NA
+"156",3865001,"GPRD_product_code","TAMOXIFEN oral soln 10mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"157",4269009,"GPRD_product_code","DIETHYLSTILBESTROL tabs 1mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"158",4301001,"GPRD_product_code","NORGESTREL & CONJUGATED OESTROGENS (EQUINE) tabs 150micrograms + 625micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"159",4301002,"GPRD_product_code","NORGESTREL & CONJUGATED OESTROGENS (EQUINE) tabs 150micrograms + 1.25mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"160",4342001,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + LEVONORGESTREL) tabs 2mg + (2mg + 75micrograms)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"161",4342002,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + LEVONORGESTREL) tabs 1mg + (1mg + 250micrograms)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"162",4351007,"GPRD_product_code","TAMOXIFEN D TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"163",4396001,"GPRD_product_code","NUVELLE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"164",4407009,"GPRD_product_code","TAMOXIFEN tabs 20mg [KENT]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"165",4517001,"GPRD_product_code","POLYESTRADIOL PHOSPHATE inj 40mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"166",4517002,"GPRD_product_code","POLYESTRADIOL PHOSPHATE inj 80mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"167",4603009,"GPRD_product_code","CO-CYPRINDIOL tabs 2mg + 35micrograms [NEOLAB]","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"168",4636007,"GPRD_product_code","OVESTIN .25 MG TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"169",4652001,"GPRD_product_code","FOSFESTROL TETRASODIUM tabs 100mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"170",4652002,"GPRD_product_code","FOSFESTROL TETRASODIUM inj 276mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"171",4652003,"GPRD_product_code","FOSFESTROL TETRASODIUM inj 300mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"172",4659001,"GPRD_product_code","QUINESTRADOL caps 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"173",4660001,"GPRD_product_code","PENTOVIS caps 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"174",4661001,"GPRD_product_code","QUINESTROL tabs 4mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"175",4662001,"GPRD_product_code","ESTROVIS tabs 4mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"176",4695001,"GPRD_product_code","CALCITONIN (SALMON) SYNTHETIC inj 100 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"177",4695002,"GPRD_product_code","CALCITONIN (SALMON) SYNTHETIC inj 200 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"178",4695003,"GPRD_product_code","CALCITONIN (SALMON) SYNTHETIC inj 50 units/ml","drug","104 - Bisphosphonates","2014-01-30",NA,9050102,NA
+"179",4758009,"GPRD_product_code","TAMOXIFEN tabs 10mg [SANDOZ]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"180",4759009,"GPRD_product_code","TAMOXIFEN tabs 20mg [SANDOZ]","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"181",4779009,"GPRD_product_code","CO-CYPRINDIOL tabs 2mg + 35micrograms [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"182",4782001,"GPRD_product_code","TAMOXIFEN tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"183",4782002,"GPRD_product_code","TAMOXIFEN tabs 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"184",4782003,"GPRD_product_code","TAMOXIFEN tabs 40mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"185",4783001,"GPRD_product_code","NOLTAM tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"186",4783002,"GPRD_product_code","NOLTAM tabs 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"187",4828009,"GPRD_product_code","ETHINYLESTRADIOL tabs 2micrograms [UCB]","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"188",5028001,"GPRD_product_code","ESTROPIPATE tabs 1.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"189",5079001,"GPRD_product_code","DIANETTE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,13060202,NA
+"190",5081001,"GPRD_product_code","EVRA patch","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"191",5167009,"GPRD_product_code","CO-CYPRINDIOL tabs 2mg + 35micrograms [SANDOZ]","drug","104 - Bisphosphonates","2014-01-30",NA,13060202,NA
+"192",5215009,"GPRD_product_code","CO-CYPRINDIOL tabs 2mg + 35micrograms [PLIVA]","drug","104 - Bisphosphonates","2014-01-30",NA,13060202,NA
+"193",5226001,"GPRD_product_code","MINULET tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"194",5254001,"GPRD_product_code","MERCILON tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"195",5262001,"GPRD_product_code","CLIMAVAL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"196",5262002,"GPRD_product_code","CLIMAVAL tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"197",5288001,"GPRD_product_code","CONOVA 30 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"198",5480001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 50mcg/24 hours (3.2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"199",5480002,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 25mcg/24 hours (1.6mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"200",5480003,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 75micrograms/24 hours(4.8mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"201",5481001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 25micrograms/24 hours (2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"202",5481002,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 100micrograms/24 hours (8mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"203",5481003,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 25micrograms/24 hours (2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"204",5482001,"GPRD_product_code","ESTRAPAK 50 patch+tab 50mcg/24hours(4mg/unit) + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"205",5483001,"GPRD_product_code","ESTRADERM TTS patch 25micrograms/24 hours (2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"206",5483002,"GPRD_product_code","ESTRADERM TTS patch 50micrograms/24 hours (4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"207",5483003,"GPRD_product_code","ESTRADERM TTS patch 100micrograms/24 hours (8mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"208",5505001,"GPRD_product_code","EMBLON tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"209",5505002,"GPRD_product_code","EMBLON tabs 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"210",5527001,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE & NORGESTREL tabs 625micrograms + 150micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"211",5527002,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE & NORGESTREL tabs 1.25mg + 150micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"212",5601001,"GPRD_product_code","GESTODENE + ETHINYLESTRADIOL tabs 75micrograms + 30micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"213",5601002,"GPRD_product_code","GESTODENE + ETHINYLESTRADIOL tabs 20micrograms + 75micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"214",5723009,"GPRD_product_code","ALENDRONIC ACID tabs 70mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"215",5747007,"GPRD_product_code","CONJUGATED OESTROGENS 625/NORGESTREL 500 MCG TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"216",5754009,"GPRD_product_code","ALENDRONIC ACID tabs 70mg [TEVA]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"217",5780001,"GPRD_product_code","ETHINYLESTRADIOL + ETYNODIOL DIACETATE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"218",5837001,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + NORGESTREL) tabs 2mg + (2mg + 500micrograms)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"219",5838001,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + NORETHISTERONE) & (ESTRADIOL) triphasic tabs 2mg + (2mg + 1mg) + (1mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"220",5838002,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + NORETHISTERONE) & (ESTRADIOL) triphasic forte tabs 4mg + (4mg + 1mg) + (1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"221",5838009,"GPRD_product_code","ALENDRONIC ACID tabs 10mg [TEVA]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"222",5841001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"223",5841002,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 20micrograms + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"224",5841003,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 30micrograms + 1.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"225",5846009,"GPRD_product_code","ALENDRONIC ACID tabs 10mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"226",6101001,"GPRD_product_code","ETHINYLESTRADIOL + LYNOESTRENOL tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"227",6171009,"GPRD_product_code","ALENDRONIC ACID tabs 10mg [GEN (UK)]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"228",6172009,"GPRD_product_code","ALENDRONIC ACID tabs 70mg [GEN (UK)]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"229",6218001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"230",6224009,"GPRD_product_code","CO-CYPRINDIOL tabs 2mg + 35micrograms [SOMEX]","drug","104 - Bisphosphonates","2014-01-30",NA,13060202,NA
+"231",6235007,"GPRD_product_code","CONJUGATED OESTROGENS / NORGESTREL 1.25 MG TAB","drug","104 - Bisphosphonates","2014-01-30",NA,0,NA
+"232",6303001,"GPRD_product_code","ESTRADIOL VALERATE tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"233",6303002,"GPRD_product_code","ESTRADIOL VALERATE tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"234",6307009,"GPRD_product_code","ALENDRONIC ACID ONCE WEEKLY tabs 70mg [PLIVA]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"235",6389009,"GPRD_product_code","ALENDRONIC ACID tabs 70mg [ARROW]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"236",6412009,"GPRD_product_code","ALENDRONIC ACID tabs 10mg [WINTHROP]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"237",6413009,"GPRD_product_code","ALENDRONIC ACID tabs 70mg [WINTHROP]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"238",6421001,"GPRD_product_code","ETHINYLESTRADIOL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"239",6469009,"GPRD_product_code","DIETHYLSTILBESTROL tabs 5mg [HILLCROSS]","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"240",6527009,"GPRD_product_code","ALENDRONIC ACID tabs 70mg [FOCUS]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"241",6528009,"GPRD_product_code","ALENDRONIC ACID tabs 10mg [FOCUS]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"242",6596001,"GPRD_product_code","LORON caps 400mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"243",6596002,"GPRD_product_code","LORON inf 300mg/10ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"244",6596003,"GPRD_product_code","LORON tabs 520mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"245",6597001,"GPRD_product_code","SODIUM CLODRONATE caps 400mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"246",6597002,"GPRD_product_code","SODIUM CLODRONATE inf 300mg/10ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"247",6597003,"GPRD_product_code","SODIUM CLODRONATE conc soln inf 300mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"248",6678009,"GPRD_product_code","ALENDRONIC ACID tabs 10mg [PLIVA]","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"249",6680001,"GPRD_product_code","LIVIAL tabs 2.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"250",6684001,"GPRD_product_code","TIBOLONE tabs 2.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"251",6736001,"GPRD_product_code","FEMODENE ED tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"252",6771001,"GPRD_product_code","MIACALCIC inj 50 units/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"253",6771002,"GPRD_product_code","MIACALCIC inj 100 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,9050102,NA
+"254",6771003,"GPRD_product_code","MIACALCIC inj 200 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"255",6926001,"GPRD_product_code","EVOREL -50 patch 50mcg/24 hours (3.2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"256",6926002,"GPRD_product_code","EVOREL -25 patch 25mcg/24 hours (1.6mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"257",6926003,"GPRD_product_code","EVOREL -75 patch 75micrograms/24 hours(4.8mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"258",7037001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 100mcg/24 hours (6.4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"259",7037002,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 80micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"260",7037003,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 40micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"261",7070001,"GPRD_product_code","OESTRIFEN tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"262",7070002,"GPRD_product_code","OESTRIFEN tabs 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"263",7070003,"GPRD_product_code","OESTRIFEN tabs 40mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"264",7186001,"GPRD_product_code","SODIUM CLODRONATE tabs 520mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"265",7186002,"GPRD_product_code","SODIUM CLODRONATE tabs 800mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"266",7207001,"GPRD_product_code","APSTIL tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"267",7207002,"GPRD_product_code","APSTIL tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"268",7317001,"GPRD_product_code","MESTRANOL + NORETHISTERONE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"269",7413001,"GPRD_product_code","EVOREL PAK treatment pack 50mcg/24hours(3.2mg/unit) + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"270",7414001,"GPRD_product_code","ESTRADIOL + NORETHISTERONE patch+tab 50mcg/24hours(3.2mg/unit) + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"271",7428001,"GPRD_product_code","YASMIN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"272",7514001,"GPRD_product_code","FEMODETTE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"273",7559001,"GPRD_product_code","NUVELLE CONTINUOUS tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"274",7628001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 50micrograms/24 hours (4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"275",7633001,"GPRD_product_code","PROGYNOVA TS 100 patch 100mcg/24 hour (7.6mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"276",7748001,"GPRD_product_code","ESTRADIOL + (ESTRADIOL + NORETHISTERONE ACETATE) tabs 1mg + (1mg + 1mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"277",7778001,"GPRD_product_code","PROGYNOVA TS 25 patch 25micrograms/24 hours (2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"278",7828001,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + DYDROGESTERONE) tabs 1mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"279",7846001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 50mcg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"280",7846002,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 50micrograms + 3mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"281",7914001,"GPRD_product_code","BONDRONAT conc soln inf 2mg/2ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"282",7934001,"GPRD_product_code","EVOREL -100 patch 100mcg/24 hours (6.4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"283",8001001,"GPRD_product_code","CALCITONIN (SALMON) RECOMBINANT inj 100 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"284",8002001,"GPRD_product_code","FORCALTONIN 100 inj 100 iu/ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"285",8121001,"GPRD_product_code","ETHINYLESTRADIOL + NORELGESTROMIN patch 20micrograms + 150micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"286",8123001,"GPRD_product_code","ESTRADIOL VALERATE + NORETHISTERONE (continuous combined) tabs 1mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"287",8124001,"GPRD_product_code","ESTRADIOL VALERATE + NORETHISTERONE (continuous combined) tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"288",8125001,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE (continuous combined) tabs 1mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"289",8128001,"GPRD_product_code","ESTRADIOL VALERATE + NORGESTREL tabs 2mg + 500micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"290",8129001,"GPRD_product_code","ESTRADIOL VALERATE + LEVONORGESTREL tabs 1mg + 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"291",8130001,"GPRD_product_code","ESTRADIOL VALERATE + LEVONORGESTREL tabs 2mg + 75micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"292",8133001,"GPRD_product_code","ESTRADIOL VALERATE + MEDROXYPROGESTERONE ACETATE tabs 2mg + 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"293",8134001,"GPRD_product_code","FEMTAB tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"294",8135001,"GPRD_product_code","FEMTAB SEQUI tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"295",8137001,"GPRD_product_code","FEMTAB CONTINUOUS tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"296",8140001,"GPRD_product_code","FEMTAB tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"297",8213001,"GPRD_product_code","FOSFESTROL TETRASODIUM tabs 120mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"298",8235001,"GPRD_product_code","RISEDRONATE SODIUM tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"299",8235002,"GPRD_product_code","RISEDRONATE SODIUM tabs 30mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"300",8236001,"GPRD_product_code","ACTONEL tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"301",8236002,"GPRD_product_code","ACTONEL tabs 30mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"302",8319001,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE patch+tab 50mcg/24hours(4mg/unit) + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"303",8379001,"GPRD_product_code","MENOREST patch 37.5micrograms/24 hours (3.29mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"304",8379002,"GPRD_product_code","MENOREST patch 50micrograms/24 hours (4.33mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"305",8379003,"GPRD_product_code","MENOREST patch 75micrograms/24hours (6.57mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"306",8453001,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + NORETHISTERONE) tabs 2mg + (2mg + 1mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"307",8466001,"GPRD_product_code","IBANDRONIC ACID conc soln inf 2mg/2ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"308",8520001,"GPRD_product_code","ESTRADIOL VALERATE & (ESTRADIOL VALERATE + MEDROXYPROGESTERONE ACETATE) + PLACEBO tabs 2mg + (2mg + ","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"309",8530001,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + LEVONORGESTREL) ONCE WEEKLY patch 50mcg/24hrs + (50mcg+10mcg/24hrs)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"310",8542001,"GPRD_product_code","FEMATRIX 80 patch 80mcg/24 hours (2.5mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"311",8576001,"GPRD_product_code","KLIOFEM tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"312",8587001,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE (continuous combined) tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"313",8587002,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE (continuous combined) tabs 2mg + 0.7mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"314",8587003,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE (continuous combined) tabs 1mg + 0.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"315",8610001,"GPRD_product_code","FEMOSTON tabs 1mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"316",8610002,"GPRD_product_code","FEMOSTON tabs 2mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"317",8610003,"GPRD_product_code","FEMOSTON tabs 2mg + 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"318",8611001,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + DYDROGESTERONE) tabs 1mg + (1mg + 10mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"319",8611002,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + DYDROGESTERONE) tabs 2mg + (2mg + 10 mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"320",8611003,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + DYDROGESTERONE) tabs 2mg + (2mg + 20mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"321",8621001,"GPRD_product_code","EVISTA FC tab 60mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"322",8648001,"GPRD_product_code","TRIDESTRA tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"323",8649001,"GPRD_product_code","ESTRADIOL VALERATE + MEDROXYPROGESTERONE ACETATE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"324",8649002,"GPRD_product_code","ESTRADIOL VALERATE + MEDROXYPROGESTERONE ACETATE tabs 1mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"325",8649003,"GPRD_product_code","ESTRADIOL VALERATE + MEDROXYPROGESTERONE ACETATE tabs 1mg + 2.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"326",8671001,"GPRD_product_code","ADGYN COMBI tabs 2mg + (2mg + 1mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"327",8692001,"GPRD_product_code","ESTRADIOL & DYDROGESTERONE patch+tab 80mcg/24 hours + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"328",8692002,"GPRD_product_code","ESTRADIOL & DYDROGESTERONE patch+tab 40mcg/24 hours + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"329",8732001,"GPRD_product_code","ETHINYLESTRADIOL + METHYLTESTOSTERONE tabs 4.4micrograms + 3.6mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"330",8780001,"GPRD_product_code","FENTAMOX tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"331",8780002,"GPRD_product_code","FENTAMOX tabs 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"332",8780003,"GPRD_product_code","FENTAMOX tabs 40mg","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"333",8808001,"GPRD_product_code","FOSAMAX tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"334",8808002,"GPRD_product_code","FOSAMAX tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"335",8809001,"GPRD_product_code","ALENDRONIC ACID (AS SODIUM SALT) tabs 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"336",8809002,"GPRD_product_code","ALENDRONIC ACID (AS SODIUM SALT) tabs 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"337",8809003,"GPRD_product_code","ALENDRONIC ACID (AS SODIUM SALT) tabs 70mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"338",8885001,"GPRD_product_code","PREMIQUE tabs 625micrograms + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"339",8886001,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE + MEDROXYPROGESTERONE ACETATE (continuous combined) tabs 625micrograms ","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"340",8902001,"GPRD_product_code","PREMIQUE CYCLE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"341",8903001,"GPRD_product_code","CONJUGAT OESTROGE EQUI & (CONJUGAT OESTROGE EQUI + MEDROXYPROGESTERO ACETAT tab 625 micrograms + (62","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"342",8909001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 37.5micrograms/24 hours (3.29mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"343",8909002,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 50micrograms/24 hours (4.33mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"344",8909003,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 75micrograms/24hours (6.57mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"345",8913001,"GPRD_product_code","ESTRADIOL + (ESTRADIOL + NORETHISTERONE ACETATE) tabs 2mg + (2mg + 1 mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"346",8930001,"GPRD_product_code","ETHINYLESTRADIOL + CYPROTERONE ACETATE tabs 35micrograms + 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"347",8931001,"GPRD_product_code","CO-CYPRINDIOL tabs 2mg + 35micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"348",8945001,"GPRD_product_code","FEMATRIX 40 patch 40micrograms/24 hours (1.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"349",8947001,"GPRD_product_code","FEMAPAK 80 treatment pack 80mcg/24 hours + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"350",9027001,"GPRD_product_code","ETHINYLESTRADIOL + NORGESTIMATE tabs 35micrograms + 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"351",9027002,"GPRD_product_code","ETHINYLESTRADIOL + NORGESTIMATE tabs 2mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"352",9030001,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE tabs 30micrograms + 75micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"353",9030002,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE tabs 20micrograms + 75micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"354",9105001,"GPRD_product_code","FEMSEVEN 50 patch 50micrograms/24 hours(1.5mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"355",9124001,"GPRD_product_code","ELLESTE-SOLO tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"356",9124002,"GPRD_product_code","ELLESTE-SOLO tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"357",9126001,"GPRD_product_code","ELLESTE-DUET tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"358",9126002,"GPRD_product_code","ELLESTE-DUET tabs 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"359",9164001,"GPRD_product_code","ESTRADIOL ONCE WEEKLY patch 50micrograms/24 hours(1.5mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"360",9164002,"GPRD_product_code","ESTRADIOL ONCE WEEKLY patch 50mcg/24hours (3.8 mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"361",9164003,"GPRD_product_code","ESTRADIOL ONCE WEEKLY patch 100mcg/24 hour (7.6mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"362",9165001,"GPRD_product_code","ESTRADIOL ONCE WEEKLY transdermal patch 75micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"363",9165002,"GPRD_product_code","ESTRADIOL ONCE WEEKLY patch 100mcg/24 hours (3.0mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"364",9165003,"GPRD_product_code","ESTRADIOL ONCE WEEKLY transdermal patch 25micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"365",9180001,"GPRD_product_code","PROGYNOVA TS patch 50mcg/24hours (3.8 mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"366",9180002,"GPRD_product_code","PROGYNOVA TS forte patch 100mcg/24 hour (7.6mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"367",9186001,"GPRD_product_code","ESTRADIOL ACETATE vaginal ring 50micrograms/24 hours(12.4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"368",9228001,"GPRD_product_code","IMPROVERA tabs 1.5mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"369",9229001,"GPRD_product_code","PIPERAZINE OESTRONE SULPHATE + MEDROXYPROGESTERONE tabs 1.5mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"370",9239001,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE & PLACEBO tabs 30micrograms + 75micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"371",9242001,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE - TRIPHASIC tabs 6 x 30+50mcg; 5 x 40+70mcg; 10 x 30+100mcg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"372",9249001,"GPRD_product_code","ETHINYLESTRADIOL + DESOGESTREL tabs 20micrograms + 150micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"373",9252001,"GPRD_product_code","ETHINYLESTRADIOL + DESOGESTREL tabs 30micrograms + 150micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"374",9296001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE - TRIPHASIC tabs 7x35+500mcg; 9x35mcg+1mg; 5x35+500mcg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"375",9296002,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE - TRIPHASIC tabs 7 x 35+500mcg; 7 x 35+750mcg; 7 x 35mcg+1mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"376",9341001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL FOR POST-COITAL CONTRACEPTION tabs 50micrograms + 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"377",9345001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs 30micrograms + 150micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"378",9349001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs 30micrograms + 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"379",9352001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs 50micrograms + 250micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"380",9353001,"GPRD_product_code","ESTRADIOL + LEVONORGESTREL - ONCE WEEKLY patch 50micrograms+7micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"381",9354001,"GPRD_product_code","FEMSEVEN CONTI patch","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"382",9355001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL - TRIPHASIC tabs 6x30+50mcg; 5x40+75mcg; 10x30+125mcg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"383",9358001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL - TRIPHASIC + PLACEBO tabs 6x30+50mcg; 5x40+75mcg; 10x30+125mcg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"384",9379001,"GPRD_product_code","FEMAPAK 40 treatment pack 40mcg/24 hours + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"385",9381001,"GPRD_product_code","INDIVINA tabs 1mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"386",9381002,"GPRD_product_code","INDIVINA tabs 1mg + 2.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"387",9381003,"GPRD_product_code","INDIVINA tabs 2mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"388",9382001,"GPRD_product_code","ESTRADIOL VALERATE + MEDROXYPROGESTERONE ACETATE tabs 2mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"389",9433001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE - BIPHASIC tabs 7 x 35mcg+500mcg; 14 x 35mcg+1mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"390",9437001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE & PLACEBO tabs 50mcg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"391",9443001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE - TRIPHASIC & PLACEBO tabs 7 x 35+500mcg; 7 x 35+750mcg; 7 x 35mcg","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"392",9448001,"GPRD_product_code","ACTONEL ONCE A WEEK tabs 35mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"393",9476001,"GPRD_product_code","CLIMESSE tabs 2mg + 0.7mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"394",9634001,"GPRD_product_code","TILUDRONIC ACID tabs 200mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"395",9635001,"GPRD_product_code","SKELID tabs 200mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"396",9752001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 25micrograms/24 hours (0.75mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"397",9752002,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 50micrograms/24 hours(1.5mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"398",9752003,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 100micrograms/24hrs (3.0mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"399",9758001,"GPRD_product_code","ESTRADERM MX patch 25micrograms/24 hours (0.75mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"400",9758002,"GPRD_product_code","ESTRADERM MX patch 50micrograms/24 hours(1.5mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"401",9758003,"GPRD_product_code","ESTRADERM MX patch 100micrograms/24hrs (3.0mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"402",9916001,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE - TWICE WEEKLY patch (50mcg + 170mcg)/24 hr","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"403",10046001,"GPRD_product_code","ADGYN ESTRO tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"404",10196001,"GPRD_product_code","ESTRADIOL + DYDROGESTERONE tabs 1mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"405",10208001,"GPRD_product_code","HONVAN tabs 120mg","drug","104 - Bisphosphonates","2014-01-30",NA,8030100,NA
+"406",10370001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 75micrograms/24 hours (2.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"407",10372001,"GPRD_product_code","ESTRADERM MX patch 75micrograms/24 hours (2.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"408",10417001,"GPRD_product_code","ESTRADIOL + NORETHISTERONE ACETATE (continuous combined) tabs 4mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"409",10418001,"GPRD_product_code","ESTRADIOL + LEVONORGESTREL - ONCE WEEKLY patch 50micrograms + 10micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"410",10481001,"GPRD_product_code","FOSAMAX ONCE WEEKLY tabs 70mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"411",10499001,"GPRD_product_code","MENORING 50 vaginal ring 50micrograms/24 hours(12.4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"412",10530001,"GPRD_product_code","NOVOFEM tabs 1mg + (1mg + 1mg)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"413",10599001,"GPRD_product_code","ESTRADIOL HEMIHYDRATE + NORETHISTERONE tabs 1mg + 0.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"414",10600001,"GPRD_product_code","KLIOVANCE tabs 1mg + 0.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"415",10621001,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE tabs 30micrograms + 100micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"416",10622001,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE tabs 40micrograms + 70micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"417",10624001,"GPRD_product_code","ETHINYLESTRADIOL + NORETHISTERONE tabs 35micrograms + 750micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"418",10637001,"GPRD_product_code","ETHINYLESTRADIOL + GESTODENE tabs 30micrograms + 50micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"419",10639001,"GPRD_product_code","ESTRADIOL tabs 4mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"420",10640001,"GPRD_product_code","ESTRADIOL + DYDROGESTERONE tabs 1mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"421",10641001,"GPRD_product_code","ESTRADIOL + DYDROGESTERONE tabs 2mg + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"422",10642001,"GPRD_product_code","ESTRADIOL + DYDROGESTERONE tabs 2mg + 20mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"423",10658001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs 30micrograms + 50micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"424",10659001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs 30micrograms + 125micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"425",10660001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL tabs 40micrograms + 75micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"426",10678001,"GPRD_product_code","FEMSEVEN SEQUI patch","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"427",10704001,"GPRD_product_code","NORELGESTROMIN + ETHINYLESTRADIOL patch 150micrograms + 20micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"428",10783001,"GPRD_product_code","NUVELLE TS patch","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"429",10786001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL & PLACEBO tabs 30micrograms + 150micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"430",10787001,"GPRD_product_code","ESTRADIOL & (ESTRADIOL + LEVONORGESTREL) TWICE WEEKLY patch 80mcg/24hrs + (50mcg+20mcg/24hr)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"431",10790001,"GPRD_product_code","DERMESTRIL SEPTEM patch 25micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"432",10790002,"GPRD_product_code","DERMESTRIL SEPTEM patch 50micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"433",10790003,"GPRD_product_code","DERMESTRIL SEPTEM patch 75micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"434",10917001,"GPRD_product_code","DERMESTRIL patch 25micrograms/24 hours (2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"435",10917002,"GPRD_product_code","DERMESTRIL patch 50micrograms/24 hours (4mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"436",10917003,"GPRD_product_code","DERMESTRIL patch 100micrograms/24 hours (8mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"437",10919001,"GPRD_product_code","MICROGYNON 30 ED tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"438",10978001,"GPRD_product_code","RISEDRONATE SODIUM tabs 35mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"439",11039001,"GPRD_product_code","SOLTAMOX oral soln 10mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,6050100,NA
+"440",11087001,"GPRD_product_code","ESTRADIOL VALERATE + NORETHISTERONE (continuous combined) tabs 2mg + 0.7mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"441",11110001,"GPRD_product_code","EVOREL CONTI patch (50mcg + 170mcg)/24 hr","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"442",11112001,"GPRD_product_code","EVOREL SEQUI patch","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"443",11112002,"GPRD_product_code","EVOREL SEQUI patch 50mcg/24 hours (3.2mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"444",11164001,"GPRD_product_code","PROGYNOVA TS 50 patch 50mcg/24hours (3.8 mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"445",11171001,"GPRD_product_code","ELLESTE-SOLO MX 40 patch 40micrograms/24 hours (1.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"446",11173001,"GPRD_product_code","ELLESTE-SOLO MX 80 patch 80mcg/24 hours (2.5mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"447",11457001,"GPRD_product_code","RALOXIFENE HCl tabs 60mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"448",11668001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 75micrograms/24 hours (2.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"449",11668002,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 100mcg/24 hours (3.0mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"450",11670001,"GPRD_product_code","FEMSEVEN 75 patch 75micrograms/24 hours (2.25mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"451",11672001,"GPRD_product_code","FEMSEVEN 100 patch 100mcg/24 hours (3.0mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"452",11679001,"GPRD_product_code","ELLESTE-DUET CONTI tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"453",11792001,"GPRD_product_code","FEMOSTON CONTI tabs 1mg + 5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"454",12046001,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE + MEDROXYPROGESTERONE ACETATE tabs 625micrograms + 10mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"455",12066001,"GPRD_product_code","TERIPARATIDE inj 750micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"456",12067001,"GPRD_product_code","FORSTEO inj 750micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"457",12240001,"GPRD_product_code","ETHINYLESTRADIOL tabs 2micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"458",12354001,"GPRD_product_code","IBANDRONIC ACID tabs 50mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"459",12355001,"GPRD_product_code","BONDRONAT FC tab 50mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"460",12393001,"GPRD_product_code","ZOLEDRONIC ACID conc soln inf 4mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"461",12394001,"GPRD_product_code","ZOMETA conc soln inf 4mg/5ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"462",12449001,"GPRD_product_code","CONJUGATED OESTROGENS EQUINE + MEDROXYPROGESTERONE ACETATE (continuous combined) tabs 300micrograms ","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"463",12450001,"GPRD_product_code","PREMIQUE LOW DOSE tabs 300micrograms + 1.5mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"464",12648001,"GPRD_product_code","ACNOCIN tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"465",12844001,"GPRD_product_code","STRONTIUM RANELATE oral susp granules 2g","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"466",12845001,"GPRD_product_code","PROTELOS oral susp granules 2g","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"467",12848001,"GPRD_product_code","IBANDRONIC ACID conc soln inf 6mg/6ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"468",12849001,"GPRD_product_code","BONDRONAT conc soln inf 6mg/6ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"469",12948001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 25 micrograms/24 hours (0.39mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"470",12949001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 37.5micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"471",12950001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 50 micrograms/24 hours (0.78mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"472",12951001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 75 micrograms/24 hours (1.17mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"473",12952001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY patch 100 micrograms/24 hours (1.56mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"474",12953001,"GPRD_product_code","ESTRADOT patch 25 micrograms/24 hours (0.39mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"475",12954001,"GPRD_product_code","ESTRADOT patch 37.5micrograms/24hours (0.585mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"476",12955001,"GPRD_product_code","ESTRADOT patch 50 micrograms/24 hours (0.78mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"477",12956001,"GPRD_product_code","ESTRADOT patch 75 micrograms/24 hours (1.17mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"478",12957001,"GPRD_product_code","ESTRADOT patch 100 micrograms/24 hours (1.56mg/unit)","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"479",13074001,"GPRD_product_code","DIVA tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"480",13167001,"GPRD_product_code","DROSPIRENONE + ESTRADIOL tabs 2mg + 1mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"481",13168001,"GPRD_product_code","ANGELIQ FC tab","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"482",13400001,"GPRD_product_code","ALENDRONIC ACID (AS SODIUM SALT) + COLECALCIFEROL tabs 70mg + 70micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"483",13401001,"GPRD_product_code","FOSAVANCE tabs","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"484",13437001,"GPRD_product_code","IBANDRONIC ACID tabs 150mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"485",13438001,"GPRD_product_code","BONVIVA FC tab 150mg","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"486",13533001,"GPRD_product_code","CICAFEM tabs","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA
+"487",13920001,"GPRD_product_code","IBANDRONIC ACID inj soln 3mg/3ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"488",13923001,"GPRD_product_code","BONVIVA inj soln 3mg/3ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"489",13941001,"GPRD_product_code","BEDOL tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"490",13949001,"GPRD_product_code","CLINORETTE tabs 2mg","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"491",14023001,"GPRD_product_code","ESTRADIOL transdermal patch 25micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"492",14024001,"GPRD_product_code","ESTRADIOL transdermal patch 50micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"493",14025001,"GPRD_product_code","ESTRADIOL transdermal patch 75micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"494",14026001,"GPRD_product_code","ESTRADIOL transdermal patch 100micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"495",14032001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 25micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"496",14033001,"GPRD_product_code","ESTRADIOL ONCE WEEKLY transdermal patch 50micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"497",14034001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 50micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"498",14035001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 75micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"499",14036001,"GPRD_product_code","ESTRADIOL ONCE WEEKLY transdermal patch 100micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"500",14037001,"GPRD_product_code","ESTRADIOL TWICE WEEKLY transdermal patch 100micrograms/24 hours","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"501",14063001,"GPRD_product_code","ZOLEDRONIC ACID soln for inf 5mg/100ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"502",14064001,"GPRD_product_code","ACLASTA soln for inf 5mg/100ml","drug","104 - Bisphosphonates","2014-01-30",NA,6060200,NA
+"503",14135001,"GPRD_product_code","CLAIRETTE 2000/35 tabs","drug","104 - Bisphosphonates","2014-01-30",NA,13060202,NA
+"504",14259001,"GPRD_product_code","PARATHYROID HORMONE pwdr/inj.soln 100micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"505",14260001,"GPRD_product_code","PREOTACT pwdr/inj.soln 100micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,6060100,NA
+"506",14268001,"GPRD_product_code","ETHINYLESTRADIOL caps","drug","104 - Bisphosphonates","2014-01-30",NA,6040101,NA
+"507",14652001,"GPRD_product_code","ETHINYLESTRADIOL + LEVONORGESTREL (IPU) tabs 20micrograms + 100micrograms","drug","104 - Bisphosphonates","2014-01-30",NA,7030100,NA

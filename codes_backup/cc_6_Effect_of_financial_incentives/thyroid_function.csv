@@ -1,0 +1,86 @@
+"","code","coding_system","description","entity","list_name","upload_date","QOF","analysis","tsh"
+"1","442..00","Read","Thyroid hormone tests","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"2","4421.00","Read","Thyroid hormone tests normal","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"3","442..11","Read","TRH level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"4","4421.11","Read","Euthyroid","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"5","442..12","Read","TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"6","442..13","Read","Thyroid function tests","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"7","442..14","Read","Thyroxine binding globulin","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"8","4422.00","Read","Thyroid hormone tests high","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"9","4423.00","Read","Thyroid hormone tests low","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"10","4424.00","Read","Serum T3 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"11","4424000","Read","Serum T3 level normal","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"12","4424100","Read","Serum T3 level high","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"13","4424200","Read","Serum T3 level low","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"14","4425.00","Read","Free T3 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"15","4426.00","Read","Serum T4 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"16","4426000","Read","Serum T4 level normal","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"17","4426100","Read","Serum T4 level abnormal","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"18","4427.00","Read","Free T4 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"19","4428.00","Read","Free thyroxine index","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"20","4429.00","Read","Thyroxine binding globulin-TBG","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"21","442a.00","Read","Plasma total T4 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"22","442A.00","Read","TSH - thyroid stim. hormone","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"23","442A000","Read","Serum TSH level normal","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"24","442A100","Read","Serum TSH level abnormal","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"25","442b.00","Read","Serum total T4 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"26","442B.00","Read","TRH - thyroid release. hormone","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"27","442c.00","Read","Plasma free T4 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"28","442C.00","Read","Thyroid horm tests borderline","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"29","442d.00","Read","Serum thyroglobulin level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"30","442D.00","Read","T3 uptake test","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"31","442D000","Read","T3 uptake test normal","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"32","442D100","Read","T3 uptake test abnormal","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"33","442e.00","Read","Blood spot TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"34","442E.00","Read","PBI - protein bound iodine estimation","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"35","442f.00","Read","Serum total T3 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"36","442F.00","Read","T3 suppression test","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"37","442g.00","Read","Serum thyroglobulin recovery level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"38","442G.00","Read","Thyroid hormone tests abnormal","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"39","442H.00","Read","Thyroid function tests normal","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"40","442I.00","Read","Thyroid function tests abnormal","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"41","442J.00","Read","Thyroid function test","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"42","442K.00","Read","30 minute plasma TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"43","442L.00","Read","60 minute plasma TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"44","442M.00","Read","90 minute plasma TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"45","442N.00","Read","120 minute plasma TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"46","442O.00","Read","150 minute plasma TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"47","442P.00","Read","30 minute serum TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"48","442Q.00","Read","60 minute serum TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"49","442R.00","Read","90 minute serum TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"50","442S.00","Read","120 minute serum TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"51","442T.00","Read","150 minute serum TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"52","442U.00","Read","Serum free triiodothyronine level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"53","442V.","Read","","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"54","442V.00","Read","Serum free T4 level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"55","442W.00","Read","Serum TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"56","442X.00","Read","Plasma TSH level","test","91 - thyroid_function","2014-01-30",1,"Main",1
+"57","442Y.00","Read","Plasma free triiodothyronine level","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"58","442Z.00","Read","Thyroid hormone tests NOS","test","91 - thyroid_function","2014-01-30",1,"Main",0
+"59","R145.00","Read","[D]Thyroid function test abnormal","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"60","R145z00","Read","[D]Thyroid function tests abnormal NOS","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"61","L 112MA","OXMIS","SERUM TSH","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"62","L 112MB","OXMIS","SERUM TSH NORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"63","L 112MC","OXMIS","SERUM TSH ABNORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"64","L 112N","OXMIS","TSH LEVEL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"65","L 112NB","OXMIS","TSH LEVEL NORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"66","L 112NC","OXMIS","TSH LEVEL ABNORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"67","L4000T","OXMIS","SERUM THYROXINE LEVEL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"68","L4000TE","OXMIS","THYROXINE ESTIMATION","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"69","L4021L","OXMIS","T4 LEVEL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"70","L4021LA","OXMIS","T4 LEVEL ABNORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"71","L4021LN","OXMIS","T4 LEVEL NORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"72","L4021PA","OXMIS","T4 TOXICOSIS TEST ABNORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"73","L4021PN","OXMIS","T4 TOXICOSIS TEST NORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"74","L4021PV","OXMIS","T4 TOXICOSIS TEST","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"75","L4031","OXMIS","T3 UPTAKE TEST","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"76","L4031AA","OXMIS","T3 UPTAKE TEST ABNORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"77","L4031AN","OXMIS","T3 UPTAKE TEST NORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"78","L4031HS","OXMIS","T3 SERUM LEVEL INCREASED","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"79","L4031LF","OXMIS","T3 FREE LEVEL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"80","L4031LS","OXMIS","T3 SERUM LEVEL DECREASED","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"81","L4031NM","OXMIS","T3 LEVEL","test","91 - thyroid_function","2014-01-30",0,"Main",0
+"82","L4033F","OXMIS","THYROID FUNCTION TEST","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"83","L4033FA","OXMIS","THYROID FUNCTION TEST ABNORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"84","L4033FN","OXMIS","THYROID FUNCTION TEST NORMAL","test","91 - thyroid_function","2014-01-30",0,"Main",1
+"85","L4071","OXMIS","T3 SUPPRESSION TEST","test","91 - thyroid_function","2014-01-30",0,"Main",0

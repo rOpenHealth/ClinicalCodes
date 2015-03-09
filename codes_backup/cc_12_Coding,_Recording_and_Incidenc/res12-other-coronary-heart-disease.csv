@@ -1,0 +1,60 @@
+"","code","coding_system","description","entity","list_name","upload_date","incidence.percentage","prevalence.percentage"
+"1","14A..00","Read","H/O: cardiovascular disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.3,0.18
+"2","14A3.00","Read","H/O: myocardial infarct <60","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0.13
+"3","14A4.00","Read","H/O: myocardial infarct >60","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0.07
+"4","14AH.00","Read","H/O: Myocardial infarction in last year","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"5","322..00","Read","ECG: myocardial ischaemia","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.06,0.01
+"6","5543","Read","Coronary arteriograph.abnormal","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.24,0.19
+"7","6A2..00","Read","Coronary heart disease annual review","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",5.44,26.13
+"8","6A4..00","Read","Coronary heart disease review","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",1.47,3.99
+"9","792..00","Read","Coronary artery operations","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.36,0.54
+"10","7927100","Read","Repair of aneurysm of coronary artery","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0
+"11","7927400","Read","Exploration of coronary artery","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"12","7927500","Read","Open angioplasty of coronary artery","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.19,0.19
+"13","7927z00","Read","Other open operation on coronary artery NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"14","792A.00","Read","Diagnostic transluminal operations on coronary artery","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0.01
+"15","792A100","Read","Intravascular ultrasound of coronary artery","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"16","792Ay00","Read","Diagnostic transluminal operation on coronary artery OS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"17","792Az00","Read","Diagnostic transluminal operation on coronary artery NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"18","792B.00","Read","Repair of coronary artery NEC","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0
+"19","792B000","Read","Endarterectomy of coronary artery NEC","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.09,0.02
+"20","792z.00","Read","Coronary artery operations NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0.04
+"21","8B3k.00","Read","Coronary heart disease medication review","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.24,0.68
+"22","8B63.11","Read","Aspirin prophylaxis - IHD","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",4.02,3.09
+"23","9Ob0.00","Read","Attends coronary heart disease monitoring","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0.29
+"24","G3...00","Read","Ischaemic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",15.47,10.03
+"25","G31..00","Read","Other acute and subacute ischaemic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"26","G3...11","Read","Arteriosclerotic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0.01
+"27","G311.00","Read","Preinfarction syndrome","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.04,0.04
+"28","G3...12","Read","Atherosclerotic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.05,0.16
+"29","G3...13","Read","IHD - Ischaemic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",5.54,5.09
+"30","G31y.00","Read","Other acute and subacute ischaemic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"31","G31yz00","Read","Other acute and subacute ischaemic heart disease NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0
+"32","G332.00","Read","Coronary artery spasm","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.13,0.03
+"33","G34..00","Read","Other chronic ischaemic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.05,0.02
+"34","G340.00","Read","Coronary atherosclerosis","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.31,0.07
+"35","G340000","Read","Single coronary vessel disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.31,0.19
+"36","G340100","Read","Double coronary vessel disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.24,0.15
+"37","G340.11","Read","Triple vessel disease of the heart","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.27,0.36
+"38","G340.12","Read","Coronary artery disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",1.98,0.92
+"39","G341.00","Read","Aneurysm of heart","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"40","G341000","Read","Ventricular cardiac aneurysm","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0.02
+"41","G341100","Read","Other cardiac wall aneurysm","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0
+"42","G341.11","Read","Cardiac aneurysm","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"43","G341200","Read","Aneurysm of coronary vessels","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"44","G341z00","Read","Aneurysm of heart NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"45","G342.00","Read","Atherosclerotic cardiovascular disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0
+"46","G343.00","Read","Ischaemic cardiomyopathy","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.05,0.04
+"47","G34y000","Read","Chronic coronary insufficiency","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0,0
+"48","G34y100","Read","Chronic myocardial ischaemia","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.02,0.01
+"49","G34z.00","Read","Other chronic ischaemic heart disease NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0
+"50","G34z000","Read","Asymptomatic coronary heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.05,0.09
+"51","G37..00","Read","Cardiac syndrome X","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.08,0.07
+"52","G3y..00","Read","Other specified ischaemic heart disease","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0.01
+"53","G3z..00","Read","Ischaemic heart disease NOS","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",1.34,0.49
+"54","Gyu3.00","Read","[X]Ischaemic heart diseases","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.08,0.03
+"55","SP07600","Read","Coronary artery bypass graft occlusion","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.12,0.18
+"56","ZV45700","Read","[V]Presence of aortocoronary bypass graft","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0
+"57","ZV45800","Read","[V]Presence of coronary angioplasty implant and graft","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.01,0.03
+"58","ZV45K00","Read","[V]Presence of coronary artery bypass graft","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.04,0.09
+"59","ZV45K11","Read","[V]Presence of coronary artery bypass graft - CABG","diagnostic","144 - res12: Other Coronary Heart Disease","2014-07-10",0.07,0.16

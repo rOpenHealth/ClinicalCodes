@@ -1,0 +1,53 @@
+"","code","coding_system","description","entity","list_name","upload_date","final"
+"1","23D2.11","Read","O/E - bronchospasm","drug","115 - hypotension drugs","2014-01-30",1
+"2","2422.00","Read","O/E - pulse rate - bradycardia","drug","115 - hypotension drugs","2014-01-30",1
+"3","2422.11","Read","O/E - bradycardia","drug","115 - hypotension drugs","2014-01-30",1
+"4","8624.00","Read","Hypothermia with hypotension","drug","115 - hypotension drugs","2014-01-30",2
+"5","B540.11","Read","Phaeochromocytoma","drug","115 - hypotension drugs","2014-01-30",1
+"6","B7H0000","Read","Benign phaeochromocytoma","drug","115 - hypotension drugs","2014-01-30",1
+"7","BBD9.00","Read","[M]Phaeochromocytoma NOS","drug","115 - hypotension drugs","2014-01-30",1
+"8","BBDA.00","Read","[M]Phaeochromocytoma; malignant","drug","115 - hypotension drugs","2014-01-30",1
+"9","C362000","Read","Metabolic acidosis NEC","drug","115 - hypotension drugs","2014-01-30",1
+"10","F130300","Read","Parkinsonism with orthostatic hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"11","G331.00","Read","Prinzmetal's angina","drug","115 - hypotension drugs","2014-01-30",1
+"12","G57y000","Read","Persistent sinus bradycardia","drug","115 - hypotension drugs","2014-01-30",1
+"13","G57y100","Read","Severe sinus bradycardia","drug","115 - hypotension drugs","2014-01-30",1
+"14","G57y300","Read","Sick sinus syndrome","drug","115 - hypotension drugs","2014-01-30",1
+"15","G87..00","Read","Hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"16","G870.00","Read","Orthostatic hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"17","G870.11","Read","Postural hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"18","G871.00","Read","Chronic hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"19","G872.00","Read","Idiopathic hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"20","G873.00","Read","Hypotension due to drugs","drug","115 - hypotension drugs","2014-01-30",1
+"21","G87z.00","Read","Hypotension NOS","drug","115 - hypotension drugs","2014-01-30",1
+"22","Gyu9000","Read","[X]Other hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"23","H061200","Read","Acute bronchiolitis with bronchospasm","drug","115 - hypotension drugs","2014-01-30",1
+"24","H5y1600","Read","Bronchospasm","drug","115 - hypotension drugs","2014-01-30",1
+"25","L263.12","Read","Fetal bradycardia","drug","115 - hypotension drugs","2014-01-30",1
+"26","L263A00","Read","Maternal care for fetal bradycardia during pregnancy","drug","115 - hypotension drugs","2014-01-30",1
+"27","L392.00","Read","Maternal hypotension syndrome","drug","115 - hypotension drugs","2014-01-30",1
+"28","L392000","Read","Maternal hypotension syndrome unspecified","drug","115 - hypotension drugs","2014-01-30",1
+"29","L392100","Read","Maternal hypotension syndrome - delivered","drug","115 - hypotension drugs","2014-01-30",1
+"30","L392200","Read","Maternal hypotension syndrome - delivered with p/n problem","drug","115 - hypotension drugs","2014-01-30",1
+"31","L392300","Read","Maternal hypotension syndrome with antenatal problem","drug","115 - hypotension drugs","2014-01-30",1
+"32","L392400","Read","Maternal hypotension syndrome with postnatal problem","drug","115 - hypotension drugs","2014-01-30",1
+"33","L392z00","Read","Maternal hypotension syndrome NOS","drug","115 - hypotension drugs","2014-01-30",1
+"34","Q448.00","Read","Newborn late metabolic acidosis","drug","115 - hypotension drugs","2014-01-30",1
+"35","Q48C.00","Read","Neonatal hypotension","drug","115 - hypotension drugs","2014-01-30",1
+"36","R055100","Read","[D]Cardiogenic shock","drug","115 - hypotension drugs","2014-01-30",1
+"37","R059.00","Read","[D]Sinus bradycardia","drug","115 - hypotension drugs","2014-01-30",1
+"38","R05W.00","Read","[D] Bradycardia; unspecified","drug","115 - hypotension drugs","2014-01-30",1
+"39","Ryu0600","Read","[X]Bradycardia; unspecified","drug","115 - hypotension drugs","2014-01-30",1
+"40","2552","OXMIS","PHAEOCHROMOCYTOMA","drug","115 - hypotension drugs","2014-01-30",1
+"41","4139PB","OXMIS","PRINZMETAL'S ANGINA","drug","115 - hypotension drugs","2014-01-30",1
+"42","4279BR","OXMIS","SINUS BRADYCARDIA","drug","115 - hypotension drugs","2014-01-30",1
+"43","4279G","OXMIS","BRADYCARDIA","drug","115 - hypotension drugs","2014-01-30",1
+"44","4279PK","OXMIS","SICK SINUS SYNDROME","drug","115 - hypotension drugs","2014-01-30",1
+"45","4580","OXMIS","HYPOTENSION","drug","115 - hypotension drugs","2014-01-30",1
+"46","4580A","OXMIS","POSTURAL HYPOTENSION","drug","115 - hypotension drugs","2014-01-30",1
+"47","4580AB","OXMIS","HYPOTENSION FIRST DOSE","drug","115 - hypotension drugs","2014-01-30",2
+"48","4580T","OXMIS","HYPOTENSION ORTHOSTATIC","drug","115 - hypotension drugs","2014-01-30",1
+"49","5199AL","OXMIS","BRONCHOSPASM ALLERGIC","drug","115 - hypotension drugs","2014-01-30",1
+"50","5199B","OXMIS","BRONCHOSPASM","drug","115 - hypotension drugs","2014-01-30",1
+"51","7886M","OXMIS","METABOLIC ACIDOSIS","drug","115 - hypotension drugs","2014-01-30",1
+"52","9779PH","OXMIS","HYPOTENSION POSTURAL DRUG INDUCED","drug","115 - hypotension drugs","2014-01-30",2

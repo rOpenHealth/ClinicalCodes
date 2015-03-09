@@ -1,0 +1,48 @@
+"","code","coding_system","description","entity","list_name","upload_date","incidence.percentage","prevalence.percentage"
+"1","323..00","Read","ECG: myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.07,0
+"2","323Z.00","Read","ECG: myocardial infarct NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0
+"3","G30..00","Read","Acute myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",9.48,2
+"4","G300.00","Read","Acute anterolateral infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.13,0.03
+"5","G301.00","Read","Other specified anterior myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.13,0.03
+"6","G301000","Read","Acute anteroapical infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.01,0
+"7","G30..11","Read","Attack - heart","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"8","G301100","Read","Acute anteroseptal infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.06,0.02
+"9","G30..12","Read","Coronary thrombosis","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.04,0.01
+"10","G30..13","Read","Cardiac rupture following myocardial infarction (MI)","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"11","G30..14","Read","Heart attack","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.06,0.05
+"12","G30..15","Read","MI - acute myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",6,1.31
+"13","G30..16","Read","Thrombosis - coronary","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.01,0.01
+"14","G30..17","Read","Silent myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.05,0
+"15","G301z00","Read","Anterior myocardial infarction NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.32,0.03
+"16","G302.00","Read","Acute inferolateral infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.09,0.01
+"17","G303.00","Read","Acute inferoposterior infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.05,0
+"18","G304.00","Read","Posterior myocardial infarction NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.05,0.01
+"19","G305.00","Read","Lateral myocardial infarction NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0.01
+"20","G306.00","Read","True posterior myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.01,0
+"21","G307.00","Read","Acute subendocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.1,0.02
+"22","G307000","Read","Acute non-Q wave infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.05,0.02
+"23","G307100","Read","Acute non-ST segment elevation myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",4.07,0.93
+"24","G308.00","Read","Inferior myocardial infarction NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.93,0.2
+"25","G309.00","Read","Acute Q-wave infarct","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"26","G30A.00","Read","Mural thrombosis","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.01,0.02
+"27","G30B.00","Read","Acute posterolateral myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0
+"28","G30X.00","Read","Acute transmural myocardial infarction of unspecif site","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0
+"29","G30X000","Read","Acute ST segment elevation myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",1.56,0.17
+"30","G30y.00","Read","Other acute myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"31","G30y200","Read","Acute septal infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"32","G30yz00","Read","Other acute myocardial infarction NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"33","G30z.00","Read","Acute myocardial infarction NOS","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",1.65,0.42
+"34","G310.00","Read","Postmyocardial infarction syndrome","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0
+"35","G310.11","Read","Dressler's syndrome","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0.01
+"36","G31y300","Read","Transient myocardial ischaemia","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0.01
+"37","G32..00","Read","Old myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.39,0.24
+"38","G32..11","Read","Healed myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.01,0
+"39","G32..12","Read","Personal history of myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.03,0.08
+"40","G344.00","Read","Silent myocardial ischaemia","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.03,0
+"41","G35..00","Read","Subsequent myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0.01
+"42","G350.00","Read","Subsequent myocardial infarction of anterior wall","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0
+"43","G351.00","Read","Subsequent myocardial infarction of inferior wall","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0
+"44","G360.00","Read","Haemopericardium/current comp folow acut myocard infarct","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.01,0
+"45","G361.00","Read","Atrial septal defect/curr comp folow acut myocardal infarct","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0
+"46","G38..00","Read","Postoperative myocardial infarction","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0.02,0.01
+"47","G381.00","Read","Postoperative transmural myocardial infarction inferior wall","diagnostic","143 - res12: Myocardial_infarction","2014-07-10",0,0

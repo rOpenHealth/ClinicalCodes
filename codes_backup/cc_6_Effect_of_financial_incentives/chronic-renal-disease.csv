@@ -1,0 +1,8 @@
+"","code","coding_system","description","entity","list_name","upload_date","QOF","analysis"
+"1","1Z12.00","Read","Chronic kidney disease stage 3","diagnostic","84 - chronic renal disease","2014-01-30",1,"Main"
+"2","1Z13.00","Read","Chronic kidney disease stage 4","diagnostic","84 - chronic renal disease","2014-01-30",1,"Main"
+"3","1Z14.00","Read","Chronic kidney disease stage 5","diagnostic","84 - chronic renal disease","2014-01-30",1,"Main"
+"4","D215000","Read","Anaemia secondary to chronic renal failure","diagnostic","84 - chronic renal disease","2014-01-30",0,"Sensitivity"
+"5","K05..00","Read","Chronic renal failure","diagnostic","84 - chronic renal disease","2014-01-30",0,"Main"
+"6","Kyu2100","Read","[X]Other chronic renal failure","diagnostic","84 - chronic renal disease","2014-01-30",0,"Main"
+"7","5932EC","OXMIS","CHRONIC RENAL FAILURE","diagnostic","84 - chronic renal disease","2014-01-30",0,"Main"

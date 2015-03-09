@@ -1,0 +1,24 @@
+"","code","coding_system","description","entity","list_name","upload_date","analysis","level_check","therapeutic"
+"1","44vE.00","Read","Lithium level therapeutic","diagnostic","99 - Lithium levels","2014-01-30","",1,1
+"2","44W8.00","Read","Serum lithium level","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"3","44W8000","Read","Lithium level therapeutic","diagnostic","99 - Lithium levels","2014-01-30","",1,1
+"4","44W8100","Read","Lithium level high - toxic","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"5","44W8.11","Read","Lithium: blood level","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"6","44W8200","Read","Lithium level low","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"7","46P3.00","Read","Urine lithium","diagnostic","99 - Lithium levels","2014-01-30","",0,0
+"8","6657.00","Read","On lithium","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0
+"9","6657.11","Read","Lithium monitoring","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0
+"10","6657.12","Read","Started lithium","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0
+"11","665B.00","Read","Lithium stopped","diagnostic","99 - Lithium levels","2014-01-30","Resolve",0,0
+"12","d615.00","Read","","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0
+"13","d616.00","Read","","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0
+"14","d61z.00","Read","","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0
+"15","R105300","Read","[D]Lithium; blood level abnormal","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"16","9859","OXMIS","TOXICITY LITHIUM","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"17","L 130L","OXMIS","SERUM LITHIUM LEVEL","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"18","L 130L9","OXMIS","LITHIUM LEVEL (mmol/l)","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"19","L 130LA","OXMIS","LITHIUM LEVEL","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"20","L 130LB","OXMIS","LITHIUM LEVEL LOW","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"21","L 130LC","OXMIS","LITHIUM LEVEL THERAPEUTIC","diagnostic","99 - Lithium levels","2014-01-30","",1,1
+"22","L 130LD","OXMIS","LITHIUM LEVEL HIGH","diagnostic","99 - Lithium levels","2014-01-30","",1,0
+"23","T3551CA","OXMIS","LITHIUM THERAPY","diagnostic","99 - Lithium levels","2014-01-30","Main",0,0

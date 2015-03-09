@@ -1,0 +1,122 @@
+"","code","coding_system","description","entity","list_name","upload_date","status","cessation_advice"
+"1","137..00","Read","Tobacco consumption","observation","90 - smoking_status","2014-01-30",1,0
+"2","1371.00","Read","Never smoked tobacco","observation","90 - smoking_status","2014-01-30",1,0
+"3","137..11","Read","Smoker - amount smoked","observation","90 - smoking_status","2014-01-30",1,0
+"4","1371.11","Read","Non-smoker","observation","90 - smoking_status","2014-01-30",1,0
+"5","1372.00","Read","Trivial smoker - < 1 cig/day","observation","90 - smoking_status","2014-01-30",1,0
+"6","1372.11","Read","Occasional smoker","observation","90 - smoking_status","2014-01-30",1,0
+"7","1373.00","Read","Light smoker - 1-9 cigs/day","observation","90 - smoking_status","2014-01-30",1,0
+"8","1374.00","Read","Moderate smoker - 10-19 cigs/d","observation","90 - smoking_status","2014-01-30",1,0
+"9","1375.00","Read","Heavy smoker - 20-39 cigs/day","observation","90 - smoking_status","2014-01-30",1,0
+"10","1376.00","Read","Very heavy smoker - 40+cigs/d","observation","90 - smoking_status","2014-01-30",1,0
+"11","1377.00","Read","Ex-trivial smoker (<1/day)","observation","90 - smoking_status","2014-01-30",1,0
+"12","1378.00","Read","Ex-light smoker (1-9/day)","observation","90 - smoking_status","2014-01-30",1,0
+"13","1379.00","Read","Ex-moderate smoker (10-19/day)","observation","90 - smoking_status","2014-01-30",1,0
+"14","137a.00","Read","Pipe tobacco consumption","observation","90 - smoking_status","2014-01-30",1,0
+"15","137A.00","Read","Ex-heavy smoker (20-39/day)","observation","90 - smoking_status","2014-01-30",1,0
+"16","137b.00","Read","Ready to stop smoking","observation","90 - smoking_status","2014-01-30",1,0
+"17","137B.00","Read","Ex-very heavy smoker (40+/day)","observation","90 - smoking_status","2014-01-30",1,0
+"18","137c.00","Read","Thinking about stopping smoking","observation","90 - smoking_status","2014-01-30",1,0
+"19","137C.00","Read","Keeps trying to stop smoking","observation","90 - smoking_status","2014-01-30",1,0
+"20","137d.00","Read","Not interested in stopping smoking","observation","90 - smoking_status","2014-01-30",1,0
+"21","137D.00","Read","Admitted tobacco cons untrue ?","observation","90 - smoking_status","2014-01-30",1,0
+"22","137e.00","Read","Smoking restarted","observation","90 - smoking_status","2014-01-30",1,0
+"23","137f.00","Read","Reason for restarting smoking","observation","90 - smoking_status","2014-01-30",1,0
+"24","137F.00","Read","Ex-smoker - amount unknown","observation","90 - smoking_status","2014-01-30",1,0
+"25","137g.00","Read","Cigarette pack-years","observation","90 - smoking_status","2014-01-30",1,0
+"26","137G.00","Read","Trying to give up smoking","observation","90 - smoking_status","2014-01-30",1,0
+"27","137h.00","Read","Minutes from waking to first tobacco consumption","observation","90 - smoking_status","2014-01-30",1,0
+"28","137H.00","Read","Pipe smoker","observation","90 - smoking_status","2014-01-30",1,0
+"29","137J.00","Read","Cigar smoker","observation","90 - smoking_status","2014-01-30",1,0
+"30","137K.00","Read","Stopped smoking","observation","90 - smoking_status","2014-01-30",1,0
+"31","137L.0","Read","","observation","90 - smoking_status","2014-01-30",1,0
+"32","137L.00","Read","Current non-smoker","observation","90 - smoking_status","2014-01-30",1,0
+"33","137M.00","Read","Rolls own cigarettes","observation","90 - smoking_status","2014-01-30",1,0
+"34","137N.00","Read","Ex pipe smoker","observation","90 - smoking_status","2014-01-30",1,0
+"35","137O.00","Read","Ex cigar smoker","observation","90 - smoking_status","2014-01-30",1,0
+"36","137P.00","Read","Cigarette smoker","observation","90 - smoking_status","2014-01-30",1,0
+"37","137P.11","Read","Smoker","observation","90 - smoking_status","2014-01-30",1,0
+"38","137Q.00","Read","Smoking started","observation","90 - smoking_status","2014-01-30",1,0
+"39","137Q.11","Read","Smoking restarted","observation","90 - smoking_status","2014-01-30",1,0
+"40","137R.00","Read","Current smoker","observation","90 - smoking_status","2014-01-30",1,0
+"41","137S.00","Read","Ex smoker","observation","90 - smoking_status","2014-01-30",1,0
+"42","137T.00","Read","Date ceased smoking","observation","90 - smoking_status","2014-01-30",1,0
+"43","137U.00","Read","Not a passive smoker","observation","90 - smoking_status","2014-01-30",1,0
+"44","137V.00","Read","Smoking reduced","observation","90 - smoking_status","2014-01-30",1,0
+"45","137X.00","Read","Cigarette consumption","observation","90 - smoking_status","2014-01-30",1,0
+"46","137Y.00","Read","Cigar consumption","observation","90 - smoking_status","2014-01-30",1,0
+"47","137Z.00","Read","Tobacco consumption NOS","observation","90 - smoking_status","2014-01-30",1,0
+"48","13p..00","Read","Smoking cessation milestones","observation","90 - smoking_status","2014-01-30",0,1
+"49","13p0.00","Read","Negotiated date for cessation of smoking","observation","90 - smoking_status","2014-01-30",0,1
+"50","13p1.00","Read","Smoking status at 4 weeks","observation","90 - smoking_status","2014-01-30",0,1
+"51","13p2.00","Read","Smoking status between 4 and 52 weeks","observation","90 - smoking_status","2014-01-30",0,1
+"52","13p3.00","Read","Smoking status at 52 weeks","observation","90 - smoking_status","2014-01-30",0,1
+"53","13p4.00","Read","Smoking free weeks","observation","90 - smoking_status","2014-01-30",0,1
+"54","13p5.00","Read","Smoking cessation programme start date","observation","90 - smoking_status","2014-01-30",0,1
+"55","6791.00","Read","Health ed. - smoking","observation","90 - smoking_status","2014-01-30",0,1
+"56","67A3.00","Read","Pregnancy smoking advice","observation","90 - smoking_status","2014-01-30",0,1
+"57","67H1.00","Read","Lifestyle advice regarding smoking","observation","90 - smoking_status","2014-01-30",0,1
+"58","745H.00","Read","Smoking cessation therapy","observation","90 - smoking_status","2014-01-30",0,1
+"59","745H000","Read","Nicotine replacement therapy using nicotine patches","observation","90 - smoking_status","2014-01-30",0,1
+"60","745H100","Read","Nicotine replacement therapy using nicotine gum","observation","90 - smoking_status","2014-01-30",0,1
+"61","745H200","Read","Nicotine replacement therapy using nicotine inhalator","observation","90 - smoking_status","2014-01-30",0,1
+"62","745H300","Read","Nicotine replacement therapy using nicotine lozenges","observation","90 - smoking_status","2014-01-30",0,1
+"63","8B2B.00","Read","Nicotine replacement therapy","observation","90 - smoking_status","2014-01-30",0,1
+"64","8B3f.00","Read","Nicotine replacement therapy provided free","observation","90 - smoking_status","2014-01-30",0,1
+"65","8B3Y.00","Read","Over the counter nicotine replacement therapy","observation","90 - smoking_status","2014-01-30",0,1
+"66","8BP3.00","Read","Nicotine replacement therapy provided by community pharmacis","observation","90 - smoking_status","2014-01-30",0,1
+"67","8CAg.00","Read","Smoking cessation advice provided by community pharmacist","observation","90 - smoking_status","2014-01-30",0,1
+"68","8CAL.00","Read","Smoking cessation advice","observation","90 - smoking_status","2014-01-30",0,1
+"69","8H7i.00","Read","Referral to smoking cessation advisor","observation","90 - smoking_status","2014-01-30",0,1
+"70","8HTK.00","Read","Referral to stop-smoking clinic","observation","90 - smoking_status","2014-01-30",0,1
+"71","9N2k.00","Read","Seen by smoking cessation advisor","observation","90 - smoking_status","2014-01-30",0,1
+"72","9N4M.00","Read","DNA - Did not attend smoking cessation clinic","observation","90 - smoking_status","2014-01-30",0,1
+"73","9OO..00","Read","Anti-smoking monitoring admin.","observation","90 - smoking_status","2014-01-30",0,2
+"74","9OO1.00","Read","Attends stop smoking monitor.","observation","90 - smoking_status","2014-01-30",0,2
+"75","9OO..11","Read","Stop smoking clinic admin.","observation","90 - smoking_status","2014-01-30",0,2
+"76","9OO..12","Read","Stop smoking monitoring admin.","observation","90 - smoking_status","2014-01-30",0,2
+"77","9OO2.00","Read","Refuses stop smoking monitor","observation","90 - smoking_status","2014-01-30",0,2
+"78","9OO3.00","Read","Stop smoking monitor default","observation","90 - smoking_status","2014-01-30",0,2
+"79","9OO4.00","Read","Stop smoking monitor 1st lettr","observation","90 - smoking_status","2014-01-30",0,2
+"80","9OO5.00","Read","Stop smoking monitor 2nd lettr","observation","90 - smoking_status","2014-01-30",0,2
+"81","9OO6.00","Read","Stop smoking monitor 3rd lettr","observation","90 - smoking_status","2014-01-30",0,2
+"82","9OO7.00","Read","Stop smoking monitor verb.inv.","observation","90 - smoking_status","2014-01-30",0,2
+"83","9OO8.00","Read","Stop smoking monitor phone inv","observation","90 - smoking_status","2014-01-30",0,2
+"84","9OO9.00","Read","Stop smoking monitoring delete","observation","90 - smoking_status","2014-01-30",0,2
+"85","9OOA.00","Read","Stop smoking monitor.chck done","observation","90 - smoking_status","2014-01-30",0,2
+"86","ZG23300","Read","Advice on smoking","observation","90 - smoking_status","2014-01-30",0,1
+"87","ZRaM.00","Read","Motives for smoking scale","observation","90 - smoking_status","2014-01-30",0,1
+"88","ZRh4.00","Read","Reasons for smoking scale","observation","90 - smoking_status","2014-01-30",0,1
+"89","ZRh4.11","Read","RFS - Reasons for smoking scale","observation","90 - smoking_status","2014-01-30",0,1
+"90","L5091S","OXMIS","SMOKING STARTED","observation","90 - smoking_status","2014-01-30",0,1
+"91","T509","OXMIS","SMOKER","observation","90 - smoking_status","2014-01-30",1,0
+"92","T5090OR","OXMIS","SMOKER OWN ROLLED","observation","90 - smoking_status","2014-01-30",1,0
+"93","T5090XC","OXMIS","SMOKER CIGARETTES","observation","90 - smoking_status","2014-01-30",1,0
+"94","T5091","OXMIS","STOPPED SMOKING","observation","90 - smoking_status","2014-01-30",1,0
+"95","T5091ES","OXMIS","FORMER SMOKER","observation","90 - smoking_status","2014-01-30",1,0
+"96","T5091HS","OXMIS","EX HEAVY SMOKER","observation","90 - smoking_status","2014-01-30",1,0
+"97","T5092","OXMIS","SMOKING ADVISED TO STOP","observation","90 - smoking_status","2014-01-30",0,1
+"98","T5092S","OXMIS","SMOKING WISHES TO STOP","observation","90 - smoking_status","2014-01-30",1,0
+"99","T5092SA","OXMIS","SMOKING WANTS TO STOP","observation","90 - smoking_status","2014-01-30",1,0
+"100","T5093","OXMIS","SMOKER NON","observation","90 - smoking_status","2014-01-30",1,0
+"101","T5093N","OXMIS","SMOKED NEVER","observation","90 - smoking_status","2014-01-30",1,0
+"102","T509 SR","OXMIS","SMOKING RESTARTED","observation","90 - smoking_status","2014-01-30",1,0
+"103","T510","OXMIS","EXCESSIVE SMOKING","observation","90 - smoking_status","2014-01-30",1,0
+"104","T510 HS","OXMIS","HEAVY SMOKER  (20-PLUS PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"105","T510 SE","OXMIS","SMOKING EXCESSIVE","observation","90 - smoking_status","2014-01-30",1,0
+"106","T510 SH","OXMIS","SMOKER HEAVY (20-PLUS PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"107","T511","OXMIS","SMOKER MODERATE (LESS THAN 20 PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"108","T5112","OXMIS","SMOKER (20 PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"109","T5113","OXMIS","SMOKER (15 PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"110","T5114","OXMIS","SMOKER (10 PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"111","T5115","OXMIS","SMOKER (LESS THAN 10 PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"112","T5115M","OXMIS","SMOKER MILD (5 OR LESS PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"113","T5116","OXMIS","SMOKER(OCCASIONAL)","observation","90 - smoking_status","2014-01-30",1,0
+"114","T5117","OXMIS","SMOKER (30 PER DAY)","observation","90 - smoking_status","2014-01-30",1,0
+"115","T512","OXMIS","SMOKER PIPE","observation","90 - smoking_status","2014-01-30",1,0
+"116","T513","OXMIS","SMOKER CIGARS","observation","90 - smoking_status","2014-01-30",1,0
+"117","Y0601JJ","OXMIS","CLINIC ANTI-SMOKING ATTENDANCE","observation","90 - smoking_status","2014-01-30",0,1
+"118","Y0601KA","OXMIS","SMOKING CLINIC ATTENDANCE","observation","90 - smoking_status","2014-01-30",0,1
+"119","Y060 J1","OXMIS","STOP SMOKING GROUP","observation","90 - smoking_status","2014-01-30",0,1
+"120","Y060 JJ","OXMIS","CLINIC ANTI-SMOKING","observation","90 - smoking_status","2014-01-30",0,1
+"121","Y060 KA","OXMIS","SMOKING CLINIC","observation","90 - smoking_status","2014-01-30",0,1

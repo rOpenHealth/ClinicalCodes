@@ -1,0 +1,67 @@
+"","code","coding_system","description","entity","list_name","upload_date","resolve_code"
+"1","173A.00","Read","Exercise induced asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"2","173c.00","Read","Occupational asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"3","173d.00","Read","Work aggravated asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"4","1780.00","Read","Aspirin induced asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"5","1O2..00","Read","Asthma confirmed","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"6","2126200","Read","Asthma resolved","diagnostic","35 - asthma_clinicals","2014-01-27",1
+"7","212G.00","Read","Asthma resolved","diagnostic","35 - asthma_clinicals","2014-01-27",1
+"8","663j.00","Read","Asthma - currently active","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"9","663V000","Read","Occasional asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"10","663V100","Read","Mild asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"11","663V200","Read","Moderate asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"12","663V300","Read","Severe asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"13","H312000","Read","Chronic asthmatic bronchitis","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"14","H33..00","Read","Asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"15","H330.00","Read","Extrinsic (atopic) asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"16","H330000","Read","Extrinsic asthma without status asthmaticus","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"17","H330011","Read","Hay fever with asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"18","H330100","Read","Extrinsic asthma with status asthmaticus","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"19","H330.11","Read","Allergic asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"20","H330111","Read","Extrinsic asthma with asthma attack","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"21","H330.12","Read","Childhood asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"22","H330.13","Read","Hay fever with asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"23","H330.14","Read","Pollen asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"24","H330z00","Read","Extrinsic asthma NOS","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"25","H331.00","Read","Intrinsic asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"26","H331000","Read","Intrinsic asthma without status asthmaticus","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"27","H33..11","Read","Bronchial asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"28","H331100","Read","Intrinsic asthma with status asthmaticus","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"29","H331.11","Read","Late onset asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"30","H331111","Read","Intrinsic asthma with asthma attack","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"31","H331z00","Read","Intrinsic asthma NOS","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"32","H332.00","Read","Mixed asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"33","H334.00","Read","Brittle asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"34","H33z.00","Read","Asthma unspecified","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"35","H33z.11","Read","Hyperreactive airways disease","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"36","H33z200","Read","Late-onset asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"37","H33zz00","Read","Asthma NOS","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"38","H33zz11","Read","Exercise induced asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"39","H33zz12","Read","Allergic asthma NEC","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"40","H35y600","Read","Sequoiosis (red-cedar asthma)","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"41","H35y700","Read","Wood asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"42","H47y000","Read","Detergent asthma","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"43","3052AT","OXMIS","PSYCHOGENIC ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"44","493","OXMIS","ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"45","493 AA","OXMIS","ASTHMA ACUTE","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"46","493 AB","OXMIS","ASTHMA ATTACK","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"47","493 AD","OXMIS","ASTHMA OCCASIONAL","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"48","493 AE","OXMIS","ASTHMA SEASONAL","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"49","493 AI","OXMIS","ASTHMA SEVERITY MILD","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"50","493 AJ","OXMIS","ASTHMA SEVERITY MODERATE","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"51","493 AK","OXMIS","ASTHMA SEVERITY SEVERE","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"52","493 AR","OXMIS","ASTHMA RESOLVED","diagnostic","35 - asthma_clinicals","2014-01-27",1
+"53","493 BD","OXMIS","ASTHMA AND BRONCHITIS","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"54","493 BR","OXMIS","BRONCHIAL ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"55","493 C","OXMIS","CROUP ASTHMATIC","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"56","493 CH","OXMIS","CHILDHOOD ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"57","493 EA","OXMIS","ASTHMA EXERCISE INCLUDED","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"58","493 EB","OXMIS","ASTHMA EXERCISE INDUCED","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"59","493 EP","OXMIS","ASTHMA EPISODIC","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"60","493 GR","OXMIS","ASTHMA ALLERGIC GRASS","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"61","493 GS","OXMIS","ASTHMA POLLEN INITIATED","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"62","493 HT","OXMIS","INTRINSIC ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"63","493 JC","OXMIS","CHRONIC ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"64","493 NA","OXMIS","NOCTURNAL ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"65","691 TM","OXMIS","ECZEMA WITH ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0
+"66","L4930LO","OXMIS","LATE ONSET ASTHMA","diagnostic","35 - asthma_clinicals","2014-01-27",0

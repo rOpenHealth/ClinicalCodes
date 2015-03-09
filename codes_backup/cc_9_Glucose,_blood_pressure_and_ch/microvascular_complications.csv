@@ -1,0 +1,85 @@
+"","code","coding_system","description","entity","list_name","upload_date","type"
+"1","1Z13.00","Read","Chronic kidney disease stage 4","diagnostic","126 - microvascular_complications","2014-06-23",4
+"2","1Z14.00","Read","Chronic kidney disease stage 5","diagnostic","126 - microvascular_complications","2014-06-23",4
+"3","1Z1H.00","Read","Chronic kidney disease stage 4 with proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"4","1Z1H.11","Read","CKD stage 4 with proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"5","1Z1J.00","Read","Chronic kidney disease stage 4 without proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"6","1Z1J.11","Read","CKD stage 4 without proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"7","1Z1K.00","Read","Chronic kidney disease stage 5 with proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"8","1Z1K.11","Read","CKD stage 5 with proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"9","1Z1L.00","Read","Chronic kidney disease stage 5 without proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"10","1Z1L.11","Read","CKD stage 5 without proteinuria","diagnostic","126 - microvascular_complications","2014-06-23",4
+"11","2BBa.00","Read","O/E- non-referable retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"12","2BBk.00","Read","O/E - right eye stable treated prolif diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"13","2BBl.00","Read","O/E - left eye stable treated prolif diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"14","2BBo.00","Read","O/E - sight threatening diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"15","2BBP.00","Read","O/E - right eye background diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"16","2BBQ.00","Read","O/E - left eye background diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"17","2BBr.00","Read","Impaired vision due to diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"18","2BBR.00","Read","O/E - right eye preproliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"19","2BBS.00","Read","O/E - left eye preproliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"20","2BBT.00","Read","O/E - right eye proliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"21","2BBV.00","Read","O/E - left eye proliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"22","2BBY.00","Read","O/E - referable retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"23","C104.11","Read","Diabetic nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"24","C104z00","Read","Diabetes mellitus with nephropathy NOS","diagnostic","126 - microvascular_complications","2014-06-23",3
+"25","C106.12","Read","Diabetes mellitus with neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"26","C106.13","Read","Diabetes mellitus with polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"27","C108D00","Read","Insulin dependent diabetes mellitus with nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"28","C109600","Read","Non-insulin-dependent diabetes mellitus with retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"29","C109611","Read","Type II diabetes mellitus with retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"30","C109612","Read","Type 2 diabetes mellitus with retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"31","C109A00","Read","Non-insulin dependent diabetes mellitus with mononeuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"32","C109A11","Read","Type II diabetes mellitus with mononeuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"33","C109B00","Read","Non-insulin dependent diabetes mellitus with polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"34","C109B11","Read","Type II diabetes mellitus with polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"35","C109C00","Read","Non-insulin dependent diabetes mellitus with nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"36","C109C11","Read","Type II diabetes mellitus with nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"37","C109C12","Read","Type 2 diabetes mellitus with nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"38","C109H00","Read","Non-insulin dependent d m with neuropathic arthropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"39","C109H11","Read","Type II diabetes mellitus with neuropathic arthropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"40","C109H12","Read","Type 2 diabetes mellitus with neuropathic arthropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"41","C10F600","Read","Type 2 diabetes mellitus with retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"42","C10F611","Read","Type II diabetes mellitus with retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"43","C10FA00","Read","Type 2 diabetes mellitus with mononeuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"44","C10FA11","Read","Type II diabetes mellitus with mononeuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"45","C10FB00","Read","Type 2 diabetes mellitus with polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"46","C10FB11","Read","Type II diabetes mellitus with polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"47","C10FC00","Read","Type 2 diabetes mellitus with nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"48","C10FC11","Read","Type II diabetes mellitus with nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"49","C10FH00","Read","Type 2 diabetes mellitus with neuropathic arthropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"50","F171100","Read","Autonomic neuropathy due to diabetes","diagnostic","126 - microvascular_complications","2014-06-23",2
+"51","F171z00","Read","Peripheral autonomic neuropathy due to disease NOS","diagnostic","126 - microvascular_complications","2014-06-23",2
+"52","F366.00","Read","Polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"53","F367.00","Read","Peripheral neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"54","F372.00","Read","Polyneuropathy in diabetes","diagnostic","126 - microvascular_complications","2014-06-23",2
+"55","F372000","Read","Acute painful diabetic neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"56","F372100","Read","Chronic painful diabetic neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"57","F372.11","Read","Diabetic polyneuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"58","F372.12","Read","Diabetic neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"59","F372200","Read","Asymptomatic diabetic neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"60","F374z00","Read","Polyneuropathy in disease NOS","diagnostic","126 - microvascular_complications","2014-06-23",2
+"61","F37y100","Read","Axonal sensorimotor neuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"62","F37z.11","Read","Polyneuropathy unspecified","diagnostic","126 - microvascular_complications","2014-06-23",2
+"63","F3y0.00","Read","Diabetic mononeuropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"64","F420.00","Read","Diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"65","F420000","Read","Background diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"66","F420100","Read","Proliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"67","F420200","Read","Preproliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"68","F420600","Read","Non proliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"69","F420700","Read","High risk proliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"70","F420800","Read","High risk non proliferative diabetic retinopathy","diagnostic","126 - microvascular_complications","2014-06-23",1
+"71","F420z00","Read","Diabetic retinopathy NOS","diagnostic","126 - microvascular_complications","2014-06-23",1
+"72","F422z00","Read","Proliferative retinopathy NOS","diagnostic","126 - microvascular_complications","2014-06-23",1
+"73","Fyu6B00","Read","[X]Other mononeuropathies of lower limb","diagnostic","126 - microvascular_complications","2014-06-23",2
+"74","Fyu7C00","Read","[X] Polyneuropathy; unspecified","diagnostic","126 - microvascular_complications","2014-06-23",2
+"75","FyuAC00","Read","[X]Autonomic neuropathy/endocrine+metabolic diseases CE","diagnostic","126 - microvascular_complications","2014-06-23",2
+"76","K02..12","Read","Nephropathy - chronic","diagnostic","126 - microvascular_complications","2014-06-23",3
+"77","K03..00","Read","Nephritis and nephropathy unspecified","diagnostic","126 - microvascular_complications","2014-06-23",3
+"78","K03..11","Read","Nephritis and nephropathy unspecified","diagnostic","126 - microvascular_complications","2014-06-23",3
+"79","K03..12","Read","Nephropathy; unspecified","diagnostic","126 - microvascular_complications","2014-06-23",3
+"80","K054.00","Read","Chronic kidney disease stage 4","diagnostic","126 - microvascular_complications","2014-06-23",4
+"81","K055.00","Read","Chronic kidney disease stage 5","diagnostic","126 - microvascular_complications","2014-06-23",4
+"82","K08yA00","Read","Proteinuric diabetic nephropathy","diagnostic","126 - microvascular_complications","2014-06-23",3
+"83","N035.00","Read","Neuropathic arthropathy","diagnostic","126 - microvascular_complications","2014-06-23",2
+"84","N242300","Read","Neuropathic pain","diagnostic","126 - microvascular_complications","2014-06-23",2

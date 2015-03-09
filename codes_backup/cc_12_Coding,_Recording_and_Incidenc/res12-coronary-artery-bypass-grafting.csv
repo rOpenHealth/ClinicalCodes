@@ -1,0 +1,37 @@
+"","code","coding_system","description","entity","list_name","upload_date","incidence.percentage","prevalence.percentage"
+"1","7920","Read","Saphenous vein graft replacement of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.04,0.08
+"2","7920000","Read","Saphenous vein graft replacement of one coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.02,0.03
+"3","7920100","Read","Saphenous vein graft replacement of two coronary arteries","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.05,0.07
+"4","7920.11","Read","Saphenous vein graft bypass of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.02,0.07
+"5","7920200","Read","Saphenous vein graft replacement of three coronary arteries","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.06,0.15
+"6","7920300","Read","Saphenous vein graft replacement of four+ coronary arteries","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.05,0.06
+"7","7920y00","Read","Saphenous vein graft replacement of coronary artery OS","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.27,0.6
+"8","7920z00","Read","Saphenous vein graft replacement coronary artery NOS","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.02
+"9","7921","Read","Other autograft replacement of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.03
+"10","7921000","Read","Autograft replacement of one coronary artery NEC","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"11","792..11","Read","Coronary artery bypass graft operations","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.67,1.71
+"12","7921.11","Read","Other autograft bypass of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.01,0.01
+"13","7921200","Read","Autograft replacement of three coronary arteries NEC","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.01
+"14","7921300","Read","Autograft replacement of four of more coronary arteries NEC","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"15","7921z00","Read","Other autograft replacement of coronary artery NOS","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"16","7922100","Read","Allograft replacement of two coronary arteries","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"17","7922.11","Read","Allograft bypass of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.01
+"18","7923","Read","Prosthetic replacement of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"19","7923.11","Read","Prosthetic bypass of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"20","7924","Read","Revision of bypass for coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.01
+"21","7924100","Read","Revision of bypass for two coronary arteries","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"22","7925","Read","Connection of mammary artery to coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"23","7925000","Read","Double anastomosis of mammary arteries to coronary arteries","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"24","7925011","Read","LIMA sequential anastomosis","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"25","7925.11","Read","Creation of bypass from mammary artery to coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"26","7925200","Read","Single anast mammary art to left ant descend coronary art","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"27","7925311","Read","LIMA single anastomosis","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.02,0
+"28","7925z00","Read","Connection of mammary artery to coronary artery NOS","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"29","7926","Read","Connection of other thoracic artery to coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.01,0
+"30","7929","Read","Other therapeutic transluminal operations on coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.01,0.01
+"31","792C.00","Read","Other replacement of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0
+"32","792D.00","Read","Other bypass of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.02
+"33","792Dy00","Read","Other specified other bypass of coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.01,0.01
+"34","792Dz00","Read","Other bypass of coronary artery NOS","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.01,0.02
+"35","792y.00","Read","Other specified operations on coronary artery","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0,0.01
+"36","ZV45L00","Read","[V]Status following coronary angioplasty NOS","diagnostic","145 - res12: Coronary Artery Bypass Grafting","2014-07-10",0.03,0.04

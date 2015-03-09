@@ -1,0 +1,520 @@
+"","code","coding_system","description","entity","list_name","upload_date","BNF_header","BNF_code","drug_substance_name"
+"1",148001,"GPRD_product_code","CAPOTEN tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"2",148002,"GPRD_product_code","CAPOTEN tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"3",148003,"GPRD_product_code","CAPOTEN tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"4",339001,"GPRD_product_code","CILAZAPRIL tabs 250micrograms","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"5",339002,"GPRD_product_code","CILAZAPRIL tabs 500 micrograms","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"6",339003,"GPRD_product_code","CILAZAPRIL tabs 1mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"7",615001,"GPRD_product_code","VASCACE tabs 0.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"8",615002,"GPRD_product_code","VASCACE tabs 0.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"9",615003,"GPRD_product_code","VASCACE tabs 1mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"10",671001,"GPRD_product_code","LISINOPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"11",671002,"GPRD_product_code","LISINOPRIL + HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"12",727001,"GPRD_product_code","INNOZIDE tabs","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"13",733001,"GPRD_product_code","ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"14",837001,"GPRD_product_code","ZESTORETIC 20-tab 20mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"15",837002,"GPRD_product_code","ZESTORETIC 10-tab 10mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"16",1122001,"GPRD_product_code","ACEPRIL tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"17",1122002,"GPRD_product_code","ACEPRIL tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"18",1122003,"GPRD_product_code","ACEPRIL tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"19",1528001,"GPRD_product_code","CILAZAPRIL tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"20",1528002,"GPRD_product_code","CILAZAPRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"21",1783001,"GPRD_product_code","INNOVACE tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"22",1783002,"GPRD_product_code","INNOVACE tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"23",1783003,"GPRD_product_code","INNOVACE tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"24",1830001,"GPRD_product_code","VASCACE tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"25",1830002,"GPRD_product_code","VASCACE tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"26",1846001,"GPRD_product_code","TRITACE caps 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"27",1941009,"GPRD_product_code","ENALAPRIL tabs 5mg [DOWELHURST]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"28",2166009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"29",2166010,"GPRD_product_code","CAPTOPRIL tabs 25mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"30",2166011,"GPRD_product_code","CAPTOPRIL tabs 50mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"31",2167009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"32",2167010,"GPRD_product_code","CAPTOPRIL tabs 25mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"33",2167011,"GPRD_product_code","CAPTOPRIL tabs 50mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"34",2168009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"35",2168010,"GPRD_product_code","CAPTOPRIL tabs 25mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"36",2168011,"GPRD_product_code","CAPTOPRIL tabs 50mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"37",2178009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [LAGAP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"38",2178010,"GPRD_product_code","CAPTOPRIL tabs 25mg [LAGAP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"39",2178011,"GPRD_product_code","CAPTOPRIL tabs 50mg [LAGAP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"40",2179009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [CP PHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"41",2179010,"GPRD_product_code","CAPTOPRIL tabs 25mg [CP PHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"42",2179011,"GPRD_product_code","CAPTOPRIL tabs 50mg [CP PHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"43",2180009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"44",2180010,"GPRD_product_code","CAPTOPRIL tabs 25mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"45",2180011,"GPRD_product_code","CAPTOPRIL tabs 50mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"46",2205009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"47",2205010,"GPRD_product_code","CAPTOPRIL tabs 25mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"48",2205011,"GPRD_product_code","CAPTOPRIL tabs 50mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"49",2206009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"50",2206010,"GPRD_product_code","CAPTOPRIL tabs 25mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"51",2206011,"GPRD_product_code","CAPTOPRIL tabs 50mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"52",2508001,"GPRD_product_code","PRALENAL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"53",2640001,"GPRD_product_code","INNOVACE tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"54",2640002,"GPRD_product_code","INNOVACE titration pack","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"55",2652007,"GPRD_product_code","ENALAPRIL MALEATE 40 MG TAB","drug","101 - ACE inhibitors","2014-01-30",NA,0,NA
+"56",2860009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"57",2860010,"GPRD_product_code","CAPTOPRIL tabs 25mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"58",2860011,"GPRD_product_code","CAPTOPRIL tabs 50mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"59",2913007,"GPRD_product_code","CAPTOPRIL 100 MG TAB","drug","101 - ACE inhibitors","2014-01-30",NA,0,NA
+"60",2939001,"GPRD_product_code","ACEZIDE tabs","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"61",2958009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"62",2959009,"GPRD_product_code","CAPTOPRIL tabs 25mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"63",2960009,"GPRD_product_code","CAPTOPRIL tabs 50mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"64",2996009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [LENNON]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"65",2996010,"GPRD_product_code","CAPTOPRIL tabs 25mg [LENNON]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"66",2996011,"GPRD_product_code","CAPTOPRIL tabs 50mg [LENNON]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"67",3031009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [STERWIN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"68",3031010,"GPRD_product_code","CAPTOPRIL tabs 25mg [STERWIN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"69",3031011,"GPRD_product_code","CAPTOPRIL tabs 50mg [STERWIN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"70",3097009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"71",3097010,"GPRD_product_code","ENALAPRIL tabs 5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"72",3097011,"GPRD_product_code","ENALAPRIL tabs 10mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"73",3099009,"GPRD_product_code","ENALAPRIL tabs 20mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"74",3111001,"GPRD_product_code","CAPTOPRIL tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"75",3111002,"GPRD_product_code","CAPTOPRIL tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"76",3111003,"GPRD_product_code","CAPTOPRIL tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"77",3113009,"GPRD_product_code","CO-ZIDOCAPT tabs 25mg + 50mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"78",3203001,"GPRD_product_code","ENALAPRIL tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"79",3203002,"GPRD_product_code","ENALAPRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"80",3203003,"GPRD_product_code","ENALAPRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"81",3203007,"GPRD_product_code","PERINDOPRIL/TERT-BUTYLAMINE 2 MG TAB","drug","101 - ACE inhibitors","2014-01-30",NA,0,NA
+"82",3204001,"GPRD_product_code","ENALAPRIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"83",3204002,"GPRD_product_code","ENALAPRIL titration pack","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"84",3204003,"GPRD_product_code","ENALAPRIL wafer 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"85",3309009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"86",3309010,"GPRD_product_code","ENALAPRIL tabs 5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"87",3309011,"GPRD_product_code","ENALAPRIL tabs 10mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"88",3310009,"GPRD_product_code","ENALAPRIL tabs 20mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"89",3312009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"90",3312010,"GPRD_product_code","ENALAPRIL tabs 5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"91",3312011,"GPRD_product_code","ENALAPRIL tabs 10mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"92",3313009,"GPRD_product_code","ENALAPRIL tabs 20mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"93",3320009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"94",3320010,"GPRD_product_code","ENALAPRIL tabs 5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"95",3320011,"GPRD_product_code","ENALAPRIL tabs 10mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"96",3321009,"GPRD_product_code","ENALAPRIL tabs 20mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"97",3331009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"98",3331010,"GPRD_product_code","ENALAPRIL tabs 5mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"99",3331011,"GPRD_product_code","ENALAPRIL tabs 10mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"100",3332009,"GPRD_product_code","ENALAPRIL tabs 20mg [ALPHAR/COX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"101",3334009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"102",3334010,"GPRD_product_code","ENALAPRIL tabs 5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"103",3334011,"GPRD_product_code","ENALAPRIL tabs 10mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"104",3335009,"GPRD_product_code","ENALAPRIL tabs 20mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"105",3338009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"106",3338010,"GPRD_product_code","ENALAPRIL tabs 5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"107",3338011,"GPRD_product_code","ENALAPRIL tabs 10mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"108",3339009,"GPRD_product_code","ENALAPRIL tabs 20mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"109",3341009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"110",3341010,"GPRD_product_code","ENALAPRIL tabs 5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"111",3341011,"GPRD_product_code","ENALAPRIL tabs 10mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"112",3342009,"GPRD_product_code","ENALAPRIL tabs 20mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"113",3353009,"GPRD_product_code","ENALAPRIL tabs 5mg [CP PHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"114",3353010,"GPRD_product_code","ENALAPRIL tabs 10mg [CP PHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"115",3353011,"GPRD_product_code","ENALAPRIL tabs 20mg [CP PHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"116",3436009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"117",3436010,"GPRD_product_code","ENALAPRIL tabs 5mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"118",3436011,"GPRD_product_code","ENALAPRIL tabs 10mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"119",3437009,"GPRD_product_code","ENALAPRIL tabs 20mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"120",3694009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"121",3694010,"GPRD_product_code","CAPTOPRIL tabs 25mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"122",3694011,"GPRD_product_code","CAPTOPRIL tabs 50mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"123",3698009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"124",3698010,"GPRD_product_code","ENALAPRIL tabs 5mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"125",3698011,"GPRD_product_code","ENALAPRIL tabs 10mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"126",3699009,"GPRD_product_code","ENALAPRIL tabs 20mg [NEOLAB]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"127",3725009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"128",3725010,"GPRD_product_code","ENALAPRIL tabs 5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"129",3725011,"GPRD_product_code","ENALAPRIL tabs 10mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"130",3726009,"GPRD_product_code","ENALAPRIL tabs 20mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"131",3803009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"132",3804009,"GPRD_product_code","CAPTOPRIL tabs 25mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"133",3805009,"GPRD_product_code","CAPTOPRIL tabs 50mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"134",3818009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"135",3819009,"GPRD_product_code","ENALAPRIL tabs 5mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"136",3820009,"GPRD_product_code","ENALAPRIL tabs 10mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"137",3821009,"GPRD_product_code","ENALAPRIL tabs 20mg [KENT]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"138",3900007,"GPRD_product_code","CAPTOPRIL 4 MG/ML LIQ","drug","101 - ACE inhibitors","2014-01-30",NA,0,NA
+"139",4209009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"140",4210009,"GPRD_product_code","LISINOPRIL tabs 5mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"141",4211009,"GPRD_product_code","LISINOPRIL tabs 10mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"142",4212009,"GPRD_product_code","LISINOPRIL tabs 20mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"143",4275009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"144",4276009,"GPRD_product_code","LISINOPRIL tabs 5mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"145",4277009,"GPRD_product_code","LISINOPRIL tabs 10mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"146",4278009,"GPRD_product_code","LISINOPRIL tabs 20mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"147",4282009,"GPRD_product_code","LISINOPRIL tabs 5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"148",4286009,"GPRD_product_code","LISINOPRIL tabs 10mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"149",4287009,"GPRD_product_code","LISINOPRIL tabs 20mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"150",4297009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"151",4298009,"GPRD_product_code","LISINOPRIL tabs 5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"152",4299009,"GPRD_product_code","LISINOPRIL tabs 10mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"153",4300009,"GPRD_product_code","LISINOPRIL tabs 20mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"154",4308009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"155",4309009,"GPRD_product_code","LISINOPRIL tabs 5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"156",4310009,"GPRD_product_code","LISINOPRIL tabs 10mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"157",4311009,"GPRD_product_code","LISINOPRIL tabs 20mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"158",4314009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"159",4315009,"GPRD_product_code","LISINOPRIL tabs 5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"160",4316009,"GPRD_product_code","LISINOPRIL tabs 10mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"161",4317009,"GPRD_product_code","LISINOPRIL tabs 20mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"162",4318009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [STERWIN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"163",4319009,"GPRD_product_code","LISINOPRIL tabs 5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"164",4320009,"GPRD_product_code","LISINOPRIL tabs 10mg [STERWIN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"165",4321009,"GPRD_product_code","LISINOPRIL tabs 20mg [STERWIN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"166",4323009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"167",4324009,"GPRD_product_code","LISINOPRIL tabs 5mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"168",4325009,"GPRD_product_code","LISINOPRIL tabs 10mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"169",4326009,"GPRD_product_code","LISINOPRIL tabs 20mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"170",4358009,"GPRD_product_code","ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"171",4363009,"GPRD_product_code","CO-ZIDOCAPT tabs 12.5mg + 25mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"172",4364009,"GPRD_product_code","CO-ZIDOCAPT tabs 25mg + 50mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"173",4522009,"GPRD_product_code","ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"174",4592009,"GPRD_product_code","CO-ZIDOCAPT tabs 25mg + 50mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"175",4600009,"GPRD_product_code","CO-ZIDOCAPT tabs 12.5mg + 25mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"176",4606009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"177",4607009,"GPRD_product_code","ENALAPRIL tabs 5mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"178",4608009,"GPRD_product_code","ENALAPRIL tabs 10mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"179",4609009,"GPRD_product_code","ENALAPRIL tabs 20mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"180",4614009,"GPRD_product_code","LISINOPRIL tabs 5mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"181",4615009,"GPRD_product_code","LISINOPRIL tabs 10mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"182",4616009,"GPRD_product_code","LISINOPRIL tabs 20mg [TILLOMED]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"183",4680009,"GPRD_product_code","CAPTOPRIL tabs 25mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"184",4681009,"GPRD_product_code","CAPTOPRIL tabs 50mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"185",4749009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"186",4750009,"GPRD_product_code","CAPTOPRIL tabs 25mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"187",4800009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"188",4848009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"189",4849009,"GPRD_product_code","RAMIPRIL caps 1.25mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"190",4850009,"GPRD_product_code","RAMIPRIL caps 2.5mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"191",4851009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"192",4852009,"GPRD_product_code","RAMIPRIL tabs 5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"193",4853009,"GPRD_product_code","RAMIPRIL caps 5mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"194",4854009,"GPRD_product_code","RAMIPRIL caps 10mg [TEVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"195",4855009,"GPRD_product_code","RAMIPRIL tabs 10mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"196",4860009,"GPRD_product_code","RAMIPRIL caps 1.25mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"197",4861009,"GPRD_product_code","RAMIPRIL caps 2.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"198",4862009,"GPRD_product_code","RAMIPRIL caps 5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"199",4863009,"GPRD_product_code","RAMIPRIL caps 10mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"200",4864009,"GPRD_product_code","RAMIPRIL caps 2.5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"201",4865009,"GPRD_product_code","RAMIPRIL caps 5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"202",4866009,"GPRD_product_code","RAMIPRIL caps 10mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"203",4870009,"GPRD_product_code","RAMIPRIL caps 2.5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"204",4871009,"GPRD_product_code","RAMIPRIL caps 5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"205",4872009,"GPRD_product_code","RAMIPRIL caps 10mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"206",4896009,"GPRD_product_code","RAMIPRIL caps 1.25mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"207",4897009,"GPRD_product_code","RAMIPRIL caps 2.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"208",4898009,"GPRD_product_code","RAMIPRIL caps 5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"209",4899009,"GPRD_product_code","RAMIPRIL caps 10mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"210",4900009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"211",4901009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"212",4902009,"GPRD_product_code","RAMIPRIL tabs 5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"213",4903009,"GPRD_product_code","RAMIPRIL tabs 10mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"214",4925009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"215",4926009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"216",4927009,"GPRD_product_code","RAMIPRIL tabs 5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"217",4928009,"GPRD_product_code","RAMIPRIL tabs 10mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"218",4938009,"GPRD_product_code","RAMIPRIL caps 1.25mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"219",4939009,"GPRD_product_code","RAMIPRIL caps 2.5mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"220",4940009,"GPRD_product_code","RAMIPRIL caps 5mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"221",4941009,"GPRD_product_code","RAMIPRIL caps 10mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"222",4942009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"223",4943009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"224",4944009,"GPRD_product_code","RAMIPRIL tabs 5mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"225",4945009,"GPRD_product_code","RAMIPRIL tabs 10mg [SOVEREIGN]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"226",4954009,"GPRD_product_code","RAMIPRIL caps 1.25mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"227",4955009,"GPRD_product_code","RAMIPRIL caps 2.5mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"228",4956009,"GPRD_product_code","RAMIPRIL caps 5mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"229",4957009,"GPRD_product_code","RAMIPRIL caps 10mg [DEXCEL]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"230",5006009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"231",5007009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"232",5027009,"GPRD_product_code","RAMIPRIL caps 1.25mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"233",5047009,"GPRD_product_code","CO-ZIDOCAPT tabs 12.5mg + 25mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"234",5048009,"GPRD_product_code","CO-ZIDOCAPT tabs 25mg + 50mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"235",5049009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"236",5050009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"237",5051009,"GPRD_product_code","QUINAPRIL tabs 5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"238",5054009,"GPRD_product_code","QUINAPRIL tabs 10mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"239",5055009,"GPRD_product_code","QUINAPRIL tabs 20mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"240",5056009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"241",5057009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"242",5058009,"GPRD_product_code","RAMIPRIL tabs 5mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"243",5059009,"GPRD_product_code","QUINAPRIL tabs 40mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"244",5060009,"GPRD_product_code","RAMIPRIL tabs 10mg [NICHE]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"245",5064009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"246",5065009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"247",5066009,"GPRD_product_code","RAMIPRIL tabs 5mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"248",5067009,"GPRD_product_code","RAMIPRIL tabs 10mg [WINTHROP]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"249",5087009,"GPRD_product_code","QUINAPRIL tabs 5mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"250",5088009,"GPRD_product_code","QUINAPRIL tabs 10mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"251",5089009,"GPRD_product_code","QUINAPRIL tabs 20mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"252",5090009,"GPRD_product_code","QUINAPRIL tabs 40mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"253",5100009,"GPRD_product_code","QUINAPRIL tabs 5mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"254",5101009,"GPRD_product_code","QUINAPRIL tabs 10mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"255",5102009,"GPRD_product_code","QUINAPRIL tabs 20mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"256",5103009,"GPRD_product_code","QUINAPRIL tabs 40mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"257",5130001,"GPRD_product_code","CAPTOPRIL + HYDROCHLOROTHIAZIDE tabs 50mg + 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"258",5130002,"GPRD_product_code","CAPTOPRIL + HYDROCHLOROTHIAZIDE tabs 25mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"259",5131001,"GPRD_product_code","CAPOZIDE tabs","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"260",5131002,"GPRD_product_code","CAPOZIDE LS tablets","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"261",5132001,"GPRD_product_code","ODRIK caps 0.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"262",5132002,"GPRD_product_code","ODRIK caps 1mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"263",5132003,"GPRD_product_code","ODRIK caps 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"264",5136009,"GPRD_product_code","QUINAPRIL tabs 5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"265",5137009,"GPRD_product_code","QUINAPRIL tabs 10mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"266",5138009,"GPRD_product_code","QUINAPRIL tabs 20mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"267",5139009,"GPRD_product_code","QUINAPRIL tabs 40mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"268",5164009,"GPRD_product_code","RAMIPRIL caps 2.5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"269",5165009,"GPRD_product_code","RAMIPRIL caps 5mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"270",5166009,"GPRD_product_code","RAMIPRIL caps 10mg [IVAX]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"271",5171009,"GPRD_product_code","QUINAPRIL tabs 5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"272",5172009,"GPRD_product_code","QUINAPRIL tabs 10mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"273",5173009,"GPRD_product_code","QUINAPRIL tabs 20mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"274",5246001,"GPRD_product_code","CARACE tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"275",5246002,"GPRD_product_code","CARACE tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"276",5246003,"GPRD_product_code","CARACE tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"277",5247001,"GPRD_product_code","CARACE tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"278",5248001,"GPRD_product_code","ZESTRIL tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"279",5248002,"GPRD_product_code","ZESTRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"280",5248003,"GPRD_product_code","ZESTRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"281",5249001,"GPRD_product_code","ZESTRIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"282",5250001,"GPRD_product_code","LISINOPRIL tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"283",5250002,"GPRD_product_code","LISINOPRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"284",5250003,"GPRD_product_code","LISINOPRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"285",5251001,"GPRD_product_code","LISINOPRIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"286",5270009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"287",5272009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [GENUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"288",5277009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"289",5280009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"290",5282009,"GPRD_product_code","RAMIPRIL tabs 5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"291",5286009,"GPRD_product_code","RAMIPRIL tabs 10mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"292",5342009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"293",5343009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"294",5347009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"295",5348009,"GPRD_product_code","ENALAPRIL tabs 5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"296",5349009,"GPRD_product_code","ENALAPRIL tabs 10mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"297",5350009,"GPRD_product_code","ENALAPRIL tabs 20mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"298",5363009,"GPRD_product_code","RAMIPRIL caps 1.25mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"299",5364009,"GPRD_product_code","RAMIPRIL caps 2.5mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"300",5365009,"GPRD_product_code","RAMIPRIL caps 5mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"301",5366009,"GPRD_product_code","RAMIPRIL caps 10mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"302",5396001,"GPRD_product_code","TRANDOLAPRIL caps 500 micrograms","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"303",5396002,"GPRD_product_code","TRANDOLAPRIL caps 1mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"304",5396003,"GPRD_product_code","TRANDOLAPRIL caps 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"305",5424009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [PLIVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"306",5425009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [PLIVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"307",5426009,"GPRD_product_code","RAMIPRIL tabs 5mg [PLIVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"308",5427009,"GPRD_product_code","RAMIPRIL tabs 10mg [PLIVA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"309",5436009,"GPRD_product_code","LISINOPRIL tabs 5mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"310",5437009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"311",5438009,"GPRD_product_code","LISINOPRIL tabs 10mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"312",5439009,"GPRD_product_code","LISINOPRIL tabs 20mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"313",5446001,"GPRD_product_code","HYDROCHLOROTHIAZIDE + CAPTOPRIL tabs 25mg + 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"314",5446002,"GPRD_product_code","HYDROCHLOROTHIAZIDE + CAPTOPRIL tabs 12.5mg + 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"315",5475009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"316",5476009,"GPRD_product_code","LISINOPRIL tabs 5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"317",5477009,"GPRD_product_code","LISINOPRIL tabs 10mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"318",5478009,"GPRD_product_code","LISINOPRIL tabs 20mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"319",5484009,"GPRD_product_code","CAPTOPRIL oral susp 5mg/5ml [ELDON]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"320",5487009,"GPRD_product_code","RAMIPRIL caps 1.25mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"321",5488009,"GPRD_product_code","RAMIPRIL caps 2.5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"322",5489009,"GPRD_product_code","RAMIPRIL caps 5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"323",5490009,"GPRD_product_code","RAMIPRIL caps 10mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"324",5587009,"GPRD_product_code","RAMIPRIL tabs 1.25mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"325",5588009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"326",5589009,"GPRD_product_code","RAMIPRIL tabs 5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"327",5590009,"GPRD_product_code","RAMIPRIL tabs 10mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"328",5603001,"GPRD_product_code","ACCUPRO tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"329",5603002,"GPRD_product_code","ACCUPRO tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"330",5603003,"GPRD_product_code","ACCUPRO tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"331",5604001,"GPRD_product_code","QUINAPRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"332",5604002,"GPRD_product_code","QUINAPRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"333",5604003,"GPRD_product_code","QUINAPRIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"334",5637009,"GPRD_product_code","RAMIPRIL caps 1.25mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"335",5638009,"GPRD_product_code","RAMIPRIL caps 2.5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"336",5639009,"GPRD_product_code","RAMIPRIL caps 5mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"337",5640009,"GPRD_product_code","RAMIPRIL caps 10mg [RANBAXY]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"338",5660009,"GPRD_product_code","RAMIPRIL caps 1.25mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"339",5661009,"GPRD_product_code","RAMIPRIL caps 2.5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"340",5662009,"GPRD_product_code","RAMIPRIL caps 5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"341",5663009,"GPRD_product_code","RAMIPRIL caps 10mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"342",5666009,"GPRD_product_code","RAMIPRIL caps 1.25mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"343",5667009,"GPRD_product_code","RAMIPRIL caps 2.5mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"344",5668009,"GPRD_product_code","RAMIPRIL caps 5mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"345",5669009,"GPRD_product_code","RAMIPRIL caps 10mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"346",5681009,"GPRD_product_code","RAMIPRIL caps 1.25mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"347",5682009,"GPRD_product_code","RAMIPRIL caps 2.5mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"348",5683009,"GPRD_product_code","RAMIPRIL caps 5mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"349",5684009,"GPRD_product_code","RAMIPRIL caps 10mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"350",5728009,"GPRD_product_code","CAPTOPRIL tabs 12.5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"351",5729009,"GPRD_product_code","CAPTOPRIL tabs 25mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"352",5730009,"GPRD_product_code","CAPTOPRIL tabs 50mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"353",5733009,"GPRD_product_code","CO-ZIDOCAPT tabs 25mg + 50mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"354",5744009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"355",5745009,"GPRD_product_code","LISINOPRIL tabs 5mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"356",5746009,"GPRD_product_code","LISINOPRIL tabs 10mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"357",5747009,"GPRD_product_code","LISINOPRIL tabs 20mg [RATIOPHARM]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"358",5799009,"GPRD_product_code","QUINAPRIL tabs 5mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"359",5851009,"GPRD_product_code","ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"360",5860001,"GPRD_product_code","RAMIPRIL caps 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"361",5875009,"GPRD_product_code","LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"362",5958009,"GPRD_product_code","FOSINOPRIL tabs 10mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"363",5959009,"GPRD_product_code","FOSINOPRIL tabs 20mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"364",5984009,"GPRD_product_code","FOSINOPRIL tabs 10mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"365",5985009,"GPRD_product_code","FOSINOPRIL tabs 20mg [APS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"366",6019009,"GPRD_product_code","FOSINOPRIL tabs 10mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"367",6020009,"GPRD_product_code","FOSINOPRIL tabs 20mg [ALPHARMA]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"368",6024009,"GPRD_product_code","FOSINOPRIL tabs 10mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"369",6025009,"GPRD_product_code","FOSINOPRIL tabs 20mg [SANDOZ]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"370",6067009,"GPRD_product_code","FOSINOPRIL tabs 10mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"371",6068009,"GPRD_product_code","FOSINOPRIL tabs 20mg [ARROW]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"372",6071001,"GPRD_product_code","GOPTEN caps 0.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"373",6071002,"GPRD_product_code","GOPTEN caps 1mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"374",6071003,"GPRD_product_code","GOPTEN caps 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"375",6081009,"GPRD_product_code","ENALAPRIL tabs 2.5mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"376",6082009,"GPRD_product_code","ENALAPRIL tabs 5mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"377",6083009,"GPRD_product_code","ENALAPRIL tabs 10mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"378",6084009,"GPRD_product_code","ENALAPRIL tabs 20mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"379",6101009,"GPRD_product_code","LISINOPRIL tabs 2.5mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"380",6102009,"GPRD_product_code","LISINOPRIL tabs 5mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"381",6103009,"GPRD_product_code","LISINOPRIL tabs 10mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"382",6104009,"GPRD_product_code","LISINOPRIL tabs 20mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"383",6115009,"GPRD_product_code","FOSINOPRIL tabs 10mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"384",6116009,"GPRD_product_code","FOSINOPRIL tabs 20mg [FOCUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"385",6201009,"GPRD_product_code","FOSINOPRIL tabs 10mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"386",6202009,"GPRD_product_code","FOSINOPRIL tabs 20mg [GEN (UK)]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"387",6251001,"GPRD_product_code","CARACE 20 plus tab","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"388",6251002,"GPRD_product_code","CARACE 10 plus tab","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"389",6401001,"GPRD_product_code","COVERSYL tabs 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"390",6401002,"GPRD_product_code","COVERSYL tabs 4mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"391",6402001,"GPRD_product_code","PERINDOPRIL tabs 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"392",6402002,"GPRD_product_code","PERINDOPRIL tabs 4mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"393",6431001,"GPRD_product_code","TRITACE caps 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"394",6431002,"GPRD_product_code","TRITACE caps 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"395",6431003,"GPRD_product_code","TRITACE caps 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"396",6432001,"GPRD_product_code","RAMIPRIL caps 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"397",6432002,"GPRD_product_code","RAMIPRIL caps 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"398",6432003,"GPRD_product_code","RAMIPRIL caps 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"399",6540001,"GPRD_product_code","PRALENAL tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"400",6540002,"GPRD_product_code","PRALENAL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"401",6540003,"GPRD_product_code","PRALENAL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"402",6605009,"GPRD_product_code","RAMIPRIL caps 1.25mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"403",6606009,"GPRD_product_code","RAMIPRIL caps 2.5mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"404",6655009,"GPRD_product_code","RAMIPRIL caps 5mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"405",6656009,"GPRD_product_code","RAMIPRIL caps 10mg [ALMUS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"406",6662009,"GPRD_product_code","RAMIPRIL tabs 2.5mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"407",6663009,"GPRD_product_code","RAMIPRIL tabs 5mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"408",6664009,"GPRD_product_code","RAMIPRIL tabs 10mg [ACTAVIS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"409",6668009,"GPRD_product_code","PERINDOPRIL tabs 2mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"410",6669009,"GPRD_product_code","PERINDOPRIL tabs 4mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"411",6670009,"GPRD_product_code","PERINDOPRIL tabs 8mg [HILLCROSS]","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"412",6862001,"GPRD_product_code","STARIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"413",6862002,"GPRD_product_code","STARIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"414",6863001,"GPRD_product_code","FOSINOPRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"415",6863002,"GPRD_product_code","FOSINOPRIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"416",6897001,"GPRD_product_code","ACCURETIC tabs 10mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"417",6898001,"GPRD_product_code","QUINAPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"418",7112001,"GPRD_product_code","EDNYT tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"419",7112002,"GPRD_product_code","EDNYT tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"420",7112003,"GPRD_product_code","EDNYT tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"421",7267001,"GPRD_product_code","ACCUPRO tabs 40mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"422",7268001,"GPRD_product_code","QUINAPRIL tabs 40mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"423",8041001,"GPRD_product_code","ENALAPRIL wafer 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"424",8041002,"GPRD_product_code","ENALAPRIL wafer 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"425",8041003,"GPRD_product_code","ENALAPRIL wafer 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"426",8219001,"GPRD_product_code","FELODIPINE + RAMIPRIL mr tab 2.5mg + 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"427",8219002,"GPRD_product_code","FELODIPINE + RAMIPRIL mr tab 5mg + 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"428",8555001,"GPRD_product_code","PERINDOPRIL tabs 8mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"429",8934001,"GPRD_product_code","RAMIPRIL caps 2.5mg + 5mg + 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"430",9182001,"GPRD_product_code","PERDIX tabs 7.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"431",9182002,"GPRD_product_code","PERDIX tabs 15mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"432",9183001,"GPRD_product_code","MOEXIPRIL HCl tabs 7.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"433",9183002,"GPRD_product_code","MOEXIPRIL HCl tabs 15mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"434",9259001,"GPRD_product_code","CAPTO-CO tabs 12.5mg + 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"435",9259002,"GPRD_product_code","CAPTO-CO tabs 25mg+50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"436",9423001,"GPRD_product_code","IMIDAPRIL HCl tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"437",9423002,"GPRD_product_code","IMIDAPRIL HCl tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"438",9423003,"GPRD_product_code","IMIDAPRIL HCl tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"439",9466001,"GPRD_product_code","TANATRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"440",9466002,"GPRD_product_code","TANATRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"441",9466003,"GPRD_product_code","TANATRIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"442",9554001,"GPRD_product_code","RAMIPRIL + FELODIPINE mr tab 2.5mg + 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"443",9554002,"GPRD_product_code","RAMIPRIL + FELODIPINE mr tab 5mg + 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"444",9589001,"GPRD_product_code","HYTENEZE tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"445",9589002,"GPRD_product_code","HYTENEZE tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"446",9589003,"GPRD_product_code","HYTENEZE tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"447",9950001,"GPRD_product_code","CAPTOPRIL tabs 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"448",10456001,"GPRD_product_code","EDNYT tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"449",10575001,"GPRD_product_code","COVERSYL tabs 8mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"450",10694001,"GPRD_product_code","PERINDOPRIL + INDAPAMIDE tabs 4mg + 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"451",10897001,"GPRD_product_code","ECOPACE tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"452",10897002,"GPRD_product_code","ECOPACE tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"453",10897003,"GPRD_product_code","ECOPACE tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"454",10930001,"GPRD_product_code","TENSOPRIL tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"455",10930002,"GPRD_product_code","TENSOPRIL tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"456",10930003,"GPRD_product_code","TENSOPRIL tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"457",10938001,"GPRD_product_code","CO-ZIDOCAPT tabs 25mg + 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"458",10938002,"GPRD_product_code","CO-ZIDOCAPT tabs 12.5mg + 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"459",10941001,"GPRD_product_code","KAPLON tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"460",10941002,"GPRD_product_code","KAPLON tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"461",10941003,"GPRD_product_code","KAPLON tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"462",11044001,"GPRD_product_code","COVERSYL PLUS tabs","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"463",11285001,"GPRD_product_code","TRITACE TITRATION PACK caps 2.5mg + 5mg + 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"464",11491001,"GPRD_product_code","CAPTOMEX tabs 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"465",11491002,"GPRD_product_code","CAPTOMEX tabs 25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"466",11491003,"GPRD_product_code","CAPTOMEX tabs 50mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"467",11538001,"GPRD_product_code","TRIAPIN MITE mr tab 2.5mg + 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"468",11542001,"GPRD_product_code","TRIAPIN mr tab 5mg + 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"469",11558001,"GPRD_product_code","VERAPAMIL HCl + TRANDOLAPRIL mr cap 180mg + 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2060200,NA
+"470",11566001,"GPRD_product_code","TRANDOLAPRIL + VERAPAMIL mr cap 2mg + 180mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"471",11574001,"GPRD_product_code","TARKA caps 180mg + 2mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"472",11649001,"GPRD_product_code","INNOVACE MELT wafer 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"473",11650001,"GPRD_product_code","INNOVACE MELT wafer 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"474",11650002,"GPRD_product_code","INNOVACE MELT wafer 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"475",11650003,"GPRD_product_code","INNOVACE MELT wafer 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"476",12093001,"GPRD_product_code","RAMIPRIL tabs 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"477",12094001,"GPRD_product_code","RAMIPRIL tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"478",12095001,"GPRD_product_code","RAMIPRIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"479",12096001,"GPRD_product_code","RAMIPRIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"480",12097001,"GPRD_product_code","TRITACE tabs 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"481",12098001,"GPRD_product_code","TRITACE tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"482",12099001,"GPRD_product_code","TRITACE tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"483",12100001,"GPRD_product_code","TRITACE tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"484",12187001,"GPRD_product_code","CAPTOPRIL oral liq 3mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,23010000,NA
+"485",12297001,"GPRD_product_code","TRITACE tabs 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"486",12298001,"GPRD_product_code","TRITACE tabs 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"487",12299001,"GPRD_product_code","TRITACE tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"488",12300001,"GPRD_product_code","TRITACE tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"489",12377001,"GPRD_product_code","TRANDOLAPRIL caps 4mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"490",12378001,"GPRD_product_code","GOPTEN caps 4mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"491",12483001,"GPRD_product_code","CARALPHA tabs 10mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA
+"492",12484001,"GPRD_product_code","CARALPHA tabs 20mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"493",12627001,"GPRD_product_code","LOPACE caps 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"494",12628001,"GPRD_product_code","LOPACE caps 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"495",12629001,"GPRD_product_code","LOPACE caps 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"496",12738001,"GPRD_product_code","LISINOPRIL oral soln 5mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,23000000,NA
+"497",12773001,"GPRD_product_code","RANACE caps 1.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"498",12774001,"GPRD_product_code","RANACE caps 2.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"499",12775001,"GPRD_product_code","RANACE caps 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"500",12776001,"GPRD_product_code","RANACE caps 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"501",12935001,"GPRD_product_code","CAPTOPRIL oral liq 5mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"502",13101001,"GPRD_product_code","QUINIL tabs 5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"503",13102001,"GPRD_product_code","QUINIL tabs 10mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"504",13103001,"GPRD_product_code","QUINIL tabs 20mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"505",13104001,"GPRD_product_code","QUINIL tabs 40mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"506",13545001,"GPRD_product_code","CAPTOPRIL oral susp 6.25mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"507",13649001,"GPRD_product_code","LISINOPRIL oral susp 7.5mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"508",13861001,"GPRD_product_code","RAMIPRIL oral susp 2.5mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"509",13870001,"GPRD_product_code","PERINDOPRIL oral susp 4mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"510",14248001,"GPRD_product_code","CAPTOPRIL oral liq","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"511",14249001,"GPRD_product_code","CAPTOPRIL caps","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"512",14250001,"GPRD_product_code","CAPTOPRIL oral pwdr","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"513",14463001,"GPRD_product_code","LISINOPRIL oral liq","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"514",14503001,"GPRD_product_code","RAMIPRIL oral susp 10mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"515",14504001,"GPRD_product_code","RAMIPRIL oral liq","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"516",14539001,"GPRD_product_code","CAPTOPRIL oral susp 12.5mg/5ml","drug","101 - ACE inhibitors","2014-01-30",NA,23010000,NA
+"517",14573001,"GPRD_product_code","PERINDOPRIL oral liq","drug","101 - ACE inhibitors","2014-01-30",NA,23000000,NA
+"518",14821001,"GPRD_product_code","CAPTOPRIL (IPU) tabs 6.25mg","drug","101 - ACE inhibitors","2014-01-30",NA,2050501,NA
+"519",14900001,"GPRD_product_code","QUINAPRIL + HYDROCHLOROTHIAZIDE (IPU) tabs 20mg + 12.5mg","drug","101 - ACE inhibitors","2014-01-30",NA,2020100,NA

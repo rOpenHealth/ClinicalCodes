@@ -1,0 +1,38 @@
+"","code","coding_system","description","entity","list_name","upload_date","BNF_header","BNF_code","drug_substance_name"
+"1",2304001,"GPRD_product_code","SUMATRIPTAN tabs 100mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"2",2304002,"GPRD_product_code","SUMATRIPTAN tabs 50mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"3",2315001,"GPRD_product_code","IMIGRAN tabs 100mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"4",2315002,"GPRD_product_code","IMIGRAN tabs 50mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"5",5322001,"GPRD_product_code","SUMATRIPTAN inj 6mg/syringe","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"6",5323001,"GPRD_product_code","IMIGRAN SUBJECT sc inj 6mg/syringe","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"7",6475009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [HILLCROSS]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"8",6476009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [HILLCROSS]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"9",6484009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [DEXCEL]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"10",6485009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [DEXCEL]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"11",6513009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [SOVEREIGN]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"12",6514009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [SOVEREIGN]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"13",6518009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [SANDOZ]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"14",6519009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [SANDOZ]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"15",6520009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [NICHE]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"16",6521009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [NICHE]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"17",6525009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [CONSILIENT]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"18",6526009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [CONSILIENT]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"19",6587009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [GEN (UK)]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"20",6588009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [GEN (UK)]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"21",6590009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [ARROW]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"22",6591009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [ARROW]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"23",6592009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [TEVA]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"24",6593009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [TEVA]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"25",6632009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [ALMUS]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"26",6633009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [ALMUS]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"27",6679009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [IVAX]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"28",6680009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [IVAX]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"29",6770009,"GPRD_product_code","SUMATRIPTAN tabs 50mg [WINTHROP]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"30",6771009,"GPRD_product_code","SUMATRIPTAN tabs 100mg [WINTHROP]","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"31",10891001,"GPRD_product_code","SUMATRIPTAN aqueous nasal spray 20mg/actuation","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"32",10895001,"GPRD_product_code","IMIGRAN aqueous nasal spray 20mg/actuation","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"33",12056001,"GPRD_product_code","SUMATRIPTAN aqueous nasal spray 10mg/actuation","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"34",12057001,"GPRD_product_code","IMIGRAN aqueous nasal spray 10mg/actuation","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"35",12562001,"GPRD_product_code","IMIGRAN RADIS FC tab 50mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"36",12563001,"GPRD_product_code","IMIGRAN RADIS FC tab 100mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA
+"37",14027001,"GPRD_product_code","IMIGRAN RECOVERY tabs 50mg","drug","110 - sumatriptan","2014-01-30",NA,4070401,NA

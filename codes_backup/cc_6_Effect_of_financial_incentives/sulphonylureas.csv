@@ -1,0 +1,56 @@
+"","code","coding_system","description","entity","list_name","upload_date","BNF_header","BNF_code","drug_substance_name"
+"1",212001,"GPRD_product_code","daonil tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"2",235001,"GPRD_product_code","diabinese tabs 100mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"3",235002,"GPRD_product_code","diabinese tabs 250mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"4",331001,"GPRD_product_code","euglucon tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"5",331002,"GPRD_product_code","euglucon tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"6",417009,"GPRD_product_code","glibenclamide tabs 5mg [cp pharm]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"7",417010,"GPRD_product_code","glibenclamide tabs 2.5mg [cp pharm]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"8",418009,"GPRD_product_code","glibenclamide tabs 2.5mg [celltech]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"9",418010,"GPRD_product_code","glibenclamide tabs 5mg [celltech]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"10",419009,"GPRD_product_code","glibenclamide tabs 5mg [hillcross]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"11",419010,"GPRD_product_code","glibenclamide tabs 2.5mg [hillcross]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"12",752009,"GPRD_product_code","chlorpropamide tabs 100mg [cp pharm]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"13",752010,"GPRD_product_code","chlorpropamide tabs 250mg [cp pharm]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"14",753009,"GPRD_product_code","chlorpropamide tabs 100mg [celltech]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"15",753010,"GPRD_product_code","chlorpropamide tabs 250mg [celltech]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"16",854001,"GPRD_product_code","semi-daonil tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"17",1335009,"GPRD_product_code","glibenclamide tabs 5mg [aps]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"18",1335010,"GPRD_product_code","glibenclamide tabs 2.5mg [aps]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"19",1356009,"GPRD_product_code","glibenclamide tabs 5mg [berk]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"20",1356010,"GPRD_product_code","glibenclamide tabs 2.5mg [berk]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"21",1451009,"GPRD_product_code","glibenclamide tabs 5mg [numark]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"22",1581009,"GPRD_product_code","glibenclamide tabs 2.5mg [lagap]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"23",1581010,"GPRD_product_code","glibenclamide tabs 5mg [lagap]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"24",1811009,"GPRD_product_code","chlorpropamide tabs 100mg [aps]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"25",1811010,"GPRD_product_code","chlorpropamide tabs 250mg [aps]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"26",2224009,"GPRD_product_code","chlorpropamide tabs 100mg [alphar/cox]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"27",2224010,"GPRD_product_code","chlorpropamide tabs 250mg [alphar/cox]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"28",2248009,"GPRD_product_code","glibenclamide tabs 2.5mg [alphar/cox]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"29",2248010,"GPRD_product_code","glibenclamide tabs 5mg [alphar/cox]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"30",2416001,"GPRD_product_code","libanil tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"31",2416002,"GPRD_product_code","libanil tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"32",2447009,"GPRD_product_code","glibenclamide tabs 2.5mg [ivax]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"33",2447010,"GPRD_product_code","glibenclamide tabs 5mg [ivax]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"34",2462001,"GPRD_product_code","diabetamide tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"35",2462002,"GPRD_product_code","diabetamide tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"36",2866007,"GPRD_product_code","chloropropamide 500 mg tab","drug","105 - sulphonylureas","2014-01-30",NA,0,NA
+"37",2872001,"GPRD_product_code","glibenclamide tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"38",2872002,"GPRD_product_code","glibenclamide tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"39",2902001,"GPRD_product_code","malix tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"40",2902002,"GPRD_product_code","malix tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"41",2942001,"GPRD_product_code","calabren tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"42",2942002,"GPRD_product_code","calabren tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"43",3244001,"GPRD_product_code","chlorpropamide tabs 100mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"44",3244002,"GPRD_product_code","chlorpropamide tabs 250mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"45",3312001,"GPRD_product_code","glymese tabs 250mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"46",3384009,"GPRD_product_code","chlorpropamide tabs 100mg [sussex]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"47",3384010,"GPRD_product_code","chlorpropamide tabs 250mg [sussex]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"48",3440009,"GPRD_product_code","glibenclamide tabs 2.5mg [kent]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"49",3778009,"GPRD_product_code","glibenclamide tabs 2.5mg [gen (uk)]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"50",3779009,"GPRD_product_code","glibenclamide tabs 5mg [gen (uk)]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"51",4398009,"GPRD_product_code","glibenclamide tabs 5mg [kent]","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"52",7481001,"GPRD_product_code","grenamide tabs 2.5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"53",7481002,"GPRD_product_code","grenamide tabs 5mg","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"54",14098001,"GPRD_product_code","glibenclamide oral susp 5mg/5ml","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA
+"55",14734001,"GPRD_product_code","glibenclamide oral liq","drug","105 - sulphonylureas","2014-01-30",NA,6010201,NA

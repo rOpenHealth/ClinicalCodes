@@ -1,0 +1,147 @@
+"","code","coding_system","description","entity","list_name","upload_date","type"
+"1","7L06.00","Read","Amputation of leg","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"2","7L06400","Read","Amputation below knee","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"3","7L07.00","Read","Amputation of foot","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"4","7L07000","Read","Amputation through ankle","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"5","7L07012","Read","Syme amputation of foot through ankle","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"6","7L07300","Read","Amputation through metatarsal bones","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"7","7L07y00","Read","Other specified amputation of foot","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"8","7L07z00","Read","Amputation of foot NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"9","7L08.00","Read","Amputation of toe","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"10","7L08011","Read","Amputation great toe","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"11","7L08100","Read","Amputation of phalanx of toe","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"12","7L08300","Read","Amputation lesser toe","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"13","7L08y00","Read","Other specified amputation of toe","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"14","7L08z00","Read","Amputation of toe NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"15","7L0L200","Read","Amputation of supernumerary toe","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"16","G30..00","Read","Acute myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"17","G300.00","Read","Acute anterolateral infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"18","G301.00","Read","Other specified anterior myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"19","G301000","Read","Acute anteroapical infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"20","G301100","Read","Acute anteroseptal infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"21","G30..12","Read","Coronary thrombosis","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"22","G30..13","Read","Cardiac rupture following myocardial infarction (MI)","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"23","G30..15","Read","MI - acute myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"24","G30..16","Read","Thrombosis - coronary","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"25","G30..17","Read","Silent myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"26","G301z00","Read","Anterior myocardial infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"27","G302.00","Read","Acute inferolateral infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"28","G303.00","Read","Acute inferoposterior infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"29","G304.00","Read","Posterior myocardial infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"30","G305.00","Read","Lateral myocardial infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"31","G306.00","Read","True posterior myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"32","G307.00","Read","Acute subendocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"33","G307000","Read","Acute non-Q wave infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"34","G307100","Read","Acute non-ST segment elevation myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"35","G308.00","Read","Inferior myocardial infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"36","G309.00","Read","Acute Q-wave infarct","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"37","G30B.00","Read","Acute posterolateral myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"38","G30X.00","Read","Acute transmural myocardial infarction of unspecif site","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"39","G30X000","Read","Acute ST segment elevation myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"40","G30y.00","Read","Other acute myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"41","G30y100","Read","Acute papillary muscle infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"42","G30y200","Read","Acute septal infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"43","G30yz00","Read","Other acute myocardial infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"44","G30z.00","Read","Acute myocardial infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"45","G311000","Read","Myocardial infarction aborted","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"46","G311011","Read","MI - myocardial infarction aborted","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"47","G311500","Read","Acute coronary syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"48","G35..00","Read","Subsequent myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"49","G350.00","Read","Subsequent myocardial infarction of anterior wall","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"50","G351.00","Read","Subsequent myocardial infarction of inferior wall","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"51","G353.00","Read","Subsequent myocardial infarction of other sites","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"52","G35X.00","Read","Subsequent myocardial infarction of unspecified site","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"53","G360.00","Read","Haemopericardium/current comp folow acut myocard infarct","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"54","G362.00","Read","Ventric septal defect/curr comp fol acut myocardal infarctn","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"55","G363.00","Read","Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"56","G364.00","Read","Ruptur chordae tendinae/curr comp fol acute myocard infarct","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"57","G365.00","Read","Rupture papillary muscle/curr comp fol acute myocard infarct","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"58","G38..00","Read","Postoperative myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"59","G380.00","Read","Postoperative transmural myocardial infarction anterior wall","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"60","G381.00","Read","Postoperative transmural myocardial infarction inferior wall","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"61","G384.00","Read","Postoperative subendocardial myocardial infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"62","G38z.00","Read","Postoperative myocardial infarction; unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"63","G574011","Read","Cardiac arrest-ventricular fibrillation","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"64","G575.00","Read","Cardiac arrest","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"65","G575000","Read","Cardiac arrest with successful resuscitation","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"66","G575100","Read","Sudden cardiac death; so described","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"67","G575.11","Read","Cardio-respiratory arrest","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"68","G575.12","Read","Asystole","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"69","G575z00","Read","Cardiac arrest; unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"70","G61..00","Read","Intracerebral haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"71","G610.00","Read","Cortical haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"72","G611.00","Read","Internal capsule haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"73","G61..11","Read","CVA - cerebrovascular accid due to intracerebral haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"74","G61..12","Read","Stroke due to intracerebral haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"75","G612.00","Read","Basal nucleus haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"76","G613.00","Read","Cerebellar haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"77","G614.00","Read","Pontine haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"78","G615.00","Read","Bulbar haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"79","G616.00","Read","External capsule haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"80","G617.00","Read","Intracerebral haemorrhage; intraventricular","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"81","G618.00","Read","Intracerebral haemorrhage; multiple localized","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"82","G61X.00","Read","Intracerebral haemorrhage in hemisphere; unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"83","G61X000","Read","Left sided intracerebral haemorrhage; unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"84","G61X100","Read","Right sided intracerebral haemorrhage; unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"85","G61z.00","Read","Intracerebral haemorrhage NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"86","G63..00","Read","Precerebral arterial occlusion","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"87","G63..11","Read","Infarction - precerebral","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"88","G632.00","Read","Vertebral artery occlusion","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"89","G63y000","Read","Cerebral infarct due to thrombosis of precerebral arteries","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"90","G63y100","Read","Cerebral infarction due to embolism of precerebral arteries","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"91","G640.00","Read","Cerebral thrombosis","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"92","G640000","Read","Cerebral infarction due to thrombosis of cerebral arteries","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"93","G641.00","Read","Cerebral embolism","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"94","G641000","Read","Cerebral infarction due to embolism of cerebral arteries","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"95","G641.11","Read","Cerebral embolus","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"96","G64..12","Read","Infarction - cerebral","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"97","G64..13","Read","Stroke due to cerebral arterial occlusion","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"98","G64z.00","Read","Cerebral infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"99","G64z000","Read","Brainstem infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"100","G64z.11","Read","Brainstem infarction NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"101","G64z111","Read","Lateral medullary syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"102","G64z.12","Read","Cerebellar infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"103","G64z200","Read","Left sided cerebral infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"104","G64z300","Read","Right sided cerebral infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"105","G64z400","Read","Infarction of basal ganglia","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"106","G66..00","Read","Stroke and cerebrovascular accident unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"107","G661.00","Read","Anterior cerebral artery syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"108","G66..11","Read","CVA unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"109","G66..12","Read","Stroke unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"110","G66..13","Read","CVA - Cerebrovascular accident unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"111","G662.00","Read","Posterior cerebral artery syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"112","G663.00","Read","Brain stem stroke syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"113","G664.00","Read","Cerebellar stroke syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"114","G665.00","Read","Pure motor lacunar syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"115","G666.00","Read","Pure sensory lacunar syndrome","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"116","G667.00","Read","Left sided CVA","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"117","G668.00","Read","Right sided CVA","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"118","G671.00","Read","Generalised ischaemic cerebrovascular disease NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"119","G671000","Read","Acute cerebrovascular insufficiency NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"120","G671z00","Read","Generalised ischaemic cerebrovascular disease NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"121","G676000","Read","Cereb infarct due cerebral venous thrombosis; nonpyogenic","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"122","G6W..00","Read","Cereb infarct due unsp occlus/stenos precerebr arteries","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"123","G6X..00","Read","Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"124","G70..00","Read","Atherosclerosis","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"125","G700.00","Read","Aortic atherosclerosis","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"126","G73..00","Read","Other peripheral vascular disease","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"127","G73..12","Read","Ischaemia of legs","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"128","G73y.00","Read","Other specified peripheral vascular disease","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"129","G73yz00","Read","Other specified peripheral vascular disease NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"130","G73z.00","Read","Peripheral vascular disease NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"131","G73z000","Read","Intermittent claudication","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"132","G73z011","Read","Claudication","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"133","G73zz00","Read","Peripheral vascular disease NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"134","G742z00","Read","Peripheral arterial embolism and thrombosis NOS","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"135","G74y300","Read","Embolism and thrombosis of the iliac artery unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"136","G76z000","Read","Iliac artery occlusion","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"137","Gyu3400","Read","[X]Acute transmural myocardial infarction of unspecif site","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"138","Gyu3600","Read","[X]Subsequent myocardial infarction of unspecified site","diagnostic","127 - Macrovascular_complications","2014-06-23",2
+"139","Gyu6200","Read","[X]Other intracerebral haemorrhage","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"140","Gyu6300","Read","[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"141","Gyu6400","Read","[X]Other cerebral infarction","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"142","Gyu6F00","Read","[X]Intracerebral haemorrhage in hemisphere; unspecified","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"143","Gyu6G00","Read","[X]Cereb infarct due unsp occlus/stenos precerebr arteries","diagnostic","127 - Macrovascular_complications","2014-06-23",3
+"144","Gyu7400","Read","[X]Other specified peripheral vascular diseases","diagnostic","127 - Macrovascular_complications","2014-06-23",1
+"145","M271000","Read","Ischaemic ulcer diabetic foot","diagnostic","127 - Macrovascular_complications","2014-06-23",4
+"146","R054300","Read","[D]Widespread diabetic foot gangrene","diagnostic","127 - Macrovascular_complications","2014-06-23",4

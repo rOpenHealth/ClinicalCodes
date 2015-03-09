@@ -1,0 +1,1343 @@
+"","code","coding_system","description","entity","list_name","upload_date","BNF_header","BNF_code","drug_substance_name"
+"1",65001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"2",65002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"3",65003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"4",66001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"5",67001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"6",67002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"7",107001,"GPRD_product_code","BETALOC tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"8",107002,"GPRD_product_code","BETALOC tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"9",108001,"GPRD_product_code","BETIM tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"10",119001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"11",180001,"GPRD_product_code","CO-BETALOC tabs 100mg + 12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"12",191001,"GPRD_product_code","CORGARETIC 40 tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"13",237001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"14",238001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"15",247009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"16",247010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"17",247011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"18",248009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"19",248010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"20",248011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"21",287009,"GPRD_product_code","OXPRENOLOL tabs 20mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"22",287010,"GPRD_product_code","OXPRENOLOL tabs 40mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"23",287011,"GPRD_product_code","OXPRENOLOL tabs 80mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"24",288009,"GPRD_product_code","OXPRENOLOL tabs 160mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"25",289009,"GPRD_product_code","OXPRENOLOL tabs 20mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"26",289010,"GPRD_product_code","OXPRENOLOL tabs 40mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"27",289011,"GPRD_product_code","OXPRENOLOL tabs 80mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"28",290009,"GPRD_product_code","OXPRENOLOL tabs 160mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"29",291009,"GPRD_product_code","OXPRENOLOL tabs 20mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"30",291010,"GPRD_product_code","OXPRENOLOL tabs 40mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"31",291011,"GPRD_product_code","OXPRENOLOL tabs 80mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"32",292009,"GPRD_product_code","OXPRENOLOL tabs 160mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"33",292010,"GPRD_product_code","OXPRENOLOL SR tablets 160mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"34",293009,"GPRD_product_code","OXPRENOLOL tabs 20mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"35",293010,"GPRD_product_code","OXPRENOLOL tabs 40mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"36",293011,"GPRD_product_code","OXPRENOLOL tabs 80mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"37",294001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"38",294002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"39",294003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"40",294009,"GPRD_product_code","OXPRENOLOL tabs 160mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"41",302001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"42",302002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"43",305001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"44",307001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"45",354009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"46",354010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"47",354011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"48",365009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"49",365010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"50",365011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"51",366009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"52",366010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"53",366011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"54",367009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"55",367010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"56",367011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"57",368009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"58",368010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"59",368011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"60",377001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"61",377002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"62",463001,"GPRD_product_code","INDERAL LA caps 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"63",466009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"64",466010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"65",467009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"66",467010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"67",498009,"GPRD_product_code","METOPROLOL tabs 50mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"68",498010,"GPRD_product_code","METOPROLOL tabs 100mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"69",499009,"GPRD_product_code","METOPROLOL TARTRATE tabs 50mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"70",499010,"GPRD_product_code","METOPROLOL TARTRATE tabs 100mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"71",538001,"GPRD_product_code","LOPRESOR SR tabs 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"72",539001,"GPRD_product_code","LOPRESOR tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"73",539002,"GPRD_product_code","LOPRESOR tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"74",540001,"GPRD_product_code","LOPRESORETIC tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"75",540009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"76",540010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"77",541009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"78",541010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"79",541011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"80",542009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"81",544009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"82",544010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"83",545009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"84",545010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"85",546009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"86",546010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"87",567009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"88",580009,"GPRD_product_code","PROPRANOLOL tabs 10mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"89",580010,"GPRD_product_code","PROPRANOLOL tabs 40mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"90",580011,"GPRD_product_code","PROPRANOLOL tabs 160mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"91",581009,"GPRD_product_code","PROPRANOLOL tabs 10mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"92",581010,"GPRD_product_code","PROPRANOLOL tabs 40mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"93",581011,"GPRD_product_code","PROPRANOLOL tabs 80mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"94",582009,"GPRD_product_code","PROPRANOLOL tabs 10mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"95",582010,"GPRD_product_code","PROPRANOLOL tabs 40mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"96",582011,"GPRD_product_code","PROPRANOLOL tabs 80mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"97",616001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"98",616002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"99",629009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"100",629010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"101",676009,"GPRD_product_code","PROPRANOLOL tabs 160mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"102",677009,"GPRD_product_code","PROPRANOLOL tabs 160mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"103",677010,"GPRD_product_code","PROPRANOLOL SR cap 160mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"104",721009,"GPRD_product_code","ATENOLOL tabs 50mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"105",721010,"GPRD_product_code","ATENOLOL tabs 100mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"106",721011,"GPRD_product_code","ATENOLOL tabs 25mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"107",722009,"GPRD_product_code","ATENOLOL tabs 50mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"108",722010,"GPRD_product_code","ATENOLOL tabs 100mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"109",764009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"110",764010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"111",764011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"112",823001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"113",823002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"114",830009,"GPRD_product_code","ATENOLOL tabs 50mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"115",830010,"GPRD_product_code","ATENOLOL tabs 100mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"116",830011,"GPRD_product_code","ATENOLOL tabs 25mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"117",831009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"118",831010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"119",848001,"GPRD_product_code","SECADREX tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"120",867001,"GPRD_product_code","SLOW TRASICOR sr tab 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"121",875009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"122",875010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"123",875011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"124",877009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"125",877010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"126",878009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"127",878010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"128",880001,"GPRD_product_code","SOTACOR tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"129",880002,"GPRD_product_code","SOTACOR tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"130",880003,"GPRD_product_code","SOTACOR inj 2mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"131",881001,"GPRD_product_code","SOTAZIDE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"132",889009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"133",909009,"GPRD_product_code","PROPRANOLOL tabs 40mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"134",909010,"GPRD_product_code","PROPRANOLOL tabs 10mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"135",909011,"GPRD_product_code","PROPRANOLOL tabs 80mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"136",910009,"GPRD_product_code","PROPRANOLOL tabs 10mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"137",910010,"GPRD_product_code","PROPRANOLOL tabs 40mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"138",910011,"GPRD_product_code","PROPRANOLOL tabs 80mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"139",911009,"GPRD_product_code","PROPRANOLOL tabs 160mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"140",911010,"GPRD_product_code","PROPRANOLOL SR cap 160mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"141",911011,"GPRD_product_code","PROPRANOLOL SR cap 80mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"142",931001,"GPRD_product_code","TENORET 50 tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"143",932001,"GPRD_product_code","TENORMIN tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"144",932002,"GPRD_product_code","TENORMIN sf syrp 25mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"145",932003,"GPRD_product_code","TENORMIN inj 5mg/10ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"146",954001,"GPRD_product_code","TIMOPTOL eye drp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"147",954002,"GPRD_product_code","TIMOPTOL eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"148",968001,"GPRD_product_code","TRASIDREX tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"149",1000001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"150",1001001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"151",1001002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"152",1002001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"153",1003001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"154",1003002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"155",1003003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"156",1004001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"157",1004002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"158",1008001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"159",1010001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"160",1010002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"161",1036001,"GPRD_product_code","VISKALDIX tabs 10mg + 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"162",1038001,"GPRD_product_code","VISKEN tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"163",1038002,"GPRD_product_code","VISKEN tabs 15mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"164",1050001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"165",1050002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"166",1062001,"GPRD_product_code","METOPROLOL TARTRATE inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"167",1070009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"168",1070010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"169",1070011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"170",1071001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"171",1148001,"GPRD_product_code","SECTRAL caps 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"172",1148002,"GPRD_product_code","SECTRAL caps 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"173",1148003,"GPRD_product_code","SECTRAL tabs 400mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"174",1183001,"GPRD_product_code","PRESTIM tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"175",1200009,"GPRD_product_code","ATENOLOL tabs 50mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"176",1200010,"GPRD_product_code","ATENOLOL tabs 100mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"177",1201009,"GPRD_product_code","ATENOLOL tabs 50mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"178",1201010,"GPRD_product_code","ATENOLOL tabs 100mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"179",1201011,"GPRD_product_code","ATENOLOL tabs 25mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"180",1235009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,99000000,NA
+"181",1260009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,99000000,NA
+"182",1269001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"183",1297001,"GPRD_product_code","HALF-INDERAL LA caps 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"184",1311009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"185",1319009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"186",1319010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"187",1319011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"188",1323009,"GPRD_product_code","PROPRANOLOL tabs 10mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"189",1323010,"GPRD_product_code","PROPRANOLOL tabs 40mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"190",1323011,"GPRD_product_code","PROPRANOLOL tabs 80mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"191",1341001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"192",1344009,"GPRD_product_code","OXPRENOLOL tabs 40mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"193",1344010,"GPRD_product_code","OXPRENOLOL tabs 20mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"194",1344011,"GPRD_product_code","OXPRENOLOL tabs 80mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"195",1349009,"GPRD_product_code","METOPROLOL tabs 50mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"196",1349010,"GPRD_product_code","METOPROLOL tabs 100mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"197",1350009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"198",1350010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"199",1350011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"200",1351009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"201",1363009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"202",1363010,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"203",1395001,"GPRD_product_code","BETALOC IV inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"204",1396001,"GPRD_product_code","BETALOC SA DURULE 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"205",1399001,"GPRD_product_code","CO-BETALOC SA tabs 200mg + 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"206",1408009,"GPRD_product_code","ATENOLOL tabs 100mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"207",1408010,"GPRD_product_code","ATENOLOL tabs 50mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"208",1408011,"GPRD_product_code","ATENOLOL tabs 25mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"209",1429009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"210",1429010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080300,NA
+"211",1449001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"212",1449002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"213",1482001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"214",1498009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"215",1498010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"216",1516009,"GPRD_product_code","METOPROLOL tabs 50mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"217",1516010,"GPRD_product_code","METOPROLOL tabs 100mg [CELLTECH]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"218",1517009,"GPRD_product_code","METOPROLOL tabs 50mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"219",1517010,"GPRD_product_code","METOPROLOL tabs 100mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"220",1523001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"221",1523002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"222",1523003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"223",1548009,"GPRD_product_code","PROPRANOLOL tabs 80mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"224",1548010,"GPRD_product_code","PROPRANOLOL sr cap 80mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"225",1548011,"GPRD_product_code","PROPRANOLOL sr cap 160mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"226",1549009,"GPRD_product_code","PROPRANOLOL tabs 40mg [NUMARK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"227",1551001,"GPRD_product_code","INDERAL inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"228",1552001,"GPRD_product_code","INDERETIC caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"229",1553001,"GPRD_product_code","INDEREX caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"230",1565009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"231",1565010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"232",1565011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"233",1568009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"234",1569009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"235",1569010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"236",1595001,"GPRD_product_code","BLOCADREN tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"237",1601001,"GPRD_product_code","MODUCREN tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020300,NA
+"238",1614009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"239",1614010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"240",1618001,"GPRD_product_code","INDERAL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"241",1618002,"GPRD_product_code","INDERAL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"242",1618003,"GPRD_product_code","INDERAL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"243",1619001,"GPRD_product_code","INDERAL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"244",1631001,"GPRD_product_code","CORGARD tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"245",1631002,"GPRD_product_code","CORGARD tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"246",1632001,"GPRD_product_code","CORGARETIC 80 tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"247",1638001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"248",1638002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"249",1638003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"250",1639001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"251",1655009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"252",1655010,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"253",1661009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"254",1661010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"255",1661011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"256",1671001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"257",1671002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"258",1684001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"259",1684002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"260",1684003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"261",1698001,"GPRD_product_code","TENORETIC tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"262",1699001,"GPRD_product_code","TENORMIN LS tablets 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"263",1700001,"GPRD_product_code","BERKOLOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"264",1700002,"GPRD_product_code","BERKOLOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"265",1700003,"GPRD_product_code","BERKOLOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"266",1701001,"GPRD_product_code","BERKOLOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"267",1702001,"GPRD_product_code","BETA-CARDONE tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"268",1702002,"GPRD_product_code","BETA-CARDONE tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"269",1702003,"GPRD_product_code","BETA-CARDONE tabs 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"270",1714001,"GPRD_product_code","TRASICOR tabs 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"271",1714002,"GPRD_product_code","TRASICOR tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"272",1714003,"GPRD_product_code","TRASICOR tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"273",1715001,"GPRD_product_code","TRASICOR tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"274",1799001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"275",1818009,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"276",1818010,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"277",1820009,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"278",1820010,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [BERK]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"279",1856009,"GPRD_product_code","ATENOLOL tabs 50mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"280",1856010,"GPRD_product_code","ATENOLOL tabs 100mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"281",1864009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"282",1882009,"GPRD_product_code","OXPRENOLOL tabs 160mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"283",1887009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"284",1887010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"285",1887011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"286",1888009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"287",1889009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"288",1905009,"GPRD_product_code","PROPRANOLOL oral soln 5mg/5ml [RP]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"289",1905010,"GPRD_product_code","PROPRANOLOL oral soln 10mg/5ml [RP]","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"290",1905011,"GPRD_product_code","PROPRANOLOL oral soln 40mg/5ml [RP]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"291",1906009,"GPRD_product_code","PROPRANOLOL oral soln 50mg/5ml [RP]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"292",1906010,"GPRD_product_code","PROPRANOLOL oral soln 80mg/5ml [RP]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"293",1908001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"294",1908002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"295",1909001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"296",1909002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"297",1912001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"298",1912002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"299",1915009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"300",1920009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"301",1920010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"302",1920011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"303",1924009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"304",1950009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"305",1950010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"306",1950011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"307",1958001,"GPRD_product_code","BEDRANOL mr cap 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"308",2016009,"GPRD_product_code","PROPRANOLOL caps 80mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"309",2016010,"GPRD_product_code","PROPRANOLOL caps 160mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"310",2017009,"GPRD_product_code","OXPRENOLOL SR tablets 160mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"311",2031009,"GPRD_product_code","ATENOLOL tabs 25mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"312",2031010,"GPRD_product_code","ATENOLOL tabs 50mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"313",2031011,"GPRD_product_code","ATENOLOL tabs 100mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"314",2044007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"315",2050001,"GPRD_product_code","KALTEN caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2020300,NA
+"316",2050007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"317",2056009,"GPRD_product_code","PROPRANOLOL LA caps 160mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"318",2056010,"GPRD_product_code","PROPRANOLOL LA mr cap 80mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"319",2088009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"320",2088010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"321",2088011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"322",2089009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"323",2089010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"324",2089011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"325",2102007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"326",2103007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"327",2109009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [BIOGLAN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"328",2109010,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [BIOGLAN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"329",2115007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"330",2116007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"331",2138001,"GPRD_product_code","BETA-PROGRANE caps 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"332",2143009,"GPRD_product_code","SOTALOL tabs 80mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"333",2143010,"GPRD_product_code","SOTALOL tabs 160mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"334",2144009,"GPRD_product_code","TIMOLOL eye drp 0.25% [LENNON]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"335",2144010,"GPRD_product_code","TIMOLOL eye drp 0.5% [LENNON]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"336",2176009,"GPRD_product_code","TIMOLOL eye drp 0.25% [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"337",2176010,"GPRD_product_code","TIMOLOL eye drp 0.5% [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"338",2183001,"GPRD_product_code","BREVIBLOC inj 10mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"339",2183002,"GPRD_product_code","BREVIBLOC conc soln inf 250mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"340",2197009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"341",2197010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"342",2198009,"GPRD_product_code","METOPROLOL tabs 50mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"343",2198010,"GPRD_product_code","METOPROLOL tabs 100mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"344",2202009,"GPRD_product_code","PROPRANOLOL tabs 160mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"345",2213009,"GPRD_product_code","ATENOLOL tabs 25mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"346",2213010,"GPRD_product_code","ATENOLOL tabs 50mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"347",2213011,"GPRD_product_code","ATENOLOL tabs 100mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"348",2216001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"349",2216002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"350",2216003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"351",2217001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"352",2220009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"353",2220010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"354",2220011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"355",2230009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"356",2230010,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"357",2233009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"358",2259009,"GPRD_product_code","METOPROLOL tabs 50mg [ALPHARMA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"359",2259010,"GPRD_product_code","METOPROLOL tabs 100mg [ALPHARMA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"360",2263001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"361",2263002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"362",2272001,"GPRD_product_code","ESMOLOL HCl inj 10mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"363",2272002,"GPRD_product_code","ESMOLOL HCl conc soln inf 250mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"364",2278009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"365",2278010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"366",2289001,"GPRD_product_code","TENCHLOR tabs 50mg+12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"367",2289002,"GPRD_product_code","TENCHLOR tabs 100mg + 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"368",2295009,"GPRD_product_code","TIMOLOL eye drp 0.25% [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"369",2295010,"GPRD_product_code","TIMOLOL eye drp 0.5% [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"370",2300009,"GPRD_product_code","TIMOLOL eye drp 0.25% [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"371",2300010,"GPRD_product_code","TIMOLOL eye drp 0.5% [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"372",2302009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"373",2308001,"GPRD_product_code","HALF-BETADUR CR caps 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"374",2320007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"375",2337001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"376",2337002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"377",2371001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"378",2371002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"379",2409001,"GPRD_product_code","APSOLOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"380",2409002,"GPRD_product_code","APSOLOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"381",2409003,"GPRD_product_code","APSOLOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"382",2410001,"GPRD_product_code","APSOLOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"383",2411001,"GPRD_product_code","APSOLOX tabs 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"384",2411002,"GPRD_product_code","APSOLOX tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"385",2411003,"GPRD_product_code","APSOLOX tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"386",2412001,"GPRD_product_code","APSOLOX tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"387",2441009,"GPRD_product_code","ATENOLOL tabs 25mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"388",2466001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"389",2466002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"390",2467001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"391",2485001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"392",2485002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"393",2518001,"GPRD_product_code","COMBITENS caps 50mg + 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"394",2534001,"GPRD_product_code","SOLOC tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"395",2597007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"396",2666001,"GPRD_product_code","SOLOC tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"397",2706007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"398",2707007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"399",2708007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"400",2709007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"401",2740009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"402",2774009,"GPRD_product_code","TIMOLOL eye drp 0.25% [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"403",2774010,"GPRD_product_code","TIMOLOL eye drp 0.5% [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"404",2777009,"GPRD_product_code","SOTALOL tabs 80mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"405",2777010,"GPRD_product_code","SOTALOL tabs 160mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"406",2783001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"407",2783002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"408",2783003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"409",2784001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"410",2786001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"411",2786002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"412",2796001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"413",2796002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"414",2796003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"415",2797001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"416",2804001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"417",2804002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"418",2804003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"419",2805001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"420",2805002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"421",2806001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"422",2806002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"423",2806003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"424",2807001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"425",2807002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"426",2808001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"427",2808002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"428",2814009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"429",2831009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"430",2831010,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"431",2838007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"432",2839007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"433",2840007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"434",2841007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"435",2842009,"GPRD_product_code","SOTALOL tabs 80mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"436",2842010,"GPRD_product_code","SOTALOL tabs 160mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"437",2850009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"438",2859009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"439",2859010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"440",2862009,"GPRD_product_code","ATENOLOL tabs 25mg [TILLOMED]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"441",2862010,"GPRD_product_code","ATENOLOL tabs 50mg [TILLOMED]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"442",2862011,"GPRD_product_code","ATENOLOL tabs 100mg [TILLOMED]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"443",2863009,"GPRD_product_code","SOTALOL tabs 40mg [TILLOMED]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"444",2863010,"GPRD_product_code","SOTALOL tabs 80mg [TILLOMED]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"445",2863011,"GPRD_product_code","SOTALOL tabs 160mg [TILLOMED]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"446",2871009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"447",2871010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"448",2874001,"GPRD_product_code","OXPRENOLOL tabs 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"449",2874002,"GPRD_product_code","OXPRENOLOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"450",2874003,"GPRD_product_code","OXPRENOLOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"451",2875001,"GPRD_product_code","OXPRENOLOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"452",2876001,"GPRD_product_code","PROPRANOLOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"453",2876002,"GPRD_product_code","PROPRANOLOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"454",2876003,"GPRD_product_code","PROPRANOLOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"455",2877001,"GPRD_product_code","PROPRANOLOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"456",2877002,"GPRD_product_code","PROPRANOLOL oral soln 5mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"457",2877003,"GPRD_product_code","PROPRANOLOL oral soln 10mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"458",2894009,"GPRD_product_code","PROPRANOLOL sr cap 160mg [LAGAP]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"459",2894010,"GPRD_product_code","PROPRANOLOL mr cap 80mg [LAGAP]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"460",2895001,"GPRD_product_code","ANGILOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"461",2895002,"GPRD_product_code","ANGILOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"462",2895003,"GPRD_product_code","ANGILOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"463",2896001,"GPRD_product_code","ANGILOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"464",2896009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"465",2897001,"GPRD_product_code","BEDRANOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"466",2897002,"GPRD_product_code","BEDRANOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"467",2897003,"GPRD_product_code","BEDRANOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"468",2898001,"GPRD_product_code","BEDRANOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"469",2899001,"GPRD_product_code","LARACOR tabs 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"470",2899002,"GPRD_product_code","LARACOR tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"471",2899003,"GPRD_product_code","LARACOR tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"472",2900001,"GPRD_product_code","LARACOR tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"473",2901001,"GPRD_product_code","SLOW-PREN tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"474",2913001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"475",2918001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"476",2918002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"477",2919001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"478",2919002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"479",2966001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"480",2966002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"481",2966003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"482",2968001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,9070000,NA
+"483",3007001,"GPRD_product_code","ACEBUTOLOL HCl caps 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"484",3007002,"GPRD_product_code","ACEBUTOLOL HCl caps 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"485",3007003,"GPRD_product_code","ACEBUTOLOL HCl tabs 400mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"486",3009001,"GPRD_product_code","ACEBUTOLOL HCl & HYDROCHLOROTHIAZIDE tabs 200mg + 12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"487",3011001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"488",3011002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"489",3011003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"490",3012001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"491",3012002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"492",3013001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"493",3013009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"494",3013010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"495",3013011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"496",3014001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"497",3021009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"498",3022009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"499",3022010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"500",3028009,"GPRD_product_code","ATENOLOL tabs 25mg [STERWIN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"501",3028010,"GPRD_product_code","ATENOLOL tabs 50mg [STERWIN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"502",3028011,"GPRD_product_code","ATENOLOL tabs 100mg [STERWIN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"503",3059001,"GPRD_product_code","ATENOLOL tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"504",3059002,"GPRD_product_code","ATENOLOL tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"505",3075009,"GPRD_product_code","ATENOLOL tabs 25mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"506",3075010,"GPRD_product_code","ATENOLOL tabs 50mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"507",3075011,"GPRD_product_code","ATENOLOL tabs 100mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"508",3083009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"509",3083010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"510",3083011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"511",3092001,"GPRD_product_code","ATENOLOL inj 5mg/10ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"512",3104009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"513",3104010,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"514",3114001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"515",3133009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"516",3135009,"GPRD_product_code","PINDOLOL tabs 5mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"517",3135010,"GPRD_product_code","PINDOLOL tabs 15mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"518",3140001,"GPRD_product_code","TEOPTIC eye drp 1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"519",3140002,"GPRD_product_code","TEOPTIC eye drp 2% w/v","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"520",3140009,"GPRD_product_code","TIMOLOL eye drp 0.25% [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"521",3140010,"GPRD_product_code","TIMOLOL eye drp 0.5% [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"522",3149007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"523",3150009,"GPRD_product_code","METOPROLOL tabs 50mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"524",3150010,"GPRD_product_code","METOPROLOL tabs 100mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"525",3156009,"GPRD_product_code","PINDOLOL tabs 5mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"526",3156010,"GPRD_product_code","PINDOLOL tabs 15mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"527",3232001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"528",3232002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"529",3259009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2030203,NA
+"530",3266007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"531",3285009,"GPRD_product_code","SOTALOL tabs 80mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"532",3285010,"GPRD_product_code","SOTALOL tabs 160mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"533",3297009,"GPRD_product_code","TIMOLOL eye drp 0.25% [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"534",3297010,"GPRD_product_code","TIMOLOL eye drp 0.5% [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"535",3302009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"536",3302010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"537",3302011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"538",3316001,"GPRD_product_code","CHLORTALIDONE + ATENOLOL tabs 12.5mg+50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"539",3316002,"GPRD_product_code","CHLORTALIDONE + ATENOLOL tabs 25mg+100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"540",3317001,"GPRD_product_code","CHLORTALIDONE + METOPROLOL TARTRATE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"541",3323009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"542",3351001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"543",3351002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"544",3361009,"GPRD_product_code","TIMOLOL eye drp 0.25% [MARTINDALE]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"545",3361010,"GPRD_product_code","TIMOLOL eye drp 0.5% [MARTINDALE]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"546",3365001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"547",3365002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"548",3365003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"549",3369001,"GPRD_product_code","CLOPAMIDE + PINDOLOL tabs 5mg + 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"550",3396009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"551",3396010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"552",3414001,"GPRD_product_code","CYCLOPENTHIAZIDE + OXPRENOLOL mr tab 0.25mg+160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"553",3428009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"554",3439009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"555",3439010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"556",3439011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"557",3463009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"558",3463010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"559",3520007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"560",3536007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"561",3553009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"562",3553010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"563",3590001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"564",3590002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"565",3590003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"566",3591001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"567",3591002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"568",3592001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"569",3592002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"570",3592003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"571",3613007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"572",3646009,"GPRD_product_code","LEVOBUNOLOL eye drp 0.5% [CUSI]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"573",3650009,"GPRD_product_code","BISOPROLOL tabs 5mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"574",3650010,"GPRD_product_code","BISOPROLOL tabs 10mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"575",3651009,"GPRD_product_code","BISOPROLOL tabs 5mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"576",3651010,"GPRD_product_code","BISOPROLOL tabs 10mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"577",3653009,"GPRD_product_code","BISOPROLOL tabs 5mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"578",3653010,"GPRD_product_code","BISOPROLOL tabs 10mg [ALPHAR/COX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"579",3660009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"580",3662009,"GPRD_product_code","BISOPROLOL tabs 5mg [PLIVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"581",3662010,"GPRD_product_code","BISOPROLOL tabs 10mg [PLIVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"582",3675009,"GPRD_product_code","BISOPROLOL tabs 5mg [STERWIN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"583",3675010,"GPRD_product_code","BISOPROLOL tabs 10mg [STERWIN]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"584",3680009,"GPRD_product_code","BISOPROLOL tabs 5mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"585",3680010,"GPRD_product_code","BISOPROLOL tabs 10mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"586",3688009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"587",3688010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"588",3688011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"589",3705009,"GPRD_product_code","BISOPROLOL tabs 5mg [GENUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"590",3705010,"GPRD_product_code","BISOPROLOL tabs 10mg [GENUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"591",3707009,"GPRD_product_code","BISOPROLOL tabs 5mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"592",3707010,"GPRD_product_code","BISOPROLOL tabs 10mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"593",3710009,"GPRD_product_code","BISOPROLOL tabs 5mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"594",3710010,"GPRD_product_code","BISOPROLOL tabs 10mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"595",3715009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"596",3715010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"597",3723009,"GPRD_product_code","BISOPROLOL tabs 5mg [RANBAXY]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"598",3723010,"GPRD_product_code","BISOPROLOL tabs 10mg [RANBAXY]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"599",3731009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"600",3731010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"601",3756009,"GPRD_product_code","BISOPROLOL tabs 5mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"602",3757009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"603",3757010,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"604",3757011,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"605",3761009,"GPRD_product_code","PROPRANOLOL tabs 10mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"606",3761010,"GPRD_product_code","PROPRANOLOL tabs 40mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"607",3761011,"GPRD_product_code","PROPRANOLOL tabs 80mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"608",3762009,"GPRD_product_code","PROPRANOLOL tabs 160mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"609",3794009,"GPRD_product_code","BISOPROLOL tabs 10mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"610",3804007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"611",3839007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"612",3840009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"613",3871009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"614",3872009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"615",3874009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"616",3875009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"617",3880009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"618",3881009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"619",3882009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"620",3898009,"GPRD_product_code","SOTALOL tabs 40mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"621",3903007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"622",3929001,"GPRD_product_code","ATENIXCO tabs 50mg+12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"623",3929002,"GPRD_product_code","ATENIXCO tabs 100mg + 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"624",3956001,"GPRD_product_code","MEPRANIX tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"625",3956002,"GPRD_product_code","MEPRANIX tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"626",3974001,"GPRD_product_code","PROPANIX tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"627",3974002,"GPRD_product_code","PROPANIX sr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"628",3981009,"GPRD_product_code","BISOPROLOL tabs 5mg [NICHE]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"629",3982009,"GPRD_product_code","BISOPROLOL tabs 10mg [NICHE]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"630",3995009,"GPRD_product_code","PROPRANOLOL tabs 10mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"631",3996009,"GPRD_product_code","PROPRANOLOL tabs 40mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"632",3997009,"GPRD_product_code","BISOPROLOL tabs 5mg [NEOLAB]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"633",3998009,"GPRD_product_code","BISOPROLOL tabs 10mg [NEOLAB]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"634",4002009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"635",4003009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"636",4004001,"GPRD_product_code","PROPANIX tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"637",4004002,"GPRD_product_code","PROPANIX tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"638",4004003,"GPRD_product_code","PROPANIX tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"639",4006001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"640",4044001,"GPRD_product_code","BETOPTIC eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"641",4044002,"GPRD_product_code","BETOPTIC ophthalmic susp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"642",4099001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010300,NA
+"643",4100001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010300,NA
+"644",4144009,"GPRD_product_code","PROPRANOLOL SR cap 80mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"645",4151009,"GPRD_product_code","LEVOBUNOLOL eye drp 0.5% [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"646",4159001,"GPRD_product_code","METIPRANOLOL eye drp 0.1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"647",4159002,"GPRD_product_code","METIPRANOLOL eye drp 0.3%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"648",4159003,"GPRD_product_code","METIPRANOLOL eye drp 0.6%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"649",4160001,"GPRD_product_code","GLAULINE eye drp 0.1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"650",4160002,"GPRD_product_code","GLAULINE eye drp 0.3%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"651",4160003,"GPRD_product_code","GLAULINE eye drp 0.6%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"652",4161007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"653",4173001,"GPRD_product_code","METOPROLOL TARTRATE tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"654",4173002,"GPRD_product_code","METOPROLOL TARTRATE tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"655",4174001,"GPRD_product_code","METOPROLOL TARTRATE mr tab 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"656",4175001,"GPRD_product_code","LOPRESOR inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"657",4189009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"658",4192009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"659",4197001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"660",4197002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"661",4197003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"662",4233001,"GPRD_product_code","NADOLOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"663",4233002,"GPRD_product_code","NADOLOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"664",4234001,"GPRD_product_code","NADOLOL + BENDROFLUMETHIAZIDE tabs 40mg + 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"665",4234002,"GPRD_product_code","NADOLOL + BENDROFLUMETHIAZIDE tabs 80mg + 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"666",4249007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"667",4304009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"668",4337001,"GPRD_product_code","OXPRENOLOL mr tab 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"669",4338001,"GPRD_product_code","OXPRENOLOL inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"670",4339001,"GPRD_product_code","TRASICOR inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"671",4348009,"GPRD_product_code","SOTALOL tabs 40mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"672",4382009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"673",4383009,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [KENT]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"674",4445001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"675",4446001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"676",4466001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"677",4466002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"678",4466003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"679",4467001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"680",4467002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"681",4467003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"682",4468001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2030203,NA
+"683",4479009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"684",4484001,"GPRD_product_code","PINDOLOL tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"685",4484002,"GPRD_product_code","PINDOLOL tabs 15mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"686",4485001,"GPRD_product_code","PINDOLOL + CLOPAMIDE tabs 10mg + 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"687",4494009,"GPRD_product_code","SOTALOL tabs 40mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"688",4495009,"GPRD_product_code","SOTALOL tabs 80mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"689",4496009,"GPRD_product_code","SOTALOL tabs 160mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"690",4529009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"691",4530009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,10020200,NA
+"692",4531009,"GPRD_product_code","METOPROLOL tabs 50mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"693",4532009,"GPRD_product_code","METOPROLOL tabs 100mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"694",4555001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"695",4555002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"696",4555003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"697",4595001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"698",4595002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"699",4595003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"700",4596001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"701",4596002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"702",4621001,"GPRD_product_code","PROPRANOLOL mr cap 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"703",4621002,"GPRD_product_code","PROPRANOLOL mr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"704",4622001,"GPRD_product_code","PROPRANOLOL inj 1mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"705",4623001,"GPRD_product_code","SLOPROLOL caps 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"706",4729001,"GPRD_product_code","SOTALOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"707",4729002,"GPRD_product_code","SOTALOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"708",4729003,"GPRD_product_code","SOTALOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"709",4730001,"GPRD_product_code","SOTALOL tabs 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"710",4731001,"GPRD_product_code","SOTALOL inj 10mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"711",4731002,"GPRD_product_code","SOTALOL inj 2mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"712",4732001,"GPRD_product_code","SOTALOL + HYDROCHLOROTHIAZIDE tabs 80mg + 12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"713",4732002,"GPRD_product_code","SOTALOL + HYDROCHLOROTHIAZIDE tabs 160mg + 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"714",4734001,"GPRD_product_code","SOTACOR inj 10mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"715",4734009,"GPRD_product_code","PROPRANOLOL mr cap 160mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"716",4735001,"GPRD_product_code","TOLERZIDE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"717",4782009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"718",4783009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"719",4806009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"720",4807009,"GPRD_product_code","BISOPROLOL tabs 10mg [RELONCHEM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"721",4809009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"722",4810009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"723",4811009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"724",4812009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"725",4813009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"726",4837001,"GPRD_product_code","TIMOLOL MALEATE eye drp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"727",4837002,"GPRD_product_code","TIMOLOL MALEATE eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"728",4838001,"GPRD_product_code","TIMOLOL MALEATE + BENDROFLUMETHIAZIDE tabs 10mg + 2.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"729",4838002,"GPRD_product_code","TIMOLOL MALEATE + BENDROFLUMETHIAZIDE tabs 20mg + 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"730",4838009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"731",4840001,"GPRD_product_code","PRESTIM FORTE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"732",4840009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"733",4841009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"734",4842009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"735",4843009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"736",4847009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"737",4859001,"GPRD_product_code","METOPROLOL TARTRATE susp 50mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"738",4977001,"GPRD_product_code","ATENOLOL + AMILORIDE caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"739",4978001,"GPRD_product_code","ATENOLOL + CHLORTALIDONE tabs 50mg+12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"740",4978002,"GPRD_product_code","ATENOLOL + CHLORTALIDONE tabs 100mg+25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"741",4985001,"GPRD_product_code","BENDROFLUMETHIAZIDE + PROPRANOLOL caps 2.5mg + 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"742",4985002,"GPRD_product_code","BENDROFLUMETHIAZIDE + PROPRANOLOL mr cap 5mg + 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"743",4987001,"GPRD_product_code","BENDROFLUMETHIAZIDE + NADOLOL tabs 5mg + 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"744",4987002,"GPRD_product_code","BENDROFLUMETHIAZIDE + NADOLOL tabs 5mg + 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"745",4988001,"GPRD_product_code","BENDROFLUMETHIAZIDE + TIMOLOL MALEATE tabs 2.5mg + 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"746",4988002,"GPRD_product_code","BENDROFLUMETHIAZIDE + TIMOLOL MALEATE tabs 5mg + 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"747",5008009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [ALPHARMA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"748",5009009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [ALPHARMA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"749",5010009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [ALPHARMA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"750",5011009,"GPRD_product_code","CARVEDILOL tabs 25mg [ALPHARMA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"751",5013009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"752",5014009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"753",5015009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"754",5016009,"GPRD_product_code","CARVEDILOL tabs 25mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"755",5023009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [NICHE]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"756",5024009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [NICHE]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"757",5025009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [NICHE]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"758",5026009,"GPRD_product_code","CARVEDILOL tabs 25mg [NICHE]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"759",5032009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"760",5033009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [RATIOPHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"761",5034009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [RATIOPHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"762",5035009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [RATIOPHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"763",5036009,"GPRD_product_code","CARVEDILOL tabs 25mg [RATIOPHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"764",5037009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"765",5038009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"766",5039009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"767",5040009,"GPRD_product_code","CARVEDILOL tabs 25mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"768",5041009,"GPRD_product_code","BISOPROLOL tabs 5mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"769",5042009,"GPRD_product_code","BISOPROLOL tabs 10mg [SANDOZ]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"770",5044009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"771",5045009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"772",5046009,"GPRD_product_code","CARVEDILOL tabs 25mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"773",5068009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"774",5069009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"775",5070001,"GPRD_product_code","ATENOLOL sf syrp 25mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"776",5070002,"GPRD_product_code","ATENOLOL tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"777",5070009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"778",5071009,"GPRD_product_code","CARVEDILOL tabs 25mg [IVAX]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"779",5075009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [PLIVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"780",5076009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [PLIVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"781",5077009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [PLIVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"782",5085007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"783",5164001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"784",5164002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"785",5164003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"786",5165001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"787",5165002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"788",5165003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"789",5191001,"GPRD_product_code","MONOCOR tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"790",5191002,"GPRD_product_code","MONOCOR tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"791",5195001,"GPRD_product_code","EMCOR tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"792",5197001,"GPRD_product_code","EMCOR LS tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"793",5216001,"GPRD_product_code","BISOPROLOL tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"794",5216002,"GPRD_product_code","BISOPROLOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"795",5216003,"GPRD_product_code","BISOPROLOL tabs 1.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"796",5222001,"GPRD_product_code","MINIMS METIPRANOLOL eye drp 0.1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"797",5222002,"GPRD_product_code","MINIMS METIPRANOLOL eye drp 0.3%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"798",5222003,"GPRD_product_code","MINIMS METIPRANOLOL eye drp 0.6%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"799",5227009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"800",5262009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"801",5263009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"802",5265009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"803",5267001,"GPRD_product_code","BETA-ADALAT caps 50mg + 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"804",5273001,"GPRD_product_code","TENIF caps 50mg + 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2060200,NA
+"805",5317007,"GPRD_product_code","ATENOLOL/CHLORTHALIDONE 50 MG TAB","drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"806",5317009,"GPRD_product_code","PROPRANOLOL SR cap 80mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"807",5318009,"GPRD_product_code","PROPRANOLOL SR cap 160mg [APS]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"808",5320001,"GPRD_product_code","ANTIPRESSAN tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"809",5320002,"GPRD_product_code","ANTIPRESSAN tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"810",5320003,"GPRD_product_code","ANTIPRESSAN tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"811",5328001,"GPRD_product_code","HYDROCHLOROTHIAZIDE + ATENOLOL & AMILORIDE caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2020300,NA
+"812",5329001,"GPRD_product_code","ATENOLOL + AMILORIDE & HYDROCHLOROTHIAZIDE caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"813",5330001,"GPRD_product_code","ATENOLOL + NIFEDIPINE caps 50mg + 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"814",5331001,"GPRD_product_code","NIFEDIPINE + ATENOLOL caps 20mg + 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2060200,NA
+"815",5334009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080300,NA
+"816",5335009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"817",5364001,"GPRD_product_code","METOPROLOL TARTRATE + CHLORTALIDONE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"818",5365001,"GPRD_product_code","METOPROLOL TARTRATE + HYDROCHLOROTHIAZIDE mr tab 200mg + 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"819",5365002,"GPRD_product_code","METOPROLOL TARTRATE + HYDROCHLOROTHIAZIDE tabs 100mg + 12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"820",5366001,"GPRD_product_code","HYDROCHLOROTHIAZIDE + METOPROLOL TARTRATE mr tab 25mg + 200mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"821",5366002,"GPRD_product_code","HYDROCHLOROTHIAZIDE + METOPROLOL TARTRATE tabs 12.5mg + 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"822",5393001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"823",5393002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"824",5426001,"GPRD_product_code","TIMOLOL MALEATE tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"825",5429001,"GPRD_product_code","BETAXOLOL HCl eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"826",5429002,"GPRD_product_code","BETAXOLOL HCl ophthalmic susp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"827",5431001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"828",5431002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"829",5431003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"830",5433007,"GPRD_product_code","ACEBUTOLOL 5 MG INJ","drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"831",5448001,"GPRD_product_code","TIMOLOL MALEATE + AMILORIDE & HYDROCHLOROTHIAZIDE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"832",5449001,"GPRD_product_code","AMILORIDE HCl + TIMOLOL & HYDROCHLOROTHIAZIDE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"833",5450001,"GPRD_product_code","HYDROCHLOROTHIAZIDE + TIMOLOL & AMILORIDE tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"834",5454001,"GPRD_product_code","AMILORIDE HCl + ATENOLOL & HYDROCHLOROTHIAZIDE caps","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"835",5474007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"836",5500009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"837",5506001,"GPRD_product_code","BEDRANOL SR caps 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"838",5531009,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"839",5532009,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"840",5544007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"841",5575009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [GENUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"842",5576009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [GENUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"843",5577001,"GPRD_product_code","PROPRANOLOL + BENDROFLUMETHIAZIDE caps 80mg + 2.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"844",5577002,"GPRD_product_code","PROPRANOLOL + BENDROFLUMETHIAZIDE mr cap 160mg + 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"845",5577009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [GENUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"846",5578009,"GPRD_product_code","CARVEDILOL tabs 25mg [GENUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"847",5590001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"848",5590002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"849",5590003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"850",5591001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"851",5591002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"852",5591003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"853",5617009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"854",5618009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"855",5619009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"856",5692009,"GPRD_product_code","BISOPROLOL tabs 5mg [FOCUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"857",5693009,"GPRD_product_code","BISOPROLOL tabs 10mg [FOCUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"858",5694009,"GPRD_product_code","CARVEDILOL tabs 3.125mg [FOCUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"859",5695009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [FOCUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"860",5696009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [FOCUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"861",5697009,"GPRD_product_code","CARVEDILOL tabs 25mg [FOCUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"862",5711007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"863",5719009,"GPRD_product_code","ATENOLOL tabs 25mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"864",5720009,"GPRD_product_code","ATENOLOL tabs 50mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"865",5721009,"GPRD_product_code","ATENOLOL tabs 100mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"866",5726009,"GPRD_product_code","BISOPROLOL tabs 5mg [RATIOPHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"867",5727009,"GPRD_product_code","BISOPROLOL tabs 10mg [RATIOPHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"868",5776007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"869",5777007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"870",5817009,"GPRD_product_code","PROPRANOLOL tabs 10mg [RANBAXY]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"871",5818009,"GPRD_product_code","PROPRANOLOL tabs 40mg [RANBAXY]","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"872",5819009,"GPRD_product_code","PROPRANOLOL tabs 80mg [RANBAXY]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"873",5820009,"GPRD_product_code","PROPRANOLOL tabs 160mg [RANBAXY]","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"874",5832009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"875",5833009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"876",5834009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"877",5839009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"878",5840009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"879",5843001,"GPRD_product_code","BETADREN tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"880",5876009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"881",5877009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"882",5878009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"883",5879009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"884",5880009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"885",5881009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"886",5882009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"887",5883009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"888",5894009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"889",5895009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"890",5896009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"891",5897009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"892",5898009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"893",5899009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"894",5900009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"895",5901009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"896",5902009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"897",5903009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"898",5906009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"899",5907009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"900",5908009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"901",5909009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"902",5910009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"903",5911009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"904",5912009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"905",5913009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"906",5914009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"907",5915009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"908",5916009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"909",5931001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"910",5931002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"911",5933009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"912",5934009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"913",5935009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"914",5936009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"915",5950009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"916",5951009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"917",5952009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"918",5953009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"919",5954009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"920",5955009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"921",5956009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"922",5986009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"923",5987009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"924",5988009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"925",5989009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"926",5990009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"927",5991009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"928",6026009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"929",6027009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"930",6028009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"931",6029009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"932",6032009,"GPRD_product_code","SOTALOL tabs 40mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"933",6060009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"934",6061009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"935",6062009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"936",6063009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"937",6064001,"GPRD_product_code","CARDINOL tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"938",6064002,"GPRD_product_code","CARDINOL tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"939",6064003,"GPRD_product_code","CARDINOL tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"940",6064009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"941",6065001,"GPRD_product_code","CARDINOL tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"942",6065009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"943",6066009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"944",6077009,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg [CP PHARM]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"945",6086009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"946",6113009,"GPRD_product_code","PROPRANOLOL tabs 10mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"947",6114009,"GPRD_product_code","PROPRANOLOL tabs 40mg [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"948",6117009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"949",6118009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"950",6119009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"951",6120009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"952",6121009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"953",6122001,"GPRD_product_code","BETADUR CR sr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"954",6122009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"955",6123009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"956",6130009,"GPRD_product_code","TIMOLOL eye drp 0.5% [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"957",6131009,"GPRD_product_code","TIMOLOL eye drp 0.25% [ALMUS]","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"958",6140001,"GPRD_product_code","CARTEOLOL HCl eye drp 1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"959",6140002,"GPRD_product_code","CARTEOLOL HCl eye drp 2% w/v","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"960",6147009,"GPRD_product_code","ACEBUTOLOL caps 100mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"961",6148009,"GPRD_product_code","ACEBUTOLOL caps 200mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"962",6149009,"GPRD_product_code","ACEBUTOLOL tabs 400mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"963",6150009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"964",6151009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"965",6164001,"GPRD_product_code","PARITANE tabs 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"966",6170009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"967",6173009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"968",6174009,"GPRD_product_code","CARVEDILOL tabs 6.25mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"969",6175009,"GPRD_product_code","CARVEDILOL tabs 12.5mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"970",6176009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"971",6177009,"GPRD_product_code","CARVEDILOL tabs 25mg [GEN (UK)]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"972",6187009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"973",6188009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"974",6189009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"975",6190009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"976",6191009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"977",6192009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"978",6193009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"979",6204009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"980",6205009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"981",6227009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"982",6228009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"983",6229001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"984",6229002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"985",6229003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"986",6229009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"987",6230001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"988",6230002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"989",6230009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"990",6253001,"GPRD_product_code","HALF BETA-PROGRANE sr cap 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"991",6256009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"992",6272009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"993",6290009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"994",6307001,"GPRD_product_code","CARVEDILOL tabs 12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"995",6307002,"GPRD_product_code","CARVEDILOL tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"996",6307003,"GPRD_product_code","CARVEDILOL tabs 3.125mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"997",6308001,"GPRD_product_code","EUCARDIC tabs 12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"998",6308002,"GPRD_product_code","EUCARDIC tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"999",6308003,"GPRD_product_code","EUCARDIC tabs 3.125mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1000",6311009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1001",6312009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1002",6365001,"GPRD_product_code","BETAGAN eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1003",6367001,"GPRD_product_code","LEVOBUNOLOL eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1004",6391001,"GPRD_product_code","TENORMIN 25 tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1005",6403009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1006",6404009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1007",6405009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1008",6406009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1009",6420001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1010",6420002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1011",6436001,"GPRD_product_code","VASATEN tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1012",6436002,"GPRD_product_code","VASATEN tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1013",6437001,"GPRD_product_code","TOTAMOL tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1014",6437002,"GPRD_product_code","TOTAMOL tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1015",6437003,"GPRD_product_code","TOTAMOL tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1016",6438001,"GPRD_product_code","ATENIX tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1017",6438002,"GPRD_product_code","ATENIX tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1018",6438003,"GPRD_product_code","ATENIX tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1019",6467001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1020",6467002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1021",6468001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1022",6468002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1023",6469001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1024",6469002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1025",6470009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"1026",6472009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1027",6487009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1028",6488009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1029",6498009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1030",6499009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1031",6506009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1032",6507009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1033",6508009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1034",6509009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1035",6539007,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"1036",6545001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1037",6545002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1038",6545003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1039",6555009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1040",6556009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1041",6657009,"GPRD_product_code","BISOPROLOL tabs 2.5mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1042",6693009,"GPRD_product_code","BISOPROLOL tabs 1.25mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1043",6694009,"GPRD_product_code","BISOPROLOL tabs 2.5mg [TEVA]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1044",6703009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1045",6704007,"GPRD_product_code","NADOLOL 80MG/BENDROFLUAZIDE 5MG MG TAB","drug","111 - ACE_inhibitors","2014-01-30",NA,0,NA
+"1046",6704009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1047",6705009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1048",6706009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1049",6707009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1050",6775009,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1051",6780001,"GPRD_product_code","CO-TENIDONE tabs 50mg+12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"1052",6780002,"GPRD_product_code","CO-TENIDONE tabs 100mg+25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"1053",6789001,"GPRD_product_code","OXPRENOLOL + CYCLOPENTHIAZIDE mr tab 160mg+0.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"1054",6790001,"GPRD_product_code","CO-PRENOZIDE mr tab 160mg + 0.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1055",6850009,"GPRD_product_code","BISOPROLOL tabs 1.25mg [HILLCROSS]","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1056",6851001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1057",6940001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1058",6940002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1059",6940003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1060",6941001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1061",6941002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1062",6941003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1063",6983001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1064",6983002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1065",6983003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1066",7073001,"GPRD_product_code","OXYPRENIX SR tabs 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1067",7081001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1068",7081002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1069",7081003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1070",7082001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1071",7082002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1072",7082003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1073",7096001,"GPRD_product_code","GLAUCOL unit dose eye drops 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1074",7096002,"GPRD_product_code","GLAUCOL unit dose eye drops 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1075",7097001,"GPRD_product_code","TIMOLOL MALEATE PRESERVATIVE FREE unit dose eye drops 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1076",7097002,"GPRD_product_code","TIMOLOL MALEATE PRESERVATIVE FREE unit dose eye drops 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1077",7098001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"1078",7109001,"GPRD_product_code","MONOZIDE 10 tabs 10mg + 6.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1079",7110001,"GPRD_product_code","BISOPROLOL & HYDROCHLOROTHIAZIDE tabs 10mg + 6.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1080",7130001,"GPRD_product_code","METIPRANOLOL PRESERVATIVE FREE eye drp 0.1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1081",7130002,"GPRD_product_code","METIPRANOLOL PRESERVATIVE FREE eye drp 0.3%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1082",7133001,"GPRD_product_code","TIMOPTOL PRESERVATIVE FREE unit dose eye drops 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1083",7133002,"GPRD_product_code","TIMOPTOL PRESERVATIVE FREE unit dose eye drops 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1084",7141001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080300,NA
+"1085",7141002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"1086",7162001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1087",7162002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1088",7162003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1089",7172001,"GPRD_product_code","PROPRANOLOL oral soln 40mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"1090",7172002,"GPRD_product_code","PROPRANOLOL oral soln 50mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1091",7172003,"GPRD_product_code","PROPRANOLOL oral soln 80mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"1092",7185001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1093",7185002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1094",7185003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1095",7187001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1096",7197001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1097",7197002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1098",7197003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1099",7264001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1100",7264002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1101",7265001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1102",7265002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1103",7290001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1104",7290002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1105",7290003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1106",7299001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1107",7299002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1108",7299003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1109",7426001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080300,NA
+"1110",7621001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1111",7624001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1112",7624002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1113",7624003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1114",7654001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1115",7716001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1116",7717001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1117",7848001,"GPRD_product_code","VIVACOR tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1118",7868001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1119",7868002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1120",7884001,"GPRD_product_code","BETOPTIC PRESERVATIVE FREE ophthalmic susp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1121",7935001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"1122",8112001,"GPRD_product_code","VISKEN tabs 15mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1123",8115001,"GPRD_product_code","VISKEN tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1124",8160001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1125",8162001,"GPRD_product_code","LOPRANOL LA caps 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1126",8233001,"GPRD_product_code","PROBETA LA caps 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1127",8356001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"1128",8373001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1129",8374001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1130",8374002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1131",8374003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1132",8403001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1133",8403002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1134",8445001,"GPRD_product_code","DUPROMEX tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1135",8445002,"GPRD_product_code","DUPROMEX tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"1136",8508001,"GPRD_product_code","SOTACOR inj 10mg/ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1137",8521001,"GPRD_product_code","RAPRANOL SR cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1138",8523001,"GPRD_product_code","BETAGAN PRESERVATIVE FREE eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1139",8534001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1140",8534002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1141",8558001,"GPRD_product_code","LEVOBUNOLOL PRESERVATIVE FREE eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1142",8570001,"GPRD_product_code","XALACOM eye drp","drug","111 - ACE_inhibitors","2014-01-30",NA,11060500,NA
+"1143",8645001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1144",8673001,"GPRD_product_code","SYPROL oral soln 5mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"1145",8673002,"GPRD_product_code","SYPROL oral soln 10mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"1146",8673003,"GPRD_product_code","SYPROL oral soln 50mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2030202,NA
+"1147",8717001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"1148",8779001,"GPRD_product_code","TENSOMEX tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1149",8781001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1150",8920001,"GPRD_product_code","TOTARETIC tabs 50mg+12.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1151",8920002,"GPRD_product_code","TOTARETIC tabs 100mg+25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"1152",8948001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1153",8948002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1154",8948003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1155",8949001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1156",8949002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1157",8949003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1158",8954001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1159",8955001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1160",8955002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1161",8955003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1162",9080001,"GPRD_product_code","NEBIVOLOL tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1163",9081001,"GPRD_product_code","NEBILET tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1164",9095001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1165",9141001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1166",9151001,"GPRD_product_code","COSOPT eye drp 2% + 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1167",9219001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1168",9219002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1169",9219003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1170",9223001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1171",9494001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1172",9570001,"GPRD_product_code","TIMOLOL MALEATE eye gel 0.1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1173",9571001,"GPRD_product_code","NYOGEL eye gel 0.1%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1174",9573001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1175",9573002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1176",9574001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1177",9575001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1178",9982001,"GPRD_product_code","TIMOPTOL LA gel eye drops 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1179",9982002,"GPRD_product_code","TIMOPTOL LA gel eye drops 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1180",9983001,"GPRD_product_code","TIMOLOL MALEATE gel eye drops 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1181",9983002,"GPRD_product_code","TIMOLOL MALEATE gel eye drops 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1182",10008001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1183",10148001,"GPRD_product_code","BETAXOLOL HCl PRESERVATIVE FREE ophthalmic susp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1184",10244001,"GPRD_product_code","TIMOLOL MALEATE + DORZOLAMIDE eye drp 0.5% + 2%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1185",10340001,"GPRD_product_code","BISOPROLOL tabs 2.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1186",10340002,"GPRD_product_code","BISOPROLOL tabs 3.75mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1187",10340003,"GPRD_product_code","BISOPROLOL tabs 7.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1188",10341001,"GPRD_product_code","CARDICOR tabs 1.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1189",10341002,"GPRD_product_code","CARDICOR tabs 2.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1190",10341003,"GPRD_product_code","CARDICOR tabs 3.75mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1191",10343001,"GPRD_product_code","CARDICOR tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1192",10343002,"GPRD_product_code","CARDICOR tabs 7.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1193",10343003,"GPRD_product_code","CARDICOR tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1194",10498001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080200,NA
+"1195",10508001,"GPRD_product_code","DORZOLAMIDE HCl + TIMOLOL MALEATE eye drp 2% + 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1196",10590001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1197",10590002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1198",10590003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1199",10591001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1200",10591002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1201",10591003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1202",10602001,"GPRD_product_code","CARVEDILOL tabs 6.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1203",10603001,"GPRD_product_code","EUCARDIC tabs 6.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1204",10615001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1205",10615002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1206",10709001,"GPRD_product_code","ATENOLOL + BENDROFLUMETHIAZIDE caps 25mg + 1.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2020100,NA
+"1207",10711001,"GPRD_product_code","TENBEN caps 25mg + 1.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1208",10768001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1209",10789001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1210",10789002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1211",10789003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1212",10833001,"GPRD_product_code","GLAU-OPT eye drp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1213",10833002,"GPRD_product_code","GLAU-OPT eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1214",10970001,"GPRD_product_code","VIVACOR tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1215",10991001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"1216",11069001,"GPRD_product_code","GLAUCOL eye drp 0.25%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1217",11069002,"GPRD_product_code","GLAUCOL eye drp 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1218",11103001,"GPRD_product_code","RAPRANOL SR cap 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"1219",11109001,"GPRD_product_code","HALF PROPANIX LA sr cap 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1220",11131001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1221",11131002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1222",11131003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1223",11478001,"GPRD_product_code","PROPANIX LA mr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1224",11576001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1225",11576002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1226",11576003,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1227",11577001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1228",11593001,"GPRD_product_code","PROPATARD LA mr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1229",11594001,"GPRD_product_code","HALF PROPATARD LA mr cap 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1230",11603001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070402,NA
+"1231",11611001,"GPRD_product_code","SLO-PRO mr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,6020200,NA
+"1232",11637001,"GPRD_product_code","PRESUMEX tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1233",11637002,"GPRD_product_code","PRESUMEX tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1234",11637003,"GPRD_product_code","PRESUMEX tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1235",11782001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1236",11782002,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1237",11821001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1238",11822001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1239",11834001,"GPRD_product_code","TIMOLOL + LATANOPROST eye drp 0.5% + 0.005%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1240",11838001,"GPRD_product_code","BIPRANIX tabs 5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1241",11839001,"GPRD_product_code","BIPRANIX tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1242",11862001,"GPRD_product_code","ARBRALENE tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1243",11862002,"GPRD_product_code","ARBRALENE tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1244",11922001,"GPRD_product_code","ATENAMIN tabs 25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1245",11922002,"GPRD_product_code","ATENAMIN tabs 50mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1246",11922003,"GPRD_product_code","ATENAMIN tabs 100mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1247",12118001,"GPRD_product_code","BEDRANOL mr cap 160mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1248",12201001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23010000,NA
+"1249",12202001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23010000,NA
+"1250",12477001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,99000000,NA
+"1251",12591001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1252",12592001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1253",12593001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1254",12594001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1255",12595001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1256",12596001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1257",12597001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1258",12598001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1259",12599001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1260",12600001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1261",12601001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1262",12602001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1263",12603001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1264",12604001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1265",12709001,"GPRD_product_code","BETIM tabs 10mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1266",12711001,"GPRD_product_code","PRESTIM tabs","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1267",12803001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1268",12804001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1269",12805001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1270",12806001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1271",12808001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1272",12893001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1273",12969001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1274",13138001,"GPRD_product_code","TIMOLOL + BRIMONIDINE TARTRATE eye drp 0.5% + 0.2%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060200,NA
+"1275",13139001,"GPRD_product_code","COMBIGAN eye drp","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1276",13153001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1277",13154001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1278",13155001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1279",13156001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1280",13157001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1281",13158001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1282",13216001,"GPRD_product_code","ESMOLOL HCl soln for inf 2500mg/250ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1283",13217001,"GPRD_product_code","BREVIBLOC soln for inf 2500mg/250ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1284",13395001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1285",13514001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1286",13542001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1287",13569001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010200,NA
+"1288",13570001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"1289",13637001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1290",13650001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1291",13838001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1292",13890001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1293",13900001,"GPRD_product_code","CONGESCOR tabs 1.25mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1294",13901001,"GPRD_product_code","CONGESCOR tabs 2.5mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1295",13948001,"GPRD_product_code","BISOPROLOL oral susp 5mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1296",13950001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4010100,NA
+"1297",13980001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1298",14003001,"GPRD_product_code","TIMOLOL + TRAVOPROST eye drp 0.5% + 0.004%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1299",14004001,"GPRD_product_code","DUOTRAV eye drp","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1300",14030001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1301",14031001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1302",14038001,"GPRD_product_code","TRASICOR tabs 20mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1303",14039001,"GPRD_product_code","TRASICOR tabs 40mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1304",14040001,"GPRD_product_code","TRASICOR tabs 80mg","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1305",14045001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1306",14120001,"GPRD_product_code","TIMOLOL + BIMATOPROST eye drp 0.5% + 0.03%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1307",14123001,"GPRD_product_code","GANFORT eye drp","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1308",14155001,"GPRD_product_code","BISOPROLOL oral susp 1.5mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1309",14213001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1310",14219001,"GPRD_product_code","SOTALOL oral susp 25mg/5ml","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1311",14221001,"GPRD_product_code","SOTALOL oral liq","drug","111 - ACE_inhibitors","2014-01-30",NA,2030201,NA
+"1312",14246001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4070300,NA
+"1313",14282001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1314",14283001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1315",14284001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1316",14285001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1317",14286001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1318",14288001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1319",14289001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1320",14290001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1321",14366001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1322",14440001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1323",14442001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1324",14465001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1325",14466001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1326",14492001,"GPRD_product_code","METOPROLOL TARTRATE oral liq","drug","111 - ACE_inhibitors","2014-01-30",NA,2040000,NA
+"1327",14513001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,2020700,NA
+"1328",14533001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1329",14561001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,15010401,NA
+"1330",14575001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1331",14576001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1332",14580001,"GPRD_product_code","DORZOLAMIDE HCl + TIMOLOL MALEATE PRESERVATIVE FREE eye drp 2% + 0.5%","drug","111 - ACE_inhibitors","2014-01-30",NA,11060300,NA
+"1333",14606001,"GPRD_product_code","PROPRANOLOL oral liq","drug","111 - ACE_inhibitors","2014-01-30",NA,4090300,NA
+"1334",14620001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1335",14718001,"GPRD_product_code","COSOPT PRESERVATIVE FREE eye drp","drug","111 - ACE_inhibitors","2014-01-30",NA,11060400,NA
+"1336",14764001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1337",14819001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1338",14830001,"GPRD_product_code","CARVEDILOL oral liq","drug","111 - ACE_inhibitors","2014-01-30",NA,23010000,NA
+"1339",14831001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,23000000,NA
+"1340",14840001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4020300,NA
+"1341",14969001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA
+"1342",14970001,"GPRD_product_code",NA,"drug","111 - ACE_inhibitors","2014-01-30",NA,4080100,NA

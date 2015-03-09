@@ -1,0 +1,213 @@
+"","code","coding_system","description","entity","list_name","upload_date","QOF","analysis","screened"
+"1","1465.00","Read","H/O: depression","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",0
+"2","1B17.00","Read","Depressed","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"3","1B17.00","Read","Depressed","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"4","1B17.11","Read","C/O - feeling depressed","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"5","1B1U.00","Read","Symptoms of depression","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"6","1B1U.11","Read","Depressive symptoms","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"7","1BT..00","Read","Depressed mood","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"8","212S.00","Read","Depression resolved","diagnostic","97 - depression","2014-01-30",0,"Resolve",0
+"9","212S.00","Read","Depression resolved","diagnostic","97 - depression","2014-06-24",1,"0",NA
+"10","2257","Read","O/E - depressed","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"11","2257.00","Read","O/E - depressed","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"12","62T1.00","Read","Puerperal depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"13","62T1.00","Read","Puerperal depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"14","8CAa.00","Read","Patient given advice about management of depression","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"15","8HHq.00","Read","Referral for guided self-help for depression","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"16","9H90.00","Read","Depression annual review","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"17","9H91.00","Read","Depression medication review","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"18","9H92.00","Read","Depression interim review","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"19","9HA0.00","Read","On depression register","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",1
+"20","9HA1.00","Read","Removed from depression register","diagnostic","97 - depression","2014-01-30",0,"Resolve",0
+"21","9HA1.00","Read","Removed from depression register","diagnostic","97 - depression","2014-06-24",1,"0",NA
+"22","E001300","Read","Presenile dementia with depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"23","E001300","Read","Presenile dementia with depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"24","E002100","Read","Senile dementia with depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"25","E002100","Read","Senile dementia with depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"26","E004300","Read","Arteriosclerotic dementia with depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"27","E004300","Read","Arteriosclerotic dementia with depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"28","E112.00","Read","Single major depressive episode","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"29","E112.00","Read","Single major depressive episode","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"30","E112000","Read","Single major depressive episode; unspecified","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"31","E112000","Read","Single major depressive episode; unspecified","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"32","E112100","Read","Single major depressive episode; mild","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"33","E112100","Read","Single major depressive episode; mild","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"34","E112.11","Read","Agitated depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"35","E112.11","Read","Agitated depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"36","E112.12","Read","Endogenous depression first episode","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"37","E112.12","Read","Endogenous depression first episode","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"38","E112.13","Read","Endogenous depression first episode","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"39","E112.13","Read","Endogenous depression first episode","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"40","E112.14","Read","Endogenous depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"41","E112.14","Read","Endogenous depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"42","E112200","Read","Single major depressive episode; moderate","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"43","E112200","Read","Single major depressive episode; moderate","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"44","E112300","Read","Single major depressive episode; severe; without psychosis","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"45","E112300","Read","Single major depressive episode; severe; without psychosis","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"46","E112500","Read","Single major depressive episode; partial or unspec remission","diagnostic","97 - depression","2014-06-24",1,"0",NA
+"47","E112500","Read","Single major depressive episode; partial or unspec remission","diagnostic","97 - depression","2014-01-30",1,"Resolve",0
+"48","E112600","Read","Single major depressive episode; in full remission","diagnostic","97 - depression","2014-06-24",1,"0",NA
+"49","E112600","Read","Single major depressive episode; in full remission","diagnostic","97 - depression","2014-01-30",1,"Resolve",0
+"50","E112z00","Read","Single major depressive episode NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"51","E112z00","Read","Single major depressive episode NOS","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"52","E113.00","Read","Recurrent major depressive episode","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"53","E113.00","Read","Recurrent major depressive episode","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"54","E113000","Read","Recurrent major depressive episodes; unspecified","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"55","E113000","Read","Recurrent major depressive episodes; unspecified","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"56","E113100","Read","Recurrent major depressive episodes; mild","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"57","E113100","Read","Recurrent major depressive episodes; mild","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"58","E113.11","Read","Endogenous depression - recurrent","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"59","E113.11","Read","Endogenous depression - recurrent","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"60","E113200","Read","Recurrent major depressive episodes; moderate","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"61","E113200","Read","Recurrent major depressive episodes; moderate","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"62","E113300","Read","Recurrent major depressive episodes; severe; no psychosis","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"63","E113300","Read","Recurrent major depressive episodes; severe; no psychosis","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"64","E113500","Read","Recurrent major depressive episodes;partial/unspec remission","diagnostic","97 - depression","2014-01-30",1,"Resolve",0
+"65","E113500","Read","Recurrent major depressive episodes;partial/unspec remission","diagnostic","97 - depression","2014-06-24",1,"1",NA
+"66","E113600","Read","Recurrent major depressive episodes; in full remission","diagnostic","97 - depression","2014-06-24",1,"1",NA
+"67","E113600","Read","Recurrent major depressive episodes; in full remission","diagnostic","97 - depression","2014-01-30",1,"Resolve",0
+"68","E113700","Read","Recurrent depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"69","E113700","Read","Recurrent depression","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"70","E113z00","Read","Recurrent major depressive episode NOS","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"71","E113z00","Read","Recurrent major depressive episode NOS","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"72","E118.00","Read","Seasonal affective disorder","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"73","E118.00","Read","Seasonal affective disorder","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"74","E11y200","Read","Atypical depressive disorder","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"75","E11y200","Read","Atypical depressive disorder","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"76","E11z200","Read","Masked depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"77","E11z200","Read","Masked depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"78","E135.00","Read","Agitated depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"79","E135.00","Read","Agitated depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"80","E200300","Read","Anxiety with depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"81","E200300","Read","Anxiety with depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"82","E204.00","Read","Neurotic depression reactive type","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"83","E204.00","Read","Neurotic depression reactive type","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"84","E204.11","Read","Postnatal depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"85","E204.11","Read","Postnatal depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"86","E211200","Read","Depressive personality disorder","diagnostic","97 - depression","2014-01-30",0,"Sensitivity",0
+"87","E290.00","Read","Brief depressive reaction","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"88","E290.00","Read","Brief depressive reaction","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"89","E290z00","Read","Brief depressive reaction NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"90","E290z00","Read","Brief depressive reaction NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"91","E291.00","Read","Prolonged depressive reaction","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"92","E291.00","Read","Prolonged depressive reaction","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"93","E2B..00","Read","Depressive disorder NEC","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"94","E2B..00","Read","Depressive disorder NEC","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"95","E2B0.00","Read","Postviral depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"96","E2B0.00","Read","Postviral depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"97","E2B1.00","Read","Chronic depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"98","E2B1.00","Read","Chronic depression","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"99","Eu32.00","Read","[X]Depressive episode","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"100","Eu32.00","Read","[X]Depressive episode","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"101","Eu32000","Read","[X]Mild depressive episode","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"102","Eu32000","Read","[X]Mild depressive episode","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"103","Eu32100","Read","[X]Moderate depressive episode","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"104","Eu32100","Read","[X]Moderate depressive episode","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"105","Eu32.11","Read","[X]Single episode of depressive reaction","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"106","Eu32.11","Read","[X]Single episode of depressive reaction","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"107","Eu32.12","Read","[X]Single episode of psychogenic depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"108","Eu32.12","Read","[X]Single episode of psychogenic depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"109","Eu32.13","Read","[X]Single episode of reactive depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"110","Eu32.13","Read","[X]Single episode of reactive depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"111","Eu32200","Read","[X]Severe depressive episode without psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"112","Eu32200","Read","[X]Severe depressive episode without psychotic symptoms","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"113","Eu32211","Read","[X]Single episode agitated depressn w'out psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"114","Eu32211","Read","[X]Single episode agitated depressn w'out psychotic symptoms","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"115","Eu32212","Read","[X]Single episode major depression w'out psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"116","Eu32212","Read","[X]Single episode major depression w'out psychotic symptoms","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"117","Eu32213","Read","[X]Single episode vital depression w'out psychotic symptoms","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"118","Eu32213","Read","[X]Single episode vital depression w'out psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"119","Eu32400","Read","[X]Mild depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"120","Eu32400","Read","[X]Mild depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"121","Eu32y00","Read","[X]Other depressive episodes","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"122","Eu32y00","Read","[X]Other depressive episodes","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"123","Eu32y11","Read","[X]Atypical depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"124","Eu32y11","Read","[X]Atypical depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"125","Eu32y12","Read","[X]Single episode of masked depression NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"126","Eu32y12","Read","[X]Single episode of masked depression NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"127","Eu32z00","Read","[X]Depressive episode; unspecified","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"128","Eu32z00","Read","[X]Depressive episode; unspecified","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"129","Eu32z11","Read","[X]Depression NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"130","Eu32z11","Read","[X]Depression NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"131","Eu32z12","Read","[X]Depressive disorder NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"132","Eu32z12","Read","[X]Depressive disorder NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"133","Eu32z13","Read","[X]Prolonged single episode of reactive depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"134","Eu32z13","Read","[X]Prolonged single episode of reactive depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"135","Eu32z14","Read","[X] Reactive depression NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"136","Eu32z14","Read","[X] Reactive depression NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"137","Eu33.00","Read","[X]Recurrent depressive disorder","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"138","Eu33.00","Read","[X]Recurrent depressive disorder","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"139","Eu33000","Read","[X]Recurrent depressive disorder; current episode mild","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"140","Eu33000","Read","[X]Recurrent depressive disorder; current episode mild","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"141","Eu33100","Read","[X]Recurrent depressive disorder; current episode moderate","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"142","Eu33100","Read","[X]Recurrent depressive disorder; current episode moderate","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"143","Eu33.11","Read","[X]Recurrent episodes of depressive reaction","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"144","Eu33.11","Read","[X]Recurrent episodes of depressive reaction","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"145","Eu33.12","Read","[X]Recurrent episodes of psychogenic depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"146","Eu33.12","Read","[X]Recurrent episodes of psychogenic depression","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"147","Eu33.13","Read","[X]Recurrent episodes of reactive depression","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"148","Eu33.13","Read","[X]Recurrent episodes of reactive depression","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"149","Eu33.14","Read","[X]Seasonal depressive disorder","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"150","Eu33.14","Read","[X]Seasonal depressive disorder","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"151","Eu33.15","Read","[X]SAD - Seasonal affective disorder","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"152","Eu33.15","Read","[X]SAD - Seasonal affective disorder","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"153","Eu33200","Read","[X]Recurr depress disorder cur epi severe without psyc sympt","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"154","Eu33200","Read","[X]Recurr depress disorder cur epi severe without psyc sympt","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"155","Eu33211","Read","[X]Endogenous depression without psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"156","Eu33211","Read","[X]Endogenous depression without psychotic symptoms","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"157","Eu33212","Read","[X]Major depression; recurrent without psychotic symptoms","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"158","Eu33212","Read","[X]Major depression; recurrent without psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"159","Eu33214","Read","[X]Vital depression; recurrent without psychotic symptoms","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"160","Eu33214","Read","[X]Vital depression; recurrent without psychotic symptoms","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"161","Eu33400","Read","[X]Recurrent depressive disorder; currently in remission","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"162","Eu33400","Read","[X]Recurrent depressive disorder; currently in remission","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"163","Eu33y00","Read","[X]Other recurrent depressive disorders","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"164","Eu33y00","Read","[X]Other recurrent depressive disorders","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"165","Eu33z00","Read","[X]Recurrent depressive disorder; unspecified","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"166","Eu33z00","Read","[X]Recurrent depressive disorder; unspecified","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"167","Eu33z11","Read","[X]Monopolar depression NOS","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"168","Eu33z11","Read","[X]Monopolar depression NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"169","Eu34100","Read","[X]Dysthymia","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"170","Eu34100","Read","[X]Dysthymia","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"171","Eu34111","Read","[X]Depressive neurosis","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"172","Eu34111","Read","[X]Depressive neurosis","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"173","Eu34113","Read","[X]Neurotic depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"174","Eu34113","Read","[X]Neurotic depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"175","Eu34114","Read","[X]Persistant anxiety depression","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"176","Eu34114","Read","[X]Persistant anxiety depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"177","Eu3y111","Read","[X]Recurrent brief depressive episodes","diagnostic","97 - depression","2014-06-24",0,"1",NA
+"178","Eu3y111","Read","[X]Recurrent brief depressive episodes","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"179","Eu41200","Read","[X]Mixed anxiety and depressive disorder","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"180","Eu41200","Read","[X]Mixed anxiety and depressive disorder","diagnostic","97 - depression","2014-01-30",1,"Main",0
+"181","Eu41211","Read","[X]Mild anxiety depression","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"182","Eu41211","Read","[X]Mild anxiety depression","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"183","Eu53011","Read","[X]Postnatal depression NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"184","Eu53011","Read","[X]Postnatal depression NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"185","Eu53012","Read","[X]Postpartum depression NOS","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"186","Eu53012","Read","[X]Postpartum depression NOS","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"187","Eu92000","Read","[X]Depressive conduct disorder","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"188","Eu92000","Read","[X]Depressive conduct disorder","diagnostic","97 - depression","2014-06-24",0,"0",NA
+"189","2960AC","OXMIS","CHRONIC AGITATED DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"190","2960AD","OXMIS","DEPRESSION AGITATED","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"191","2962A","OXMIS","DEPRESSION CHRONIC","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"192","2962AF","OXMIS","REACTION DEPRESSIVE AFFECTIVE","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"193","2962B","OXMIS","DEPRESSION ACUTE","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"194","2962EN","OXMIS","ENDOGENOUS DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"195","2962R","OXMIS","RECURRENT DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"196","3000E","OXMIS","ANXIETY DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"197","3004","OXMIS","NEUROSIS DEPRESSIVE","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"198","3004A","OXMIS","DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"199","3004AB","OXMIS","OBSERVED DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"200","3004AM","OXMIS","MOOD DEPRESSED","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"201","3004B","OXMIS","PREGNANCY DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"202","3004C","OXMIS","PUERPERAL DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"203","3004CA","OXMIS","POSTNATAL DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"204","3004E","OXMIS","EXOGENOUS DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"205","3004ER","OXMIS","REACTIVE DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"206","3004M","OXMIS","MORNING DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"207","3004PP","OXMIS","POSTOPERATIVE DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"208","3091N","OXMIS","INFLUENZAL DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"209","3091PF","OXMIS","POSTINFECTIVE DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"210","3091PL","OXMIS","DEPRESSION POSTVIRAL","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"211","3091PN","OXMIS","POSTINFLUENZA DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0
+"212","7902DC","OXMIS","POSTVIRAL DEPRESSION","diagnostic","97 - depression","2014-01-30",0,"Main",0

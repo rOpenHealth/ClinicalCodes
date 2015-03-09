@@ -1,0 +1,34 @@
+"","code","coding_system","description","entity","list_name","upload_date","incidence.percentage","prevalence.percentage"
+"1","14A5.00","Read","H/O: angina pectoris","diagnostic","142 - res12: Angina","2014-07-10",0.62,0.88
+"2","14AJ.00","Read","H/O: Angina in last year","diagnostic","142 - res12: Angina","2014-07-10",0.01,0
+"3","662K.00","Read","Angina control","diagnostic","142 - res12: Angina","2014-07-10",0.65,3.31
+"4","662K000","Read","Angina control - good","diagnostic","142 - res12: Angina","2014-07-10",0.36,4.79
+"5","662K100","Read","Angina control - poor","diagnostic","142 - res12: Angina","2014-07-10",0.02,0.17
+"6","662K200","Read","Angina control - improving","diagnostic","142 - res12: Angina","2014-07-10",0.02,0.14
+"7","662K300","Read","Angina control - worsening","diagnostic","142 - res12: Angina","2014-07-10",0.04,0.26
+"8","662Kz00","Read","Angina control NOS","diagnostic","142 - res12: Angina","2014-07-10",0.03,0.14
+"9","8B27.00","Read","Antianginal therapy","diagnostic","142 - res12: Angina","2014-07-10",0.01,0.01
+"10","G311000","Read","Myocardial infarction aborted","diagnostic","142 - res12: Angina","2014-07-10",0.01,0
+"11","G311100","Read","Unstable angina","diagnostic","142 - res12: Angina","2014-07-10",1.07,1.08
+"12","G311.11","Read","Crescendo angina","diagnostic","142 - res12: Angina","2014-07-10",0.16,0.12
+"13","G311.13","Read","Unstable angina","diagnostic","142 - res12: Angina","2014-07-10",0.6,0.79
+"14","G311.14","Read","Angina at rest","diagnostic","142 - res12: Angina","2014-07-10",0,0.01
+"15","G311200","Read","Angina at rest","diagnostic","142 - res12: Angina","2014-07-10",0.07,0.07
+"16","G311300","Read","Refractory angina","diagnostic","142 - res12: Angina","2014-07-10",0,0.01
+"17","G311400","Read","Worsening angina","diagnostic","142 - res12: Angina","2014-07-10",0.08,0.22
+"18","G311500","Read","Acute coronary syndrome","diagnostic","142 - res12: Angina","2014-07-10",2.3,0.7
+"19","G31y000","Read","Acute coronary insufficiency","diagnostic","142 - res12: Angina","2014-07-10",0.26,0.09
+"20","G33..00","Read","Angina pectoris","diagnostic","142 - res12: Angina","2014-07-10",20.85,18.03
+"21","G330.00","Read","Angina decubitus","diagnostic","142 - res12: Angina","2014-07-10",0,0.01
+"22","G330000","Read","Nocturnal angina","diagnostic","142 - res12: Angina","2014-07-10",0,0.02
+"23","G330z00","Read","Angina decubitus NOS","diagnostic","142 - res12: Angina","2014-07-10",0,0
+"24","G331.00","Read","Prinzmetal's angina","diagnostic","142 - res12: Angina","2014-07-10",0.02,0.01
+"25","G331.11","Read","Variant angina pectoris","diagnostic","142 - res12: Angina","2014-07-10",0,0
+"26","G33z.00","Read","Angina pectoris NOS","diagnostic","142 - res12: Angina","2014-07-10",0.07,0.02
+"27","G33z200","Read","Syncope anginosa","diagnostic","142 - res12: Angina","2014-07-10",0,0
+"28","G33z300","Read","Angina on effort","diagnostic","142 - res12: Angina","2014-07-10",0.3,0.26
+"29","G33z400","Read","Ischaemic chest pain","diagnostic","142 - res12: Angina","2014-07-10",0.12,0.03
+"30","G33z500","Read","Post infarct angina","diagnostic","142 - res12: Angina","2014-07-10",0.02,0.01
+"31","G33z600","Read","New onset angina","diagnostic","142 - res12: Angina","2014-07-10",0.09,0
+"32","G33z700","Read","Stable angina","diagnostic","142 - res12: Angina","2014-07-10",0.35,0.26
+"33","G33zz00","Read","Angina pectoris NOS","diagnostic","142 - res12: Angina","2014-07-10",0.22,0.21

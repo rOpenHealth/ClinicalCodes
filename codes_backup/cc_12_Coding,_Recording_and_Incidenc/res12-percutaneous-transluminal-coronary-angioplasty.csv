@@ -1,0 +1,22 @@
+"","code","coding_system","description","entity","list_name","upload_date","incidence.percentage","prevalence.percentage"
+"1","7928","Read","Transluminal balloon angioplasty of coronary artery","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",1.51,1.44
+"2","7928000","Read","Percut transluminal balloon angioplasty one coronary artery","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.08,0.07
+"3","7928100","Read","Percut translum balloon angioplasty mult coronary arteries","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.02,0.02
+"4","7928.11","Read","Percutaneous balloon coronary angioplasty","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.13,0.15
+"5","7928200","Read","Percut translum balloon angioplasty bypass graft coronary art","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0,0
+"6","7928y00","Read","Transluminal balloon angioplasty of coronary artery OS","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.01,0.01
+"7","7928z00","Read","Transluminal balloon angioplasty of coronary artery NOS","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.09,0.1
+"8","7929000","Read","Percutaneous transluminal laser coronary angioplasty","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.06,0.05
+"9","7929100","Read","Percut transluminal coronary thrombolysis with streptokinase","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.05,0
+"10","7929300","Read","Rotary blade coronary angioplasty","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.04,0.06
+"11","7929400","Read","Insertion of coronary artery stent","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",1.38,1.22
+"12","7929500","Read","Insertion of drug-eluting coronary artery stent","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.05,0.05
+"13","7929y00","Read","Other therapeutic transluminal op on coronary artery OS","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0,0
+"14","7929z00","Read","Other therapeutic transluminal op on coronary artery NOS","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.01,0
+"15","793G.00","Read","Perc translumin balloon angioplasty stenting coronary artery","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.57,0.42
+"16","793G000","Read","Perc translum ball angio insert 1-2 drug elut stents cor art","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.02,0.02
+"17","793G100","Read","Perc tran ball angio ins 3 or more drug elut stents cor art","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0,0
+"18","793G200","Read","Perc translum balloon angioplasty insert 1-2 stents cor art","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0,0.01
+"19","793G300","Read","Percutaneous cor balloon angiop 3 more stents cor art NEC","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.01,0
+"20","793Gy00","Read","OS perc translumina balloon angioplast stenting coronary art","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0,0
+"21","793Gz00","Read","Perc translum balloon angioplasty stenting coronary art NOS","diagnostic","146 - res12: percutaneous transluminal coronary angioplasty","2014-07-10",0.01,0.01

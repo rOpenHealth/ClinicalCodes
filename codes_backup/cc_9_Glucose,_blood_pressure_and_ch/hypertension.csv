@@ -1,0 +1,235 @@
+"","code","coding_system","description","entity","list_name","upload_date","resolve_code"
+"1","2126100","Read","Hypertension resolved","diagnostic","135 - hypertension","2014-06-24",-1
+"2","2126100","Read","Hypertension resolved","diagnostic","135 - hypertension","2014-06-24",1
+"3","212K.00","Read","Hypertension resolved","diagnostic","135 - hypertension","2014-06-24",1
+"4","212K.00","Read","Hypertension resolved","diagnostic","135 - hypertension","2014-06-24",-1
+"5","662..12","Read","Hypertension monitoring","diagnostic","135 - hypertension","2014-06-24",0
+"6","6627","Read","Good hypertension control","diagnostic","135 - hypertension","2014-06-24",0
+"7","6628","Read","Poor hypertension control","diagnostic","135 - hypertension","2014-06-24",0
+"8","6629","Read","Hypertension:follow-up default","diagnostic","135 - hypertension","2014-06-24",0
+"9","662b.00","Read","Moderate hypertension control","diagnostic","135 - hypertension","2014-06-24",0
+"10","662c.00","Read","Hypertension six month review","diagnostic","135 - hypertension","2014-06-24",0
+"11","662d.00","Read","Hypertension annual review","diagnostic","135 - hypertension","2014-06-24",0
+"12","662F.00","Read","Hypertension treatm. started","diagnostic","135 - hypertension","2014-06-24",0
+"13","662G.00","Read","Hypertensive treatm.changed","diagnostic","135 - hypertension","2014-06-24",0
+"14","662O.00","Read","On treatment for hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"15","662P.00","Read","Hypertension monitoring","diagnostic","135 - hypertension","2014-06-24",0
+"16","8B26.00","Read","Antihypertensive therapy","diagnostic","135 - hypertension","2014-06-24",0
+"17","8BL0.00","Read","Patient on maximal tolerated antihypertensive therapy","diagnostic","135 - hypertension","2014-06-24",0
+"18","8CR4.00","Read","Hypertension clinical management plan","diagnostic","135 - hypertension","2014-06-24",0
+"19","8HT5.00","Read","Referral to hypertension clinic","diagnostic","135 - hypertension","2014-06-24",0
+"20","9N03.00","Read","Seen in hypertension clinic","diagnostic","135 - hypertension","2014-06-24",0
+"21","9N1y200","Read","Seen in hypertension clinic","diagnostic","135 - hypertension","2014-06-24",0
+"22","9OI1.00","Read","Attends hypertension monitor.","diagnostic","135 - hypertension","2014-06-24",0
+"23","9OIA.00","Read","Hypertension monitor.chck done","diagnostic","135 - hypertension","2014-06-24",0
+"24","9OIA.11","Read","Hypertension monitored","diagnostic","135 - hypertension","2014-06-24",0
+"25","F404200","Read","Blind hypertensive eye","diagnostic","135 - hypertension","2014-06-24",0
+"26","F421300","Read","Hypertensive retinopathy","diagnostic","135 - hypertension","2014-06-24",0
+"27","G2...00","Read","Hypertensive disease","diagnostic","135 - hypertension","2014-06-24",1
+"28","G2...00","Read","Hypertensive disease","diagnostic","135 - hypertension","2014-06-24",0
+"29","G20..00","Read","Essential hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"30","G20..00","Read","Essential hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"31","G200.00","Read","Malignant essential hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"32","G200.00","Read","Malignant essential hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"33","G201.00","Read","Benign essential hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"34","G201.00","Read","Benign essential hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"35","G20..11","Read","High blood pressure","diagnostic","135 - hypertension","2014-06-24",1
+"36","G202.00","Read","Systolic hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"37","G202.00","Read","Systolic hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"38","G20z.00","Read","Essential hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"39","G20z.00","Read","Essential hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"40","G20z.11","Read","Hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"41","G20z.11","Read","Hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"42","G21..00","Read","Hypertensive heart disease","diagnostic","135 - hypertension","2014-06-24",0
+"43","G21..00","Read","Hypertensive heart disease","diagnostic","135 - hypertension","2014-06-24",0
+"44","G210.00","Read","Malignant hypertensive heart disease","diagnostic","135 - hypertension","2014-06-24",0
+"45","G210.00","Read","Malignant hypertensive heart disease","diagnostic","135 - hypertension","2014-06-24",0
+"46","G210000","Read","Malignant hypertensive heart disease without CCF","diagnostic","135 - hypertension","2014-06-24",0
+"47","G210000","Read","Malignant hypertensive heart disease without CCF","diagnostic","135 - hypertension","2014-06-24",0
+"48","G210100","Read","Malignant hypertensive heart disease with CCF","diagnostic","135 - hypertension","2014-06-24",0
+"49","G210100","Read","Malignant hypertensive heart disease with CCF","diagnostic","135 - hypertension","2014-06-24",0
+"50","G210z00","Read","Malignant hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"51","G210z00","Read","Malignant hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"52","G2...11","Read","BP - hypertensive disease","diagnostic","135 - hypertension","2014-06-24",1
+"53","G2...11","Read","BP - hypertensive disease","diagnostic","135 - hypertension","2014-06-24",0
+"54","G211.00","Read","Benign hypertensive heart disease","diagnostic","135 - hypertension","2014-06-24",0
+"55","G211.00","Read","Benign hypertensive heart disease","diagnostic","135 - hypertension","2014-06-24",0
+"56","G211000","Read","Benign hypertensive heart disease without CCF","diagnostic","135 - hypertension","2014-06-24",0
+"57","G211000","Read","Benign hypertensive heart disease without CCF","diagnostic","135 - hypertension","2014-06-24",0
+"58","G211100","Read","Benign hypertensive heart disease with CCF","diagnostic","135 - hypertension","2014-06-24",0
+"59","G211100","Read","Benign hypertensive heart disease with CCF","diagnostic","135 - hypertension","2014-06-24",0
+"60","G211z00","Read","Benign hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"61","G21z.00","Read","Hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"62","G21z.00","Read","Hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"63","G21z000","Read","Hypertensive heart disease NOS without CCF","diagnostic","135 - hypertension","2014-06-24",0
+"64","G21z000","Read","Hypertensive heart disease NOS without CCF","diagnostic","135 - hypertension","2014-06-24",0
+"65","G21z011","Read","Cardiomegaly - hypertensive","diagnostic","135 - hypertension","2014-06-24",0
+"66","G21z011","Read","Cardiomegaly - hypertensive","diagnostic","135 - hypertension","2014-06-24",0
+"67","G21z100","Read","Hypertensive heart disease NOS with CCF","diagnostic","135 - hypertension","2014-06-24",0
+"68","G21z100","Read","Hypertensive heart disease NOS with CCF","diagnostic","135 - hypertension","2014-06-24",0
+"69","G21zz00","Read","Hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"70","G21zz00","Read","Hypertensive heart disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"71","G22..00","Read","Hypertensive renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"72","G22..00","Read","Hypertensive renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"73","G220.00","Read","Malignant hypertensive renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"74","G220.00","Read","Malignant hypertensive renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"75","G221.00","Read","Benign hypertensive renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"76","G221.00","Read","Benign hypertensive renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"77","G222.00","Read","Hypertensive renal disease with renal failure","diagnostic","135 - hypertension","2014-06-24",0
+"78","G222.00","Read","Hypertensive renal disease with renal failure","diagnostic","135 - hypertension","2014-06-24",0
+"79","G22z.00","Read","Hypertensive renal disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"80","G22z.00","Read","Hypertensive renal disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"81","G22z.11","Read","Renal hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"82","G22z.11","Read","Renal hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"83","G23..00","Read","Hypertensive heart and renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"84","G23..00","Read","Hypertensive heart and renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"85","G230.00","Read","Malignant hypertensive heart and renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"86","G230.00","Read","Malignant hypertensive heart and renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"87","G231.00","Read","Benign hypertensive heart and renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"88","G231.00","Read","Benign hypertensive heart and renal disease","diagnostic","135 - hypertension","2014-06-24",0
+"89","G232.00","Read","Hypertensive heart&renal dis wth (congestive) heart failure","diagnostic","135 - hypertension","2014-06-24",0
+"90","G232.00","Read","Hypertensive heart&renal dis wth (congestive) heart failure","diagnostic","135 - hypertension","2014-06-24",0
+"91","G233.00","Read","Hypertensive heart and renal disease with renal failure","diagnostic","135 - hypertension","2014-06-24",0
+"92","G233.00","Read","Hypertensive heart and renal disease with renal failure","diagnostic","135 - hypertension","2014-06-24",0
+"93","G234.00","Read","Hyperten heart&renal dis+both(congestv)heart and renal fail","diagnostic","135 - hypertension","2014-06-24",0
+"94","G234.00","Read","Hyperten heart&renal dis+both(congestv)heart and renal fail","diagnostic","135 - hypertension","2014-06-24",0
+"95","G23z.00","Read","Hypertensive heart and renal disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"96","G23z.00","Read","Hypertensive heart and renal disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"97","G24..00","Read","Secondary hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"98","G24..00","Read","Secondary hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"99","G240.00","Read","Secondary malignant hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"100","G240.00","Read","Secondary malignant hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"101","G240000","Read","Secondary malignant renovascular hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"102","G240000","Read","Secondary malignant renovascular hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"103","G240z00","Read","Secondary malignant hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"104","G240z00","Read","Secondary malignant hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"105","G241.00","Read","Secondary benign hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"106","G241.00","Read","Secondary benign hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"107","G241000","Read","Secondary benign renovascular hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"108","G241000","Read","Secondary benign renovascular hypertension","diagnostic","135 - hypertension","2014-06-24",1
+"109","G241z00","Read","Secondary benign hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"110","G241z00","Read","Secondary benign hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"111","G244.00","Read","Hypertension secondary to endocrine disorders","diagnostic","135 - hypertension","2014-06-24",1
+"112","G244.00","Read","Hypertension secondary to endocrine disorders","diagnostic","135 - hypertension","2014-06-24",0
+"113","G24z.00","Read","Secondary hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"114","G24z.00","Read","Secondary hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"115","G24z000","Read","Secondary renovascular hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"116","G24z000","Read","Secondary renovascular hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"117","G24zz00","Read","Secondary hypertension NOS","diagnostic","135 - hypertension","2014-06-24",1
+"118","G24zz00","Read","Secondary hypertension NOS","diagnostic","135 - hypertension","2014-06-24",0
+"119","G2y..00","Read","Other specified hypertensive disease","diagnostic","135 - hypertension","2014-06-24",1
+"120","G2y..00","Read","Other specified hypertensive disease","diagnostic","135 - hypertension","2014-06-24",0
+"121","G2z..00","Read","Hypertensive disease NOS","diagnostic","135 - hypertension","2014-06-24",1
+"122","G2z..00","Read","Hypertensive disease NOS","diagnostic","135 - hypertension","2014-06-24",0
+"123","G672.00","Read","Hypertensive encephalopathy","diagnostic","135 - hypertension","2014-06-24",0
+"124","G672.11","Read","Hypertensive crisis","diagnostic","135 - hypertension","2014-06-24",0
+"125","Gyu2000","Read","[X]Other secondary hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"126","Gyu2000","Read","[X]Other secondary hypertension","diagnostic","135 - hypertension","2014-06-24",0
+"127","Gyu2100","Read","[X]Hypertension secondary to other renal disorders","diagnostic","135 - hypertension","2014-06-24",0
+"128","Gyu2100","Read","[X]Hypertension secondary to other renal disorders","diagnostic","135 - hypertension","2014-06-24",0
+"129","L120.00","Read","Benign essential hypertension in pregnancy/childbirth/puerp","diagnostic","135 - hypertension","2014-06-24",0
+"130","L120.00","Read","Benign essential hypertension in pregnancy/childbirth/puerp","diagnostic","135 - hypertension","2014-06-24",0
+"131","L120000","Read","Benign essential hypertension in preg/childb/puerp unspec","diagnostic","135 - hypertension","2014-06-24",0
+"132","L120000","Read","Benign essential hypertension in preg/childb/puerp unspec","diagnostic","135 - hypertension","2014-06-24",0
+"133","L120100","Read","Benign essential hypertension in preg/childb/puerp - deliv","diagnostic","135 - hypertension","2014-06-24",0
+"134","L120100","Read","Benign essential hypertension in preg/childb/puerp - deliv","diagnostic","135 - hypertension","2014-06-24",0
+"135","L120300","Read","Benign essential hypertension in preg/childb/puerp-not deliv","diagnostic","135 - hypertension","2014-06-24",0
+"136","L120300","Read","Benign essential hypertension in preg/childb/puerp-not deliv","diagnostic","135 - hypertension","2014-06-24",0
+"137","L120400","Read","Benign essential hypertension in preg/childb/puerp +p/n comp","diagnostic","135 - hypertension","2014-06-24",0
+"138","L120400","Read","Benign essential hypertension in preg/childb/puerp +p/n comp","diagnostic","135 - hypertension","2014-06-24",0
+"139","L120z00","Read","Benign essential hypertension in preg/childb/puerp NOS","diagnostic","135 - hypertension","2014-06-24",0
+"140","L120z00","Read","Benign essential hypertension in preg/childb/puerp NOS","diagnostic","135 - hypertension","2014-06-24",0
+"141","L121.00","Read","Renal hypertension in pregnancy/childbirth/puerperium","diagnostic","135 - hypertension","2014-06-24",0
+"142","L121.00","Read","Renal hypertension in pregnancy/childbirth/puerperium","diagnostic","135 - hypertension","2014-06-24",0
+"143","L121000","Read","Renal hypertension in pregnancy/childbirth/puerp unspecified","diagnostic","135 - hypertension","2014-06-24",0
+"144","L121000","Read","Renal hypertension in pregnancy/childbirth/puerp unspecified","diagnostic","135 - hypertension","2014-06-24",0
+"145","L121100","Read","Renal hypertension in pregnancy/childbirth/puerp - delivered","diagnostic","135 - hypertension","2014-06-24",0
+"146","L121100","Read","Renal hypertension in pregnancy/childbirth/puerp - delivered","diagnostic","135 - hypertension","2014-06-24",0
+"147","L121200","Read","Renal hypertension in preg/childb/puerp -deliv with p/n comp","diagnostic","135 - hypertension","2014-06-24",0
+"148","L121300","Read","Renal hypertension in preg/childbirth/puerp - not delivered","diagnostic","135 - hypertension","2014-06-24",0
+"149","L121300","Read","Renal hypertension in preg/childbirth/puerp - not delivered","diagnostic","135 - hypertension","2014-06-24",0
+"150","L121400","Read","Renal hypertension in preg/childb/puerp + p/n complication","diagnostic","135 - hypertension","2014-06-24",0
+"151","L121z00","Read","Renal hypertension in pregnancy/childbirth/puerperium NOS","diagnostic","135 - hypertension","2014-06-24",0
+"152","L121z00","Read","Renal hypertension in pregnancy/childbirth/puerperium NOS","diagnostic","135 - hypertension","2014-06-24",0
+"153","L122.00","Read","Other pre-existing hypertension in preg/childbirth/puerp","diagnostic","135 - hypertension","2014-06-24",0
+"154","L122.00","Read","Other pre-existing hypertension in preg/childbirth/puerp","diagnostic","135 - hypertension","2014-06-24",0
+"155","L122000","Read","Other pre-existing hypertension in preg/childb/puerp unspec","diagnostic","135 - hypertension","2014-06-24",0
+"156","L122000","Read","Other pre-existing hypertension in preg/childb/puerp unspec","diagnostic","135 - hypertension","2014-06-24",0
+"157","L122100","Read","Other pre-existing hypertension in preg/childb/puerp - deliv","diagnostic","135 - hypertension","2014-06-24",0
+"158","L122100","Read","Other pre-existing hypertension in preg/childb/puerp - deliv","diagnostic","135 - hypertension","2014-06-24",0
+"159","L122300","Read","Other pre-exist hypertension in preg/childb/puerp-not deliv","diagnostic","135 - hypertension","2014-06-24",0
+"160","L122300","Read","Other pre-exist hypertension in preg/childb/puerp-not deliv","diagnostic","135 - hypertension","2014-06-24",0
+"161","L122400","Read","Other pre-exist hypertension in preg/childb/puerp + p/n comp","diagnostic","135 - hypertension","2014-06-24",0
+"162","L122z00","Read","Other pre-existing hypertension in preg/childb/puerp NOS","diagnostic","135 - hypertension","2014-06-24",0
+"163","L122z00","Read","Other pre-existing hypertension in preg/childb/puerp NOS","diagnostic","135 - hypertension","2014-06-24",0
+"164","L128.00","Read","Pre-exist hypertension compl preg childbirth and puerperium","diagnostic","135 - hypertension","2014-06-24",0
+"165","L128.00","Read","Pre-exist hypertension compl preg childbirth and puerperium","diagnostic","135 - hypertension","2014-06-24",0
+"166","L128200","Read","Pre-exist 2ndry hypertens comp preg childbth and puerperium","diagnostic","135 - hypertension","2014-06-24",0
+"167","L128200","Read","Pre-exist 2ndry hypertens comp preg childbth and puerperium","diagnostic","135 - hypertension","2014-06-24",0
+"168","3053HT","OXMIS","NEUROGENIC HYPERTENSION (SECONDARY)","diagnostic","135 - hypertension","2014-06-24",0
+"169","4000","OXMIS","MALIGNANT HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"170","4003","OXMIS","HYPERTENSIVE NEPHROPATHY","diagnostic","135 - hypertension","2014-06-24",0
+"171","4003AA","OXMIS","HYPERTENSIVE RENAL DISEASE","diagnostic","135 - hypertension","2014-06-24",0
+"172","401","OXMIS","BENIGN HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"173","401 A","OXMIS","HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"174","401 AC","OXMIS","HYPERTENSION ACCELERATED","diagnostic","135 - hypertension","2014-06-24",0
+"175","401 AR","OXMIS","HYPERTENSION ARTERIOSCLEROTIC","diagnostic","135 - hypertension","2014-06-24",0
+"176","401 AT","OXMIS","HYPERTENSION ATHEROSCLEROTIC","diagnostic","135 - hypertension","2014-06-24",0
+"177","401 B","OXMIS","RETINOPATHY HYPERTENSIVE","diagnostic","135 - hypertension","2014-06-24",0
+"178","401 BE","OXMIS","RETINOPATHY HYPERTENSIVE EXUDATES","diagnostic","135 - hypertension","2014-06-24",0
+"179","401 BH","OXMIS","RETINOPATHY HYPERTENSIVE HAEMORRHAGE","diagnostic","135 - hypertension","2014-06-24",0
+"180","401 BM","OXMIS","HYPERTENSION ON TREATMENT","diagnostic","135 - hypertension","2014-06-24",0
+"181","401 BN","OXMIS","HYPERTENSION BENIGN","diagnostic","135 - hypertension","2014-06-24",0
+"182","401 BP","OXMIS","RETINOPATHY HYPERTENSIVE PAPILLOEDEMA","diagnostic","135 - hypertension","2014-06-24",0
+"183","401 BR","OXMIS","HYPERTENSION RESOLVED","diagnostic","135 - hypertension","2014-06-24",0
+"184","401 C","OXMIS","HYPERTENSION ESSENTIAL","diagnostic","135 - hypertension","2014-06-24",0
+"185","401 DC","OXMIS","HYPERTENSION DIASTOLIC","diagnostic","135 - hypertension","2014-06-24",0
+"186","401 E","OXMIS","HYPERTENSION ARTERIAL","diagnostic","135 - hypertension","2014-06-24",0
+"187","401 EL","OXMIS","HYPERTENSION ARTERIAL SYSTEMIC","diagnostic","135 - hypertension","2014-06-24",0
+"188","401 LB","OXMIS","HYPERTENSION LABILE INTERMITTENT","diagnostic","135 - hypertension","2014-06-24",0
+"189","401 NC","OXMIS","HYPERTENSION NECROTIZING STAGES","diagnostic","135 - hypertension","2014-06-24",0
+"190","401 P","OXMIS","HYPERTENSION ARTERIAL PRIMARY","diagnostic","135 - hypertension","2014-06-24",0
+"191","401 PA","OXMIS","HYPERTENSION PRIMARY","diagnostic","135 - hypertension","2014-06-24",0
+"192","401 R","OXMIS","HYPERTENSION CRISIS","diagnostic","135 - hypertension","2014-06-24",0
+"193","401 S","OXMIS","HYPERTENSION SYSTOLIC","diagnostic","135 - hypertension","2014-06-24",0
+"194","401 T","OXMIS","THROMBOSIS HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"195","402","OXMIS","HYPERTENSIVE HEART DISEASE","diagnostic","135 - hypertension","2014-06-24",0
+"196","402 C","OXMIS","HYPERTENSION CONGESTIVE HEART FAILURE","diagnostic","135 - hypertension","2014-06-24",0
+"197","402 MF","OXMIS","MYOCARDIAL FIBROSIS WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"198","402 VH","OXMIS","VENTRICULAR HYPERTROPHY HYPERTENSIVE","diagnostic","135 - hypertension","2014-06-24",0
+"199","403","OXMIS","RENAL HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"200","403 AA","OXMIS","RENAL HYPERTENSIVE DISEASE","diagnostic","135 - hypertension","2014-06-24",0
+"201","403 AH","OXMIS","RENOVASCULAR HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"202","403 M","OXMIS","NEPHROPATHY MALIGNANT HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"203","403 NC","OXMIS","HYPERTENSION IMPAIRED RENAL FUNCTION","diagnostic","135 - hypertension","2014-06-24",0
+"204","403 NF","OXMIS","HYPERTENSION RENAL INSUFFICIENCY","diagnostic","135 - hypertension","2014-06-24",0
+"205","403 NG","OXMIS","HYPERTENSIVE GLOMERULOSCLEROSIS","diagnostic","135 - hypertension","2014-06-24",0
+"206","403 NH","OXMIS","NEPHROSCLEROSIS HYPERTENSIVE","diagnostic","135 - hypertension","2014-06-24",0
+"207","4100N","OXMIS","MYOCARDIAL INFARCT WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"208","4100NA","OXMIS","MYOCARDIAL INFARCT ACUTE WITH HYPERTENSI","diagnostic","135 - hypertension","2014-06-24",0
+"209","4100T","OXMIS","THROMBOSIS CORONARY WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"210","4120","OXMIS","INSUFFICIENCY CORONARY HYPERTENSIVE","diagnostic","135 - hypertension","2014-06-24",0
+"211","4120A","OXMIS","ISCHAEMIC HEART DISEASE HYPERTENSIVE","diagnostic","135 - hypertension","2014-06-24",0
+"212","4120BD","OXMIS","SYNDROME DRESSLER'S WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"213","4120CA","OXMIS","CORONARY ARTERY DISEASE WITH HYPERTENSIO","diagnostic","135 - hypertension","2014-06-24",0
+"214","4120M","OXMIS","MYOCARDIAL ISCHAEMIA WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"215","4130","OXMIS","ANGINA PECTORIS WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"216","4130E","OXMIS","ANGINA EFFORT WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"217","4140","OXMIS","ASYMPTOMATIC HYPERTENSIVE ISCHAEMIC HEAR","diagnostic","135 - hypertension","2014-06-24",0
+"218","4300","OXMIS","SUBARACHNOID HAEMORRHAGE WITH HYPERTENSI","diagnostic","135 - hypertension","2014-06-24",0
+"219","4310","OXMIS","HAEMORRHAGE INTRACEREBRAL WITH HYPERTENS","diagnostic","135 - hypertension","2014-06-24",0
+"220","4330","OXMIS","CEREBRAL THROMBOSIS WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"221","4340","OXMIS","EMBOLISM CEREBRAL WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"222","4340CR","OXMIS","EMBOLISM INTRACRANIAL WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"223","4360A","OXMIS","CEREBROVASCULAR ACCIDENT WITH HYPERTENSI","diagnostic","135 - hypertension","2014-06-24",0
+"224","4360B","OXMIS","STROKE WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"225","4360D","OXMIS","HYPERTENSIVE ENCEPHALOPATHY","diagnostic","135 - hypertension","2014-06-24",0
+"226","4370","OXMIS","CEREBRAL ISCHAEMIA HYPERTENSIVE","diagnostic","135 - hypertension","2014-06-24",0
+"227","4380","OXMIS","CEREBROVASCULAR DISEASE WITH HYPERTENSIO","diagnostic","135 - hypertension","2014-06-24",0
+"228","4380HP","OXMIS","HEMIPLEGIA WITH HYPERTENSION","diagnostic","135 - hypertension","2014-06-24",0
+"229","4419H","OXMIS","HYPERTENSION ANEURYSM AORTA","diagnostic","135 - hypertension","2014-06-24",0
+"230","791 HP","OXMIS","HYPERTENSIVE HEADACHE","diagnostic","135 - hypertension","2014-06-24",0
+"231","L0010AM","OXMIS","SEEN IN HYPERTENSION CLINIC","diagnostic","135 - hypertension","2014-06-24",0
+"232","L0010EM","OXMIS","REFERRED TO HYPERTENSION CLINIC","diagnostic","135 - hypertension","2014-06-24",0
+"233","Y0601JA","OXMIS","HYPERTENSION CLINIC ATTENDANCE","diagnostic","135 - hypertension","2014-06-24",0
+"234","Y060 JA","OXMIS","HYPERTENSION CLINIC","diagnostic","135 - hypertension","2014-06-24",0
